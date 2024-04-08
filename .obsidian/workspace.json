@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "1eb87637951b0d54",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8dc127e4d0c3fe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8168257b2d679e38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drager og Dæmoner 4. Rollepersonen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0f03bfa94092253",
+    "type": "split",
+    "children": [
+      {
+        "id": "72f9aaa0b75e2247",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6b19b63e1a1900c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59dcba8807a185d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cffd24e772a0d64d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "39da840482571dea",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2fefa870c1c9b3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3886bcf77e8eecab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Drager og Dæmoner 4. Rollepersonen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0291f9662cf327a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Drager og Dæmoner 4. Rollepersonen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4af11c878c3291c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0e4568a5c384e5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Drager og Dæmoner 4. Rollepersonen.md"
+              }
+            }
+          },
+          {
+            "id": "f4fe34ff66be16bb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "43e9c2070614ce54",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "publish:Publish changes...": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "8168257b2d679e38",
+  "lastOpenFiles": [
+    "Drager og Dæmoner 4. Spillelederbogen.md",
+    "Drager og Dæmoner 4. Rollepersonen.md",
+    "Drager og Dæmoner 4. Spillerbogen.md",
+    "Drager og Dæmoner Magi.md",
+    "Primær færdighed.md",
+    "Sekundær færdighed.md",
+    "Untitled Diagram.svg",
+    "Untitled.canvas"
+  ]
+}
