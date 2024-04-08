@@ -19,25 +19,25 @@ Din rolleperson består af syv grundegenskabsværdier, der normalt er et sted me
 • Karisma (KAR)
 • Størrelse (STO)
 
-STY
+###### STY
 STY står for styrke og er dels et mål for din rene muskelstyrke, og dels et mål for, hvor godt du kan udnytte den bedst muligt. STY er en vigtig grundegenskab, når du kæmper, fordi den bestemmer, hvor meget skade du gør i nærkamp. STY bestemmer også, hvor meget udstyr du kan have med dig, og hvor tung rustning du kan håndtere.
 
-FYS
+###### FYS
 FYS står for fysik og er et mål for dit helbred, udholdenhed, modstandsdygtighed over for gifte og sygdomme, hårdførhed mod vejr og vind samt evne til at modstå skader. Jo højere din FYS, jo bedre kondition og jo mere skade kan du modstå. Ligesom STY er dette en vigtig egenskab for krigere.
 
-SMI
+###### SMI
 SMI står for smidighed og er en vigtig grundegenskab for alle professioner. SMI bestemmer en række ting, bla. hurtighed, nøjagtighed, mobilitet, opfattelsesevne, kropskontrol, styrke og evne til præcisionsarbejde. Din værdi i SMI bliver ofte brugt, når du f.eks. vil kaste dig væk fra en faldende kampesten eller en angribende ulv, samt beslutte, hvem der angriber først i en kamp. Kort sagt kan man sige, at en person med lav SMI er ret klodset, ubevægelig og ukoordineret, mens en person med høj SMI er hurtig, adræt, letfodet og fingernem.
 
-INT
+###### INT
 INT står for intelligens og er et mål for, hvor nemt eller svært det er for dig at forstå og lære ting. Denne grundegenskab er meget vigtig for magikere, da de skal kunne huske en række komplekse besværgelser. En intelligent person har også lettere ved at lære nye færdigheder. INT kan også bruges til at se, om rollepersonen finder på noget, som du ikke selv finder på, og omvendt.
 
-PSY
+###### PSY
 PSY står for psykisk kraft og dækker over ret meget; magisk kraft, selvdisciplin, held, vedholdenhed, intuition, opfattelsesevne og modstand mod magi. PSY er en vigtig egenskab for alle slags rollepersoner, men især for magikere, som skal have høj PSY for at kunne bruge besværgelser.
 
-KAR
+###### KAR
 KAR står for karisma og omfatter ting som din personlige charme, karisma, lederegenskaber og til dels udseende. Hvis du har høj KAR, er der større chance for, at du kan overtale folk til at gøre, som du vil, og der er større chance for, at du bliver behandlet venligt af fremmede. En person med lav KAR virker derimod ret trist i andres øjne og kan have svært ved at forhandle eller overtale folk.
 
-STO
+###### STO
 STO står for din størrelse og bruges primært til at beregne hvor meget skade du kan tage, sammen med FYS, samt hvor meget skade du kan gøre, sammen med din STY. STO kan også bruges, når du forsøger at snige dig eller gemme dig, når nogen forsøger at vælte dig, eller når du tilfældigt skal afgøre, om du bliver ramt af flyvende genstande. STO er en kombination af højde og vægt i henhold til nedenstående tabel:
 
 | STO | Vægt i Kg | Højde i cm |
