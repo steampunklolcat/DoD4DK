@@ -87,6 +87,8 @@ I afstandskamp laver du et færdighedsslag for dine våbenfærdigheder, og hvis 
 ##### Søge dækning
 Hvis en person har mistanke om, at han vil blive beskudt med et projektilvåben, og i henhold til initiativrækkefølgen kan reagere før skytten, kan han vælge at søge dækning (f.eks. bag et træ, en sten, et hjørne eller et bord). Hvis der ikke er noget at søge dækning bag, kan han i stedet kaste sig på jorden. En sådan handling finder så sted umiddelbart før angrebet, og den dækningssøgende må ikke foretage sig andet i kamprunden. Hvis han allerede har gjort noget, beslutter SL, om han har tid til at søge dækning. Enhver, der søger dækning eller kaster på jorden, skal slå et normalt SMI-slag. Hvis det lykkes ham at søge dækning, kan han trække differenceværdien fra skyttens CL. Den, der lykkes med at kaste sig på jorden, kan trække -1 fra for hvert felt, der er mellem bueskytten og ham. Hvis slaget mislykkes, fjernes intet. Uanset udfaldet af SMI-slaget, skal skytten foretage sit angreb (medmindre han selv søger dækning for en anden skytte).
 
+==Eksempel: Gweren  med SMI 14 skyder efter en ork. Orken tager dækning bag et træ og slår 6 på sit SMI-slag, Gweren skal så trække 8 (14-6=8) fra sin CL. Gweren indser, at han ikke har nogen stor chance for at ramme, men skal stadig skyde. Orken kan ikke gøre noget i resten af ​​kamprunden.==
+
 #### Kampens forløb
  I kampdiagrammet kan du se, hvilke elementer der indgår, og i hvilken rækkefølge de kommer. Teksten i en tynd ramme angiver et terningresultat eller resultatet af en beregning, og viser hvilken vej man skal gå videre. Teksten i en halvfed ramme viser, at du skal kaste en terning eller lave en beregning og derefter fortsætte lige ned. Ender du i en fed ramme, betyder det, at angrebet er overstået, og at du skal fortsætte med den næste.
 
@@ -138,6 +140,57 @@ Hvordan man læser resultatet
 | Lykkedes    | Perfekt                | Der sker intet.                                                                                                                                   |
 | Perfekt     | Slåes ikke             | Bestem træfområde. Angrebet gør automatisk maksimal skade. Absorberingsevnen for forsvarerens rustning trækkes ikke fra.                          |
 ##### Bestem træfområde
+Om man använder detaljerad strid så skall man bestämma i vilket träffområde anfallet träffar. I en strid med många deltagare är det dock ganska arbetsamt att använda dessa, och i så fall är det enklare att bara använda sig av vanlig strid, därendast totala KP används. Om en attack lyckas och tränger förbi försvararens parering så träffar den en viss kroppsdel på motståndaren. Anfallaren kan sikta på en speciell kroppsdel, men får då -5 på CL på anfallsslaget. Om han inte siktade på en speciell kroppsdel, så bestämmer man slumpmässigt var attacken träffade.
+Man slår 1T20 för att avgöra träffområdet.
+
+Hvis du bruger detaljeret kamp, ​​skal du bestemme, i hvilket træfområde angrebet rammer. I en kamp med mange deltagere kan det være besværligt at bruge disse, og i så fald er det nemmere blot at bruge normal kamp, ​​hvor der kun bruges total KP. Hvis et angreb lykkes og trænger forbi forsvarerens parering, rammer det en bestemt kropsdel ​​på modstanderen. Angriberen kan målrette sit angreb mod en bestemt kropsdel, men det giver -5 på CL til angrebsslaget. Hvis angrebet ikke er målrettet en bestemt kropsdel, så afgøres det tilfældigt hvor angrebet rammer.
+Du slår 1T20 for at bestemme træfområdet.
+
+| Nærkamp | Afstandskamp | Træfområde  |
+| ------- | ------------ | ----------- |
+| 1-2     | 1-3          | Venstre ben |
+| 3-4     | 4-6          | Højre ben   |
+| 5-8     | 7-9          | Mave        |
+| 9-11    | 10-11        | Venstre arm |
+| 12-14   | 12-13        | højre arm   |
+| 15-16   | 14-18        | Brystkasse  |
+| 17-20   | 19-20        | hoved       |
+##### Slå skade
+I Vapentabellen anges vilka skadetärningar som skall användas för varje vapen. I närstrid skall man dessutom lägga till sin skadebonus. Om anfallaren slog ett perfekt slag så gör han automatiskt maximal skada med maximal skadebonus. Om både anfallsslaget och pareringsslaget blev 'lyckade' så har man redan slagit skadan, som minskas med ett.
+
+Våbentabellen angiver hvilke terninger der skal bruges til at slå skade for hvert våben. I nærkamp skal du også tilføje din skadebonus. Hvis angriberen slår et perfekt slag, giver han automatisk maksimal skade med den maksimale skadesbonus. Hvis både angrebsslaget og pareringsslaget lykkedes, så er skaden slået tidligere i forløbet.
+
+##### Fratræk rustningens absorbering
+Hvis forsvareren bærer rustning eller har et naturligt værn, hvor han blev ramt, trækkes dens absorberingsevne fra skaden.
+
+==Eksempel: Gweren stikker en ork i maven med sit korte sværd. Lige på maven har orken kun læderpanser (abs2). Gweren har ingen skadesbonus og ser i våbentabellen, at et kortsværd gør 1T6+1 i skade. Han slår en femmer, så han gør 5+1-2=4KP i skade. Orken hugger tilbage med sin stridsøkse (skade 1T10+2) mod Gweren, som har ringbrynje på (abs 6). Orken har +1T4 i SB. Han slår først 1T10 og får en sekser, og derefter 1T4 og får en treer. Skaden bliver så 6+2+3-3=8KP.==
+
+##### Fratræk eventuel skade
+I detaljeret kamp fratrækkes skade fra både træfområdets KP og fra det samlede antal KP. I normal kamp trækkes skaden kun fra det samlede KP.
+
+==Eksempel: I eksemplet ovenfor gav Gweren 4KP skade til orken. Disse 4 KP trækkes så både fra mavens KP og fra orkens samlede KP.==
+
+#### Skader og heling
++ Hvis rollepersonens totale KP når ned på 2, er CL halveret på alle færdigheder.
++ Hvis rollepersonens totale KP når ned på 1, kan han ikke bruge nogen færdigheder overhovedet. Det eneste han kan gøre er at kravle væk fra kampen, tale anstrengt til nogen osv. Han kan ikke udøve førstehjælp eller kaste besværgelser.
++ Hvis rollepersonens totale KP når 0, bliver han bevidstløs på grund af chok og blodtab. Han forbliver bevidstløs i 1T4 timer. Når han så kommer tilbage til livet, kan han ikke gøre noget som helst, før det samlede KP når en positiv værdi. Hvis antallet af samlede KP falder til en negativ FYS-værdi, dør personen af ​​sine skader.
++ Hvis antallet af KP i et ramt område når 0, mister den tilskadekomne 1 ekstra point fra de samlede KP hver 6. KR på grund af blødninger. Blødningerne fortsætter, indtil nogen lykkedes med førstehjælp eller besværgelsen HELE E1 på den tilskadekomne.
++ Hvis KP for et ben eller en arm når 0, bliver den kropsdel ​​ubrugelig på grund af at smerten er så intens, at man simpelthen ikke kan bruge den. Ved at lykkes med et hårdt PSY-slag, kan den tilskadekomne få lov til at fortsætte kampen med de resterende kropsdele. Hvis et ben er skadet, skal han stå på knæ, hvis en arm er skadet, hænger den slapt ned af siden på kroppen. Husk, at du skal bruge to arme for at bruge færdighederne Førstehjælp, Lægekunst eller kaste besværgelser.
++ Hvis KP på brystkassen eller maven når 0, falder rollepersonen til jorden og er ude af stand til at gøre andet end at kravle væk fra kampen, indtil hjælpen ankommer.
++ Hvis hovedets KP skulle nå 0, vil karakteren straks blive bevidstløs. Han er bevidstløs i 1T100-FYS minutter (men mindst 5 minutter). Når han så kommer tilbage til livet, kan han slet ikke gøre noget, før antallet af KP i hans hoved når en positiv værdi.
++ Hvis karakteren skulle tage dobbelt så meget skade på en kropsdel, som den faktisk kan tåle, er den kropsdel ​​kritisk beskadiget. En kritisk skadet arm eller ben vil man aldrig være i stand til at bruge normalt igen. SL skal rulle 1T10 og henvise til tabellen over kritiske skader nedenfor for at bestemme, hvad der sker med kropsdelen. En kritisk skadet mave eller bryst forårsager øjeblikkelig bevidstløshed, og offeret bløder ihjel i løbet af FYS KR. Det eneste, der kan redde ham, er et vellykket førstehjælp med -10 på CL (stopper blødningen) eller besværgelsen HELE E3 (stopper også blødningen), og rollepersonen klarer et svært FYS-slag, ellers dør han. Et kritisk såret hoved er knust eller skåret af; rollepersonen dør med det samme.
+
+For hver KP tabt i en kropsdel, tager du -2 til CL i alle færdigheder, der kræver, at den kropsdel ​​er intakt. Hvis du har tabt tre KP i sværdarmen, har du således -6 på alle angreb, også med tohåndsvåben og bue (spark påvirkes dog ikke). Hvis du mister halvdelen af ​​din KP i et ben, halveres din flytteformåen. Når man kaster besværgelsen HELE på en rolleperson, bliver den kastet på en bestemt kropsdel. Du heler lige mange point af de samlede KP. Hvis besværgelsen heler flere KP, end der er i den beskadigede kropsdel, heler den valgfri tabte ​KP andre steder i kroppen. Almindelig heling og massagefærdigheden følger det samme mønster. Bemærk, at massage kun kan helbrede skader påført af stumpe våben. Besværgelser, der gør skade, f.eks. LYN, ILD og FROST rammer ikke en bestemt kropsdel, men skaden trækkes kun fra samlet KP. Dette gælder også for elementalers evne til at skade (undtagen Gnomen, som udfører standard nærkampsangreb). Besværgelsen ENERGISTRÅLE rammer dog en kropsdel ​​som et normalt projektil.
+
+Tabel over kritiske arm- og benskader.
+
+| 1T10 | Resultat                                                      |
+| ---- | ------------------------------------------------------------- |
+| 1-3  |                                                               |
+| 4-5  |                                                               |
+| 6-7  |                                                               |
+| 8-9  |                                                               |
+| 10   | Knoglerne i kropsdelen er knust og legemsdelen skal amputeres |
 
 
 
