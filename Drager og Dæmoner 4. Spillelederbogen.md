@@ -184,13 +184,51 @@ For hver KP tabt i en kropsdel, tager du -2 til CL i alle færdigheder, der kræ
 
 Tabel over kritiske arm- og benskader.
 
-| 1T10 | Resultat                                                      |
-| ---- | ------------------------------------------------------------- |
-| 1-3  |                                                               |
-| 4-5  |                                                               |
-| 6-7  |                                                               |
-| 8-9  |                                                               |
-| 10   | Knoglerne i kropsdelen er knust og legemsdelen skal amputeres |
+| 1T10 | Resultat                                                                                                                                                                                                                                                                                                                                |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-3  | Knoglen er brækket. Legemsdelen skal stabiliseres med en splint, men vil kunne bruges i fremtiden, dog med -3 til CL i alle færdigheder, der kræver at denne kropsdel ​​er intakt.                                                                                                                                                      |
+| 4-5  | Grimt sår i albue/knæ. Efter syv ugers sengeleje vil kropsdelen hele, men så dårligt at leddet aldrig vil kunne bøje ordentligt igen. Hånd/Fod fungerer dog som normalt. Skaden reducerer CL med 4 for alle færdigheder, der kræver brug af den beskadigede kropsdel. Er det et ben, der er beskadiget, reduceres flytteformåen til L6. |
+| 6-7  | Nervebanerne er skåret over og kropsdelen vil være lammet resten af ​​livet og til sidst visne som følge af inaktivitet.                                                                                                                                                                                                                |
+| 8-9  | Muskler og sener i kropsdelen er skåret over, men vil til sidst hele sammen. Offeret får -5 til CL i alle de færdigheder, der kræver at denne kropsdel ​​er hel                                                                                                                                                                         |
+| 10   | Knoglerne i kropsdelen er knust og legemsdelen skal amputeres                                                                                                                                                                                                                                                                           |
+##### Infektioner
+Et væsen kan pådrage sig infektioner fra skader, da våben, selv når de er polerede, sjældent er helt rene. Det gælder også dyrs naturlige våben, men ikke stumpe våben og ubevæbnet kamp. Du slår for hver kropsdel ​​efter en kamp. Hvis skaden blev påført af et skarpt våben, er der 1 % risiko for, at såret er inficeret pr. tabt KP. Særligt snavsede og dyrs naturlige våben har en 3% risiko for at inficere et sår pr. tabt KP. En pådraget infektion har 5 % risiko for at udvikle sig til koldbrand inden for 1T4 uger, hvilket resulterer i at den inficerede kropsdel ​​skal amputeres. Koldbrand i hovedet, maven eller brystkassen fører til døden. Når du har en infektion i kroppen, betyder det, at du ikke kan hele nogen KP i den berørte kropsdel. Personen er sløv og feberagtig og ude af stand til at gøre noget aktivt i de 1T4 uger, det tager for infektionen at hele (medmindre det fører til koldbrand). En infektion kan helbredes af en HELE E4, men koldbrand påvirkes ikke af HELE besværgelsen.
+
+##### Amputation
+Efter en amputation er personen ikke i stand til at gøre noget aktivt i de fire uger, det tager for såret at hele. Hans FYS er permanent reduceret med de KP den amputerede kropsdel ​​havde, hvilket også påvirker hans samlede KP.
+
+##### Heling
+Genom kroppens naturliga läkningsprocesser återfår en varelse normalt en (1) förlorad KP per vecka i alla kroppsdelar som är skadade, samt till totala KP. När alla kroppsdelar har läkt ihop helt så återställs även totala KP automatiskt till sitt ursprungliga värde. Detta förutsätter att varelsen enbart tar det lugnt och vilar liggande. I annat fall läks skadorna hälften så fort. Det finns magi och örter som återställer KP snabbare, liksom färdigheten Läkekonst.
+
+Gennem kroppens naturlige helingsprocesser genvinder et væsen normalt et (1) tabt KP om ugen i alle kropsdele, der er beskadiget, samt til de totale KP. Når alle kropsdele er fuldt helede, nulstilles total KP også automatisk til sin oprindelige værdi. Dette forudsætter, at væsenet udelukkende tager det roligt og hviler sig, ellers ville skaden kun hele halvt så hurtigt. Der er magi og urter, der genopretter KP hurtigere, såvel som færdigheden Lægekunst.
+
+#### Kampmoral
+Reglerne for kampmoral styrer, hvordan spillelederpersoner (SLP) opfører sig i kamp. Spillerne har fuld kontrol over deres rollepersoner og skal ikke rette sig efter disse regler undtagen i specifikt angivne situationer (f.eks. når de er påvirket af visse besværgelser). Nogle SLP'er adlyder heller ikke disse regler, men handler altid fornuftigt (f.eks. helte og drager). Væsner, der er uintelligente (har INT 0) eller som er unaturlige (såsom udøde og elementarånder) adlyder heller ikke disse regler, men kæmper altid, indtil de bliver ødelagt.
+
+Man skal slå et moralslag for hver kæmpende i de følgende situationer:
+• Egen leder flygter, falder i kamp, overgiver sig eller bliver taget til fange
+• Halvdelen af ​​egen gruppe er ude af stand til at kæmpe
+• Gruppen eller væsenet bliver overrasket af angrebet
+• Væsenet har mistet mere end halvdelen af ​​sine KP
+• Væsenet bliver angrebet af en person, der har højere STO og går bersærk.
+
+Moralslag slåes med 1T20 med følgende modifikationer:
+
+| Omstændighed                                       | Modifikation  |
+| -------------------------------------------------- | ------------- |
+| Kæmpende på samme side                             | +antallet     |
+| Kæmpende på samme side der er flygtet              | -antallet x 2 |
+| Modstandere                                        | -antallet     |
+| Angrebet fra to eller flere sider samtidig         | -2            |
+| Leder såret                                        | -5            |
+| Leder flygtet, faldet i kamp eller taget til fange | -10           |
+| Væsenet har mistet mere end halvdelen af sine KP   | -4            |
+Om resultatet är lägre än eller lika med den stridandes PSY så innebär detta att han måste fly från platsen så fort som möjligt. Om han inte kan fly (t. ex. är omringad) så släpper han sina vapen och sträcker händerna i luften. Om man slår 20 innebär detta alltid misslyckande. Om man slår 1 innebär detta alltid lyckat slag.
+
+Hvis resultatet er lavere end eller lig med den kæmpendes PSY, betyder det, at han skal flygte fra stedet så hurtigt som muligt. Hvis han ikke kan flygte (f.eks. omringet) smider han sine våben og kaster hænderne i vejret. At slå 20 betyder altid mislykket. Hvis du slår 1, betyder det altid et vellykket slag.
+
+
+
 
 
 

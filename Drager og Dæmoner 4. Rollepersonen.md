@@ -377,7 +377,7 @@ Social stand afgøres af tabellen nedenfor, man får +1 for hver BP man bruger p
 
 #### Startkapital
 
-Startkapital afgøres af tabellen nedenfor, man får +1 for hver BP man bruger på slaget og +1 for hver andet BP man brugte på social stand.
+Startkapital afgøres af tabellen nedenfor, man får +1 for hver BP man bruger på slaget og +1 for hvert andet BP man brugte på social stand.
 
 | 2T6+BP+1/2BP fra social stand | Startkapital |
 |-------------------------------|--------------|
@@ -534,14 +534,14 @@ Ved kategori B færdigheder ændres den sædvanlige FV til en værdi mellem 0 og
 
 Ved de fleste B-færdigheder angives specifikt hvilke evner man har på de forskellige niveauer, for resten anvendes nedenstående tabel.
 
-| B-færdighedsniveau | Kundskaber |
-|--------------------|------------|
-| 0 | Ingen evner overhovedet. |
-| 1 | Ubetydelige kundskaber. Man kan kun det mest grundlæggende og nogle få detaljer. |
-| 2 | Små kundskaber. Man har fortsat store huller i ens viden, men har et godt indblik i de store ting. For detaljerne er man stadig nød til at slå op i bøger. |
-| 3 | Gode kundskaber. Man er velorienteret om de store ting. Mindre kendte detaljer og specielle kundskabsområder er stadig diffuse. |
-| 4 | Meget gode kundskaber. På dette niveau kan man blive lærer i færdigheden. Kun glemte ting ligger uden for ens kundskabsområde. Det man mangler at lære kan kun findes ved omfattende forskning. |
-| 5 | Man er en sand mester indenfor færdigheden og kan svare på alle spørgsmål om emnet. |
+| B-færdighedsniveau | Kundskaber                                                                                                                                                                                      |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0                  | Ingen evner overhovedet.                                                                                                                                                                        |
+| 1                  | Ubetydelige kundskaber. Man kan kun det mest grundlæggende og nogle få detaljer.                                                                                                                |
+| 2                  | Små kundskaber. Man har fortsat store huller i ens viden, men har et godt indblik i de store ting. For detaljerne er man stadig nød til at slå op i bøger.                                      |
+| 3                  | Gode kundskaber. Man er velorienteret om de store ting. Mindre kendte detaljer og specielle kundskabsområder er stadig diffuse.                                                                 |
+| 4                  | Meget gode kundskaber. På dette niveau kan man blive lærer i færdigheden. Kun glemte ting ligger uden for ens kundskabsområde. Det man mangler at lære kan kun findes ved omfattende forskning. |
+| 5                  | Man er en sand mester indenfor færdigheden og kan svare på alle spørgsmål om emnet.                                                                                                             |
 
 ##### Færdighedstabeller
 
