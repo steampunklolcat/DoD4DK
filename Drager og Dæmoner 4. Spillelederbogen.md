@@ -203,6 +203,9 @@ Genom kroppens naturliga läkningsprocesser återfår en varelse normalt en (1) 
 Gennem kroppens naturlige helingsprocesser genvinder et væsen normalt et (1) tabt KP om ugen i alle kropsdele, der er beskadiget, samt til de totale KP. Når alle kropsdele er fuldt helede, nulstilles total KP også automatisk til sin oprindelige værdi. Dette forudsætter, at væsenet udelukkende tager det roligt og hviler sig, ellers ville skaden kun hele halvt så hurtigt. Der er magi og urter, der genopretter KP hurtigere, såvel som færdigheden Lægekunst.
 
 #### Kampmoral
+
+REGLERNE OM KAMPMORAL ER DEFEKTE OG EKSISTERER IKKE I DEN SENERE 5. UDGAVE, MEN ER MEDTAGET HER FOR AT REGELVÆRKET ER KOMPLET.
+
 Reglerne for kampmoral styrer, hvordan spillelederpersoner (SLP) opfører sig i kamp. Spillerne har fuld kontrol over deres rollepersoner og skal ikke rette sig efter disse regler undtagen i specifikt angivne situationer (f.eks. når de er påvirket af visse besværgelser). Nogle SLP'er adlyder heller ikke disse regler, men handler altid fornuftigt (f.eks. helte og drager). Væsner, der er uintelligente (har INT 0) eller som er unaturlige (såsom udøde og elementarånder) adlyder heller ikke disse regler, men kæmper altid, indtil de bliver ødelagt.
 
 Man skal slå et moralslag for hver kæmpende i de følgende situationer:
@@ -227,11 +230,49 @@ Om resultatet är lägre än eller lika med den stridandes PSY så innebär dett
 
 Hvis resultatet er lavere end eller lig med den kæmpendes PSY, betyder det, at han skal flygte fra stedet så hurtigt som muligt. Hvis han ikke kan flygte (f.eks. omringet) smider han sine våben og kaster hænderne i vejret. At slå 20 betyder altid mislykket. Hvis du slår 1, betyder det altid et vellykket slag.
 
+#### Særlige situationer
 
+##### Ubevæbnet kamp
+Hvis du bruger færdigheden slagsmål til at kæmpe, har du to muligheder – at bruge dine næver (skade 1T3 plus SB) eller sparke (skade 1T6 plus SB). Hvis du bruger næverne, tæller dette som at bruge færdigheden To våben (se To handlinger i samme KR nedenfor). Hvis du bliver sparket, må du dog kun udføre én handling (et angreb eller en parering). Du kan altid parere ubevæbnede angreb, uanset om du har et våben/skjold i hånden eller ej. Hvis du selv er ubevæbnet, så bruger du færdigheden Slagsmål (eller Kampkunst, hvis du mestrer teknikken 'Ubevæbnet våbenparering'). Hvis et ubevæbnet angreb mislykkes, men forsvareren formår at parere med et våben (ikke et skjold), tager angriberen 1T2-1 KP skade på den arm, han angreb med. Du kan aldrig parere et våben med kun dine hænder, medmindre du har 'Ubevæbnet våbenparering'-teknikken inkluderet i en kampkunst, som du har FV i. Du kan dog frivilligt vælge at lade en af ​​dine arme tage i mod et angreb lavet med et våben, hvis du er ubevæbnet. Hvis angrebet og pareringen lykkes, tager armen automatisk normal skade. Hvis det mislykkes, sker der ikke noget.
 
+==Eksempel: Antag, at Gandor bliver overrasket i nattens mulm og mørke på sit kroværelse af ​​en lejemorder bevæbnet med en dolk. Morderen har FV10 i en kampkunst, der inkluderer teknikken 'Ubevæbnet våbenparering'. Det lykkes Gandor at få fat i sit sværd, men han har intet i sin venstre hånd. Gandor vinder initiativet i første runde, og hugger med sin dolk. Attentatmanden kan parere med sin frie hånd, for han kan den rigtige teknik. Han hugger derefter tilbage med sin dolk, og Gandor vælger selv at parere med sin frie hånd, frem for at lade lejemorderens dolk ramme ham i brystet. Angrebet lykkes, og Teval tager 2 KP skade på sin venstre arm (skjoldarm).==
 
+##### To handlinger i samme kamprunde
+Nogle gange kan en person udføre to kamphandlinger i samme KR. Det kan være nogen, der kæmper med to våben, en, der bruger en teknik, der tillader to angreb i samme KR, eller en, der kæmper med næverne. Hvis rollepersonen kan udføre to kamphandlinger, har han følgende muligheder:
 
+• At angribe to gange. Det første angreb kommer på et normalt sted i kamprunden, afhængigt af initiativrækkefølgen. Det andet angreb sker altid til sidst i kamprunden. Hvis to personer skal angribe 'sidst', bestemmes deres indbyrdes rækkefølge af initiativrækkefølgen.
+• At parere to gange. Personen kan parere to forskellige angreb eller et angreb to gange (hvis han misser sin første parering, skal han prøve igen med det andet våben). Det skal oplyses inden KR begynder hvilken mulighed man vælger.
+• At lave et angreb og en parering. Pareringen kommer samtidig med modstanderens angreb, og angrebet kommer på den normale plads afhængig af initiativrækkefølgen.
 
+Angreb med Kampkunst-teknikkerne 'Dobbelt slag' og 'Dobbeltspark' forekommer samtidig, på den normale placering afhængigt af initiativrækkefølgen.
+
+##### Fastholdning
+I nogle situationer kan det være en god idé at forsøge at gribe sin modstander og prøve at holde ham fast. Man udfører dette som et normalt angreb med (STO+SMI+STY)/3 som CL. Hvis det lykkes skal angriberen derefter forsøge at overvinde modstanderens STY med sin egen STY på modstandstabellen. Hvis dette lykkes, holder angriberen forsvareren fast. Hver runde, mens dette fortsætter, skal der laves et nyt slag på modstandstabellen. Ingen af ​​dem kan udføre andre handlinger i mellemtiden.
+
+##### Kamp i mørke
+En rolleperson der ikke har mørkesyn, skal reducere sin CL ved angreb og pareringer med -15, men har altid mindst CL 1 . Hvis han kæmper i fakkellys, er modifikationen kun -5. Et væsen med mørkesyn, der kæmper mod varmblodede væsner, har ikke disse modifikationer.
+
+##### Liggende kamp
+En liggende person kan kun kæmpe med dolk, kort sværd, armbrøst og naturlige våben. Hvis du angriber en person der ligger ned i nærkamp, ​​har du +5 på CL.
+
+##### Angreb fra siden
+En person, der angriber en anden person fra siden, får +3 på CL, da forsvareren ikke kan se angriberen særlig godt, dog kan angriberen parere.
+
+##### Angreb bagfra
+En person, der angriber en anden person bagfra, får +7 på CL. Hvis forsvareren er uvidende om angriberen, må han ikke parere angrebet. For at finde ud af om forsvareren opdager angriberen, laver angriberen et Snige sig færdighedsslag. Hvis dette færdighedsslag lykkes, skal forsvareren lave et Opdage Fare færdighedsslag, modificeret af angriberens differenceværdi fra Snige sig. Mislykkes Opdage Fare færdighedsslaget, betyder det, at forsvareren ikke har opdaget angriberen.
+
+==Eksempel: Lejemorderen Terkel vil forsøge at angribe orken Frindel bagfra. Terkel laver et færdighedsslag i Snige sig og lykkes. Differenceværdien bliver 4. Frindels CL i Opdage Fare modificeres således med -4, og dette færdighedsslag mislykkes. Frindel opdager således ikke Terkel, og kan ikke parere angrebet. Hvis Terkel havde undladt at snige sig, eller hvis Frindel havde lykkedes med sit Opdage Fare slag, så ville Frindel have opdaget Terkel og havde kunnet parere hans angreb.==
+
+##### Skade ved fald
+Når en rolleperson falder, tager han 1T6 KP i skade for hver meter han falder efter de første tre meter.
+
+##### Skade af vand
+Ryger du under vand, skal du forsøge at holde vejret, indtil du kan få luft igen. Efter cirka to minutter bliver du bevidstløs og efter yderligere 1T3 minutter dør du af iltmangel. Bliver du reddet inden, lider du ikke nogen skade. Vakuum har samme effekt.
+
+##### Skade fra ild
+Hvis der går ild i en rolleperson, tager han 1T4 skade under den første kamprunde, 2T4 under den anden, 3T4 under den tredje osv. Rustning beskytter, indtil ildskaden trænger igennem absorberingsevnen, derefter går tøjet i brand og så beskytter rustningen på ingen måde. Hvis tøj brænder, kan en person forsøge at kvæle ilden ved at rulle rundt på jorden. Han skal derefter slå et normal SMI-slag. En anden person kan forsøge at hjælpe ved at pakke ham ind i et tæppe eller lignende. For at 'hjælperen' skal lykkes, skal han klare et normalt SMI-slag.
+
+Man kan kaste en fakkel for at antænde noget brændbart, f.eks. et stråtag. For at se om du rammer, slår du et svært SMI-slag og rækkevidden er STY antal felter. Hvis faklen rammer, har den normalt 50 % chance for at antænde det ønskede mål. Hvis faklen ikke antænder målet, betyder det, at den gik ud undervejs, da den ramte eller at den rullede væk, før målet brød i brand. SL skal lade sin sunde fornuft styre præcis hvad der sker. Eksempelvis er der væsentlig større risiko for, at et tørt stråtag begynder at brænde end et fugtigt.
 
 
 
@@ -271,3 +312,6 @@ graph TD
 	id15 --> id19[Perfekt slag]
 	id16 --> id20[Slå på fumletabellen]
 ```
+
+
+### Væsener
