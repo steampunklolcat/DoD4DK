@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-04-12T22:11:26.553Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="_gQn6pj65umo204WGVAt" version="24.1.0" type="device">
+<mxfile host="Electron" modified="2024-04-12T22:25:34.993Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="keGPaYxvcrzHxjzaF5xL" version="24.1.0" type="device">
   <diagram name="Page-1" id="lk3DoYH3_mxued0-EZq-">
-    <mxGraphModel dx="1114" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="605" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,20 +43,55 @@
         <mxCell id="gzzAdNc6FvL0EBI_JPck-17" value="Slå på fumletabellen" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="40" y="270" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gzzAdNc6FvL0EBI_JPck-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.178;exitY=1.067;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-19" target="gzzAdNc6FvL0EBI_JPck-23">
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.194;exitY=1.019;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-19" target="gzzAdNc6FvL0EBI_JPck-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="297" y="320" />
+              <mxPoint x="300" y="301" />
+              <mxPoint x="300" y="320" />
               <mxPoint x="90" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gzzAdNc6FvL0EBI_JPck-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-19" target="gzzAdNc6FvL0EBI_JPck-24">
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-19" target="gzzAdNc6FvL0EBI_JPck-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="300" y="300" />
               <mxPoint x="300" y="320" />
               <mxPoint x="200" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-19" target="gzzAdNc6FvL0EBI_JPck-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="300" />
+              <mxPoint x="300" y="320" />
+              <mxPoint x="310" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-19" target="gzzAdNc6FvL0EBI_JPck-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-19" target="gzzAdNc6FvL0EBI_JPck-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="300" />
+              <mxPoint x="500" y="320" />
+              <mxPoint x="580" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-19" target="gzzAdNc6FvL0EBI_JPck-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="300" />
+              <mxPoint x="500" y="320" />
+              <mxPoint x="650" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -67,16 +102,78 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gzzAdNc6FvL0EBI_JPck-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.188;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-8" target="gzzAdNc6FvL0EBI_JPck-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="250" />
+              <mxPoint x="300" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gzzAdNc6FvL0EBI_JPck-23" value="Fumleslag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="340" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gzzAdNc6FvL0EBI_JPck-24" value="Mislykket slag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-24" value="Mislykket slag" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="150" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-25" target="gzzAdNc6FvL0EBI_JPck-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gzzAdNc6FvL0EBI_JPck-25" value="Lykkedes eller perfekt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-31" value="Slå på fumletabellen" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-33" target="gzzAdNc6FvL0EBI_JPck-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-33" value="Slå skade" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-35" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Er skaden større end angriberens BV, træk 1 fra angriberens BV&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="260" y="480" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-38" value="Fumleslag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-39" value="Mislykket slag" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="460" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-41" target="gzzAdNc6FvL0EBI_JPck-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-41" value="Lykkedes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-42" value="Slå på fumletabellen" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-45" target="gzzAdNc6FvL0EBI_JPck-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-45" value="Slå skade" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-46" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Er skaden større end angriberens BV, træk 1 fra angriberens BV&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="530" y="480" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.415;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-23" target="gzzAdNc6FvL0EBI_JPck-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-50" value="Perfekt" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="620" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.557;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-19" target="gzzAdNc6FvL0EBI_JPck-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="300" />
+              <mxPoint x="500" y="320" />
+              <mxPoint x="419" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gzzAdNc6FvL0EBI_JPck-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.287;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gzzAdNc6FvL0EBI_JPck-38" target="gzzAdNc6FvL0EBI_JPck-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

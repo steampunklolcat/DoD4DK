@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8168257b2d679e38",
+            "id": "3ba849819c10dfc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,15 +168,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8168257b2d679e38",
+  "active": "3ba849819c10dfc6",
   "lastOpenFiles": [
-    "kampdiagram.drawio",
-    "Drager og Dæmoner 4. Spillerbogen.md",
     "Drager og Dæmoner 4. Rollepersonen.md",
     "Drager og Dæmoner 4. Spillelederbogen.md",
+    "Sekundær færdighed.md",
+    "kampdiagram.drawio.svg",
+    "kampdiagram.drawio",
+    "Drager og Dæmoner 4. Spillerbogen.md",
     "Drager og Dæmoner Magi.md",
     "Primær færdighed.md",
-    "Sekundær færdighed.md",
     "Untitled Diagram.svg",
     "Untitled.canvas"
   ]

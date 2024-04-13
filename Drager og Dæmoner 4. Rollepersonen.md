@@ -303,19 +303,27 @@ Er du meget stærk eller stor kan du opnå en skadebonus efter nedenstående tab
 #### Flytteformåen
 Din flytteformåen er hvor mange felter du kan flytte i en kamprunde (KR). Et felt er ca. 1,5m og en kamprunde er ca. 5 sekunder.
 
-| STO + FYS + SMI | Flytteformåen |
-|-----------------|---------------|
-| 0-11 | 7 |
-| 12-20 | 8 |
-| 21-29 | 9 |
-| 30-38 | 10 |
-| 39-47 | 11 |
-| 48-56 | 12 |
-| 57-65 | 13 |
-| 66-74 | 14 |
-| 75-83 | 15 |
-| 84-92 | 16 |
-| For hver yderligere +8 | \+1 |
+| STO + FYS + SMI        | Flytteformåen |
+| ---------------------- | ------------- |
+| 0-11                   | 7             |
+| 12-20                  | 8             |
+| 21-29                  | 9             |
+| 30-38                  | 10            |
+| 39-47                  | 11            |
+| 48-56                  | 12            |
+| 57-65                  | 13            |
+| 66-74                  | 14            |
+| 75-83                  | 15            |
+| 84-92                  | 16            |
+| For hver yderligere +8 | \+1           |
+
+| Race   | Modifikation |
+| ------ | ------------ |
+| And    | -2           |
+| Dværg  | -2           |
+| Elver  | +1           |
+| Hobbit | -2           |
+| Øvrige | ±0           |
 
 #### Særlige Evner
 Du kan vælge at bruge et antal BP på at købe en særlig evne. For hver BP du bruger får du +1 på nedenstående tabel, dog max. +40. Du skal bruge mindst 1 BP for at slå på tabellen og du må kun gøre det en gang. Visse evner passer dårligt sammen med visse professioner, det er op til spiller og spilleleder i fællesskab at finde noget passende.
@@ -672,32 +680,32 @@ I visse tilfælde skal man vurdere hvor godt spillepersonen klarer sig uden at d
 
 Sværhedsgraden er lodret og grundegenskabsværdien er vandret.
 
-| SG | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | osv |
-|----|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|----|----|-----|
-| 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | \+ | \+ | \+ | \+ | \+ | \+ | \+ | \+ | \+ | \+ | \+ |  |
-| 2 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | \+ | \+ | \+ | \+ | \+ | \+ | \+ | \+ | \+ | \+ |  |
-| 3 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | \+ | \+ | \+ | \+ | \+ | \+ | \+ | \+ | \+ |  |
-| 4 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | \+ | \+ | \+ | \+ | \+ | \+ | \+ | \+ |  |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | \+ | \+ | \+ | \+ | \+ | \+ | \+ |  |
-| 6 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | \+ | \+ | \+ | \+ | \+ | \+ |  |
-| 7 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | \+ | \+ | \+ | \+ | \+ |  |
-| 8 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | \+ | \+ | \+ | \+ |  |
-| 9 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | \+ | \+ | \+ |  |
-| 10 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | \+ | \+ |  |
-| 11 | \- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | \+ |  |
-| 12 | \- | \- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |  |
-| 13 | \- | \- | \- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |  |
-| 14 | \- | \- | \- | \- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |  |
-| 15 | \- | \- | \- | \- | \- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |  |
-| 16 | \- | \- | \- | \- | \- | \- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |  |
-| 17 | \- | \- | \- | \- | \- | \- | \- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |  |
-| 18 | \- | \- | \- | \- | \- | \- | \- | \- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |  |
-| 19 | \- | \- | \- | \- | \- | \- | \- | \- | \- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |  |
-| 20 | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |  |
-| 21 | \- | \- | \- | \- | \- | \- | \- | \- | \- | \- |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |  |
-| osv |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \+: Automatisk succes. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| \-: Automatisk fejlet. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| SG  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | osv |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+| 2   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+| 3   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+| 4   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+| 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+| 6   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+| 7   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  |     |
+| 8   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  |     |
+| 9   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  |     |
+| 10  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  |     |
+| 11  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  |     |
+| 12  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  |     |
+| 13  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  |     |
+| 14  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  |     |
+| 15  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     |
+| 16  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  |     |
+| 17  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  |     |
+| 18  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  |     |
+| 19  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |     |
+| 20  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  |     |
+| 21  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |     | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |     |
+| osv |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+\+: Automatisk succes.
+\-: Automatisk fejlet.
 
 #### Primære Færdigheder
 
@@ -760,34 +768,34 @@ Type: Primær
 Grundegenskab: INT
 Denne færdighed bruges for at finde ud af, om en spilleperson hører noget. For at finde ud af det, lægger SL alle de forskellige modifikationer sammen, som har noget at gøre med situationen. Hvis summen af de forskellige modifikationer viser sig at være positiv, så lykkes det automatisk for spillepersonen at opfatte situationen uden at behøve at slå en terning. Hvis den totale sum bliver 0 eller negativ derimod, så må SL slå et modificeret slag for at finde ud af, om spillepersonen hører noget eller ej.
 
-| Afstand til Lyden | Modifikation |  | Lydkilde | Modifikation |
-|-------------------|--------------|--|----------|--------------|
-| 0-2m | \+5 |  | Armbrøstskud | \+2 |
-| 3-5 | \+3 |  | Bueskud | \- |
-| 6-10 | \+1 |  | Knust glas | \+2 |
-| 11-20 | \- |  | Legeme der falder til jorden | \- |
-| 21-50 | \-1 |  | Dør åbnes | \- |
-| 51-75 | \-3 |  | Dør åbnes forsigtigt | \-3 |
-| 76-150 | \-5 |  | Forsigtige skridt | \-1 |
-| 151-250 | \-8 |  | Normale skridt | \- |
-| 251-400 | \-11 |  | Løbende skridt | \+1 |
-| 401-600 | \-15 |  | Sværdkamp | \+5 |
-| 601-1000 | \-20 |  | Knytnæveslag | \+1 |
-| 1001-2000 | \-25 |  | Nys | \+1 |
-| 2001-3000 | \-40 |  | Snorken | \- |
-|  |  |  | Hvisken | \-3 |
-| Lytteren... | Modifikation |  | Tale | \- |
-| Døser | \-7 |  | Højlydt samtale | \+2 |
-| Taler | \-5 |  | Skrig | \+5 |
-| Hvisker | \-2 |  | Eksplosion | \+20 |
-| Skriger | \-10 |  |  |  |
-| Støjer | \-10 |  |  |  |
-| Slås | \-10 |  |  |  |
-|  |  |  |  |  |
-| Andre faktorer | Modifikation |  |  |  |
-| Medvind fra lyden | \+1 <-> +5 |  |  |  |
-| Modvind fra lyden | \-1 <-> -5 |  |  |  |
-| Har man hørt noget, kan man prøve at identificere HVOR og HVAD, lyden kom fra. Dog kræves et nyt slag i færdigheden Lytte (det udføres af SL) for hvert svar, man måtte ønske. SL må tage hensyn til omstændighederne omkring lyden for at kunne afgøre, hvilke modifikationer, der skal sættes ind. |  |  |  |  |
+| Afstand til Lyden | Modifikation |     | Lydkilde                     | Modifikation |
+| ----------------- | ------------ | --- | ---------------------------- | ------------ |
+| 0-2m              | \+5          |     | Armbrøstskud                 | \+2          |
+| 3-5               | \+3          |     | Bueskud                      | \-           |
+| 6-10              | \+1          |     | Knust glas                   | \+2          |
+| 11-20             | \-           |     | Legeme der falder til jorden | \-           |
+| 21-50             | \-1          |     | Dør åbnes                    | \-           |
+| 51-75             | \-3          |     | Dør åbnes forsigtigt         | \-3          |
+| 76-150            | \-5          |     | Forsigtige skridt            | \-1          |
+| 151-250           | \-8          |     | Normale skridt               | \-           |
+| 251-400           | \-11         |     | Løbende skridt               | \+1          |
+| 401-600           | \-15         |     | Sværdkamp                    | \+5          |
+| 601-1000          | \-20         |     | Knytnæveslag                 | \+1          |
+| 1001-2000         | \-25         |     | Nys                          | \+1          |
+| 2001-3000         | \-40         |     | Snorken                      | \-           |
+|                   |              |     | Hvisken                      | \-3          |
+| Lytteren...       | Modifikation |     | Tale                         | \-           |
+| Døser             | \-7          |     | Højlydt samtale              | \+2          |
+| Taler             | \-5          |     | Skrig                        | \+5          |
+| Hvisker           | \-2          |     | Eksplosion                   | \+20         |
+| Skriger           | \-10         |     |                              |              |
+| Støjer            | \-10         |     |                              |              |
+| Slås              | \-10         |     |                              |              |
+|                   |              |     |                              |              |
+| Andre faktorer    | Modifikation |     |                              |              |
+| Medvind fra lyden | \+1 <-> +5   |     |                              |              |
+| Modvind fra lyden | \-1 <-> -5   |     |                              |              |
+Har man hørt noget, kan man prøve at identificere HVOR og HVAD, lyden kom fra. Dog kræves et nyt slag i færdigheden Lytte (det udføres af SL) for hvert svar, man måtte ønske. SL må tage hensyn til omstændighederne omkring lyden for at afgøre, hvilke modifikationer der skal bruges.
 
 ##### Læse/skrive modersmål
 

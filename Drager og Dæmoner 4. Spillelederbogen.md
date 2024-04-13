@@ -274,44 +274,81 @@ Hvis der går ild i en rolleperson, tager han 1T4 skade under den første kampru
 
 Man kan kaste en fakkel for at antænde noget brændbart, f.eks. et stråtag. For at se om du rammer, slår du et svært SMI-slag og rækkevidden er STY antal felter. Hvis faklen rammer, har den normalt 50 % chance for at antænde det ønskede mål. Hvis faklen ikke antænder målet, betyder det, at den gik ud undervejs, da den ramte eller at den rullede væk, før målet brød i brand. SL skal lade sin sunde fornuft styre præcis hvad der sker. Eksempelvis er der væsentlig større risiko for, at et tørt stråtag begynder at brænde end et fugtigt.
 
+#### Kampdiagram
+
+![[kampdiagram.drawio.svg]]
+#### Tabeller
+##### Flytteformåen
+
+| STO + FYS + SMI        | Flytteformåen |
+| ---------------------- | ------------- |
+| 0-11                   | 7             |
+| 12-20                  | 8             |
+| 21-29                  | 9             |
+| 30-38                  | 10            |
+| 39-47                  | 11            |
+| 48-56                  | 12            |
+| 57-65                  | 13            |
+| 66-74                  | 14            |
+| 75-83                  | 15            |
+| 84-92                  | 16            |
+| For hver yderligere +8 | \+1           |
+
+| Race   | Modifikation |
+| ------ | ------------ |
+| And    | -2           |
+| Dværg  | -2           |
+| Elver  | +1           |
+| Hobbit | -2           |
+| Øvrige | ±0           |
+##### Kropspoint
+| Træfområde  | 5-7 | 8-11 | 12-15 | 16-20 | 21-25 | 26-30 | 31-35 | 36-40 | \+5 |
+| ----------- | --- | ---- | ----- | ----- | ----- | ----- | ----- | ----- | --- |
+| Brystkasse  | 4   | 5    | 6     | 7     | 8     | 9     | 10    | 11    | \+1 |
+| Højre ben   | 3   | 4    | 5     | 6     | 7     | 8     | 9     | 10    | \+1 |
+| Venstre ben | 3   | 4    | 5     | 6     | 7     | 8     | 9     | 10    | \+1 |
+| Mave        | 3   | 4    | 5     | 6     | 7     | 8     | 9     | 10    | \+1 |
+| Højre arm   | 2   | 3    | 4     | 5     | 6     | 7     | 8     | 9     | \+1 |
+| Venstre arm | 2   | 3    | 4     | 5     | 6     | 7     | 8     | 9     | \+1 |
+| Hoved       | 3   | 4    | 5     | 6     | 7     | 8     | 9     | 10    | \+1 |
+##### Våbentabeller
 
 
+##### Modstandstabellen
+| SG                     | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | osv |
+| ---------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1                      | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+| 2                      | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+| 3                      | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+| 4                      | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+| 5                      | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+| 6                      | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+| 7                      | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  |     |
+| 8                      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  |     |
+| 9                      | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  |     |
+| 10                     | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  |     |
+| 11                     | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  |     |
+| 12                     | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  |     |
+| 13                     | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  |     |
+| 14                     | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  |     |
+| 15                     | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     |
+| 16                     | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  |     |
+| 17                     | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  |     |
+| 18                     | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  |     |
+| 19                     | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |     |
+| 20                     | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  |     |
+| 21                     | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |     | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |     |
+| osv                    |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+\+: Automatisk succes.
+\-: Automatisk fejlet.
 
-```mermaid
----
-title: Kampdiagram
----
-graph TD
-	style id01 stroke:#333,stroke-width:3px
-	style id02 stroke:#333,stroke-width:3px
-	style id07 stroke:#333,stroke-width:3px
-	style id08 stroke:#333,stroke-width:5px
-	style id10 stroke:#333,stroke-width:5px
-	style id11 stroke:#333,stroke-width:5px
-	style id13 stroke:#333,stroke-width:3px
-	style id14 stroke:#333,stroke-width:3px
-	style id15 stroke:#333,stroke-width:3px
-	style id19 stroke:#333,stroke-width:5px
-	id01[Beregn CL] --> id02[Slå angrebsslag]
-	id02 --> id03[Fumleslag]
-	id02 --> id04[Mislykket slag]
-	id02 --> id05[Lykket slag]
-	id02 --> id06[Perfekt slag]
-	id04 --> id07[Slå pareringsslag, ikke projektilangreb]
-	id05 --> id15[Slå pareringsslag, ikke projektilangreb]
-	id03 --> id08[Slå på fumletabellen]
-	id07 --> id09[Fumleslag]
-	id09 --> id10[Slå på fumletabellen]
-	id07 --> id11[Mislykket slag]
-	id07 --> id12[Lykkedes eller perfekt]
-	id12 --> id13[Slå skade]
-	id13 --> id14["`Er skaden større end angriberens BV, træk 1 fra angriberens BV`"]
-	id15 --> id16[Fumleslag]
-	id15 --> id17[Mislykket slag]
-	id15 --> id18[Lykket slag]
-	id15 --> id19[Perfekt slag]
-	id16 --> id20[Slå på fumletabellen]
-```
-
+| Problem | Sværhedsgrad (SG) |
+|---------|-------------------|
+| Meget let | 1 |
+| Let | 5 |
+| Normalt | 10 |
+| Svært | 15 |
+| Meget svært | 20 |
+| Ekstremt svært | 25 |
 
 ### Væsener
