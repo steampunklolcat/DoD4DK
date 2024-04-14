@@ -312,6 +312,85 @@ Man kan kaste en fakkel for at antænde noget brændbart, f.eks. et stråtag. Fo
 | Venstre arm | 2   | 3    | 4     | 5     | 6     | 7     | 8     | 9     | \+1 |
 | Hoved       | 3   | 4    | 5     | 6     | 7     | 8     | 9     | 10    | \+1 |
 ##### Våbentabeller
+Projektilvåben
+
+| Navn          | Skade  | STY-krav | Rækkevide | Vægt i Kg | Pris i sm |
+| ------------- | ------ | -------- | --------- | --------- | --------- |
+| Lille bue     | 1T4+1  | 9*       | 135m      | 1,5       | 150       |
+| Kortbue       | 1T6+1  | 17*      | 135m      | 2         | 400       |
+| Langbue       | 1T8+1  | 29*      | 180m      | 3         | 700       |
+| Sammensat bue | 1T10+1 | 29*      | 180m      | 3,5       | 1000      |
+| Slynge        | 1T6    | 9*       | 90m       | 0,5       | 40        |
+| Stavslynge    | 1T8    | 21*      | 120m      | 2         | 80        |
+| Pusterør      | Spec.  | 1*       | 20m       | 0,5       | 80        |
+| Let armbrøst  | 2T4+2  | 25*      | 150m      | 5         | 1300      |
+| Tung armbrøst | 2T6+2  | 27*      | 225m      | 6         | 2250      |
+| Arbalest      | 3T6+3  | 31*      | 250m      | 8         | 4000      |
+\*: Alle projektilvåben skal anvendes med to hænder.
+
+Ubevæbnet kampkunst
+
+| Navn          | Skade | STY-krav | Rækkevide |
+| ------------- | ----- | -------- | --------- |
+| Normalt slag  | 1T3   | 1        | 0         |
+| Dobbelt slag  | 1T3   | 1        | 0         |
+| Normalt spark | 1T6   | 1        | 0         |
+| Dobbelt spark | 1T6   | 1        | 1         |
+| Knusende slag | 1T6   | 1        | 0         |
+| Springspark   | 1T8   | 1        | 1         |
+| Cirkelspark   | 1T8   | 1        | 0         |
+\*: Anvend FV i enten Kampkunst eller Slagsmål. 
+
+| Navn      | Skade | STY-krav | Rækkevide  | Vægt i Kg | Pris i sm |
+| --------- | ----- | -------- | ---------- | --------- | --------- |
+| Kastespyd | 1T6+1 | 11*      | STY felter | 1         | 120       |
+| Kastekniv | 1T4+1 | 9*       | STY felter | 0,5       | 100       |
+| Kasteøkse | 1T6+2 | 9*       | STY felter | 3         | 90        |
+\*: Kastevåben kan anvendes med kun en hånd.
+
+| Ladetider     |       |
+| ------------- | ----- |
+| Stavslynge    | 1 KR  |
+| Let armbrøst  | 3 KR  |
+| Tung armbrøst | 6 KR  |
+| Arbalest      | 12 KR |
+| Øvrige        | 0 KR  |
+
+| Navn                    | Skade | STY-krav | Rækkevide | Vægt i Kg | BV  | Pris i sm |
+| ----------------------- | ----- | -------- | --------- | --------- | --- | --------- |
+| Knojern eller stålhætte |       |          |           |           |     |           |
+| Parerdolk               |       |          |           |           |     |           |
+| Dolk                    |       |          |           |           |     |           |
+| Kølle                   |       |          |           |           |     |           |
+| Piggekølle              |       |          |           |           |     |           |
+| Kortsværd               |       |          |           |           |     |           |
+| Kortspyd                |       |          |           |           |     |           |
+| Træstav                 |       |          |           |           |     |           |
+| Ravnenæb                |       |          |           |           |     |           |
+| Krumsabel               |       |          |           |           |     |           |
+| Pisk                    |       |          |           |           |     |           |
+| Håndøkse                |       |          |           |           |     |           |
+| Hjelmknuser             |       |          |           |           |     |           |
+| Stridshammer            |       |          |           |           |     |           |
+| Stridsøkse              |       |          |           |           |     |           |
+| Langspyd                |       |          |           |           |     |           |
+| Bredsværd               |       |          |           |           |     |           |
+| Kampsvøbe               |       |          |           |           |     |           |
+| Morgenstjerne           |       |          |           |           |     |           |
+| Trefork                 |       |          |           |           |     |           |
+| Bastardsværd            |       |          |           |           |     |           |
+| Stor trækølle           |       |          |           |           |     |           |
+| Stor piggekølle         |       |          |           |           |     |           |
+| Skægøkse                |       |          |           |           |     |           |
+| Pike                    |       |          |           |           |     |           |
+| Lanse                   |       |          |           |           |     |           |
+| Partisan                |       |          |           |           |     |           |
+| Spetum                  |       |          |           |           |     |           |
+| Glav                    |       |          |           |           |     |           |
+| Pæløkse                 |       |          |           |           |     |           |
+| Hellebard               |       |          |           |           |     |           |
+| Tohåndsøkse             |       |          |           |           |     |           |
+| Tohåndssværd            |       |          |           |           |     |           |
 
 
 ##### Modstandstabellen
