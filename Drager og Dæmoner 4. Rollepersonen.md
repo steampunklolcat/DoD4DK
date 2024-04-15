@@ -9,10 +9,11 @@ Rollespil er et spil om at skabe en god historie i fællesskab, styret af et reg
 Du får brug for papir, blyant, rollepersonsark og mindst et sæt terninger, bestående af T4, T6, T8, T10, T12 og T20.
 
 #### Rollepersonen
+
 ##### Grundegenskaberne
 Din rolleperson består af syv grundegenskabsværdier, der normalt er et sted mellem 3 og 18, som beskriver hvordan rollepersonen er. Jo højere værdi, jo bedre. De syv grundegenskaber er:
 • Styrke (herefter forkortet som STY)
-• Fysik (PHYS)
+• Fysik (FYS)
 • Smidighed (SMI)
 • Intelligens (INT)
 • Psyke (PSY)
@@ -146,7 +147,6 @@ De forskellige racers modifikationer til grundegenskaberne.
 | Halvork   | \+2 | \+2 | \-1 | \-  | \-  | \-3 | 8-18 (13) |
 | Hobbit    | \-4 | \+3 | \+3 | \-  | \+2 | \-  | 3-6 (5)   |
 | Menneske  | \-  | \-  | \-  | \-  | \-  | \-  | 8-18 (13) |
-|           |     |     |     |     |     |     |           |
 \*Specielle regler gælder for størrelse. Værdierne i tabellen angiver laveste og højeste værdi, samt normalværdien i parentes.
 
 #### Profession
