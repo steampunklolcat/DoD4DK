@@ -405,11 +405,63 @@ Man kan kaste en fakkel for at antænde noget brændbart, f.eks. et stråtag. Fo
 
 ###### Skjold
 
+| Skjoldtype        | Beskytter                           | STY-krav | BV  | Vægt i Kg | Pris i sm |
+| ----------------- | ----------------------------------- | -------- | --- | --------- | --------- |
+| Bucklar/Bule      | Skjoldarm                           | 1        | 9   | 1         | 500       |
+| Rundskjold, lille | Skjoldarm                           | 3        | 9   | 2         | 650       |
+| Rundskjold, stor  | Skjoldarm+mave+brystkasse           | 11       | 11  | 7         | 1000      |
+| Langskjold        | Skjoldarm+brystkasse+skjoldben      | 7        | 11  | 6         | 900       |
+| Skjold, trekantet | Skjoldarm+brystkasse                | 7        | 11  | 6         | 850       |
+| Skjold, romersk   | Skjoldarm+mave+brystkasse           | 7        | 13  | 8         | 1100      |
+| Bueskytteskjold   | Skjoldarm+mave+brystkasse+skjoldben | 18       | 11  | 16        | 900       |
+| Læderovertræk     |                                     | +2       | +2  | +2        | +250      |
+| Metalbeklædning   |                                     | +3       | +3  | +3        | +500      |
 ###### Rustningsvægt
 
+| STO+STY+FYS | Vægtmodifikation |
+| ----------- | ---------------- |
+| 1-8         | -70%             |
+| 9-11        | -60%             |
+| 12-14       | -50%             |
+| 15-17       | -40%             |
+| 18-20       | -30%             |
+| 21-26       | -20%             |
+| 27-33       | -10%             |
+| 34-39       | ±0%              |
+| 40-45       | +10%             |
+| 46-51       | +20%             |
+| 52-57       | +30%             |
+| 58-63       | +40%             |
+| 64-69       | +50%             |
+| +6          | +10%             |
 ###### Hele rustninger
 
+| Type                   | Absorbering | Vægt i Kg | Pris i sm |
+| ---------------------- | ----------- | --------- | --------- |
+| Tykt tøj               | 1           | 7,5       | 275       |
+| Læder                  | 2           | 11        | 1300      |
+| Nittet læder           | 3           | 16        | 2500      |
+| Hærdet læder           | 4           | 13        | 3500      |
+| Ringbrynje             | 5           | 35        | 3700      |
+| Forstærket ringbrynje  | 6           | 51        | 4700      |
+| Hel lameleret rustning | 7           | 28        | 6000      |
+| Hel metalrustning      | 8           | 31        | 6000      |
+| Hel lamineret rustning | 9           | 38        | 5600      |
+
 ###### Rustningstabeller
+
+| Navn (Kropsdel)          | Absorbering | Vægt i Kg | Pris i sm |     | Navn (Kropsdel)                  | Absorbering | Vægt i Kg | Pris i sm |
+| ------------------------ | ----------- | --------- | --------- | --- | -------------------------------- | ----------- | --------- | --------- |
+| **Hjelm** (Hoved)        |             |           |           |     | **Harnisk** (Brystkasse og mave) |             |           |           |
+| Stofhætte                | 1           |           |           |     |                                  |             |           |           |
+| Læderhætte               | 2           |           |           |     |                                  |             |           |           |
+| Nittet læderhætte        | 3           |           |           |     |                                  |             |           |           |
+| Ringbrynjehætte (1)      | 4           |           |           |     |                                  |             |           |           |
+| Åben metalhjelm          | 6           |           |           |     |                                  |             |           |           |
+| Åben metalhjelm m. visir | 6           |           |           |     |                                  |             |           |           |
+| Tøndehjelm (2)           | 8           |           |           |     |                                  |             |           |           |
+| **Armskinner** (Arm) (2) |             |           |           |     |                                  |             |           |           |
+|                          |             |           |           |     |                                  |             |           |           |
 
 ##### Modstandstabellen
 | SG                     | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | osv |

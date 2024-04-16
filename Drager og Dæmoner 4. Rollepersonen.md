@@ -2,6 +2,7 @@
 Dette er en dansk oversættelse og omskrivning af den svenske fjerde udgave af Drager og Dæmoner fra 1991.
 
 ### Introduktion
+
 #### Hvad er rollespil
 Rollespil er et spil om at skabe en god historie i fællesskab, styret af et regelsystem og terninger.
 
