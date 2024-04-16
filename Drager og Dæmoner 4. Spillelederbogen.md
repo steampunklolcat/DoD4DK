@@ -23,13 +23,13 @@ Over en større tidsskala er det ret almindeligt at bevæge sig længere afstand
 Nogle gange opstår der situationer, hvor det er vigtigt at vide i detaljer, hvad der sker, time for time, minut for minut, KR for KR... Der kan det også være relevant at vide, hvor langt en person kan bevæge sig på et minut.
 
 | Bevægelse | Strækning | Kontrolslag+             |
-| --------- | --------- | ------------------------ |
-| Krybe     | 20m       | -                        |
-| Snige     | 50m       | Snige Sig færdighedsslag |
-| Gang      | 100m      | -                        |
-| Løb       | 200m      | -                        |
-| Springe   | 300m      | Let SMI-slag++           |
-| Sprinte   | 400m      | Let SMI-slag+++          |
+| --------- | --------: | ------------------------ |
+| Krybe     |       20m | -                        |
+| Snige     |       50m | Snige Sig færdighedsslag |
+| Gang      |      100m | -                        |
+| Løb       |      200m | -                        |
+| Springe   |      300m | Let SMI-slag++           |
+| Sprinte   |      400m | Let SMI-slag+++          |
 \+: Hvis et færdighedsslag mislykkes, betyder det et mindre uheld, f.eks. at nogen snubler eller træder skævt og forstuver foden.
 \++: Maksimalt FYS/2 minutter. Ingen rustning eller oppakning.
 \+++: Maksimalt FYS/4 minutter. Der kræves passende påklædning. Ingen rustning eller oppakning.
@@ -147,14 +147,14 @@ Hvis du bruger detaljeret kamp, ​​skal du bestemme, i hvilket træfområde a
 Du slår 1T20 for at bestemme træfområdet.
 
 | Nærkamp | Afstandskamp | Træfområde  |
-| ------- | ------------ | ----------- |
-| 1-2     | 1-3          | Venstre ben |
-| 3-4     | 4-6          | Højre ben   |
-| 5-8     | 7-9          | Mave        |
-| 9-11    | 10-11        | Venstre arm |
-| 12-14   | 12-13        | højre arm   |
-| 15-16   | 14-18        | Brystkasse  |
-| 17-20   | 19-20        | hoved       |
+| :-----: | :----------: | ----------- |
+|   1-2   |     1-3      | Venstre ben |
+|   3-4   |     4-6      | Højre ben   |
+|   5-8   |     7-9      | Mave        |
+|  9-11   |    10-11     | Venstre arm |
+|  12-14  |    12-13     | højre arm   |
+|  15-16  |    14-18     | Brystkasse  |
+|  17-20  |    19-20     | hoved       |
 ##### Slå skade
 I Vapentabellen anges vilka skadetärningar som skall användas för varje vapen. I närstrid skall man dessutom lägga till sin skadebonus. Om anfallaren slog ett perfekt slag så gör han automatiskt maximal skada med maximal skadebonus. Om både anfallsslaget och pareringsslaget blev 'lyckade' så har man redan slagit skadan, som minskas med ett.
 
@@ -185,12 +185,12 @@ For hver KP tabt i en kropsdel, tager du -2 til CL i alle færdigheder, der kræ
 Tabel over kritiske arm- og benskader.
 
 | 1T10 | Resultat                                                                                                                                                                                                                                                                                                                                |
-| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :--: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1-3  | Knoglen er brækket. Legemsdelen skal stabiliseres med en splint, men vil kunne bruges i fremtiden, dog med -3 til CL i alle færdigheder, der kræver at denne kropsdel ​​er intakt.                                                                                                                                                      |
 | 4-5  | Grimt sår i albue/knæ. Efter syv ugers sengeleje vil kropsdelen hele, men så dårligt at leddet aldrig vil kunne bøje ordentligt igen. Hånd/Fod fungerer dog som normalt. Skaden reducerer CL med 4 for alle færdigheder, der kræver brug af den beskadigede kropsdel. Er det et ben, der er beskadiget, reduceres flytteformåen til L6. |
 | 6-7  | Nervebanerne er skåret over og kropsdelen vil være lammet resten af ​​livet og til sidst visne som følge af inaktivitet.                                                                                                                                                                                                                |
 | 8-9  | Muskler og sener i kropsdelen er skåret over, men vil til sidst hele sammen. Offeret får -5 til CL i alle de færdigheder, der kræver at denne kropsdel ​​er hel                                                                                                                                                                         |
-| 10   | Knoglerne i kropsdelen er knust og legemsdelen skal amputeres                                                                                                                                                                                                                                                                           |
+|  10  | Knoglerne i kropsdelen er knust og legemsdelen skal amputeres                                                                                                                                                                                                                                                                           |
 ##### Infektioner
 Et væsen kan pådrage sig infektioner fra skader, da våben, selv når de er polerede, sjældent er helt rene. Det gælder også dyrs naturlige våben, men ikke stumpe våben og ubevæbnet kamp. Du slår for hver kropsdel ​​efter en kamp. Hvis skaden blev påført af et skarpt våben, er der 1 % risiko for, at såret er inficeret pr. tabt KP. Særligt snavsede og dyrs naturlige våben har en 3% risiko for at inficere et sår pr. tabt KP. En pådraget infektion har 5 % risiko for at udvikle sig til koldbrand inden for 1T4 uger, hvilket resulterer i at den inficerede kropsdel ​​skal amputeres. Koldbrand i hovedet, maven eller brystkassen fører til døden. Når du har en infektion i kroppen, betyder det, at du ikke kan hele nogen KP i den berørte kropsdel. Personen er sløv og feberagtig og ude af stand til at gøre noget aktivt i de 1T4 uger, det tager for infektionen at hele (medmindre det fører til koldbrand). En infektion kan helbredes af en HELE E4, men koldbrand påvirkes ikke af HELE besværgelsen.
 
@@ -280,53 +280,53 @@ Man kan kaste en fakkel for at antænde noget brændbart, f.eks. et stråtag. Fo
 #### Tabeller
 ##### Flytteformåen
 
-| STO + FYS + SMI        | Flytteformåen |
-| ---------------------- | ------------- |
-| 0-11                   | 7             |
-| 12-20                  | 8             |
-| 21-29                  | 9             |
-| 30-38                  | 10            |
-| 39-47                  | 11            |
-| 48-56                  | 12            |
-| 57-65                  | 13            |
-| 66-74                  | 14            |
-| 75-83                  | 15            |
-| 84-92                  | 16            |
-| For hver yderligere +8 | \+1           |
+|    STO + FYS + SMI     | Flytteformåen |
+| :--------------------: | :-----------: |
+|          0-11          |       7       |
+|         12-20          |       8       |
+|         21-29          |       9       |
+|         30-38          |      10       |
+|         39-47          |      11       |
+|         48-56          |      12       |
+|         57-65          |      13       |
+|         66-74          |      14       |
+|         75-83          |      15       |
+|         84-92          |      16       |
+| For hver yderligere +8 |      \+1      |
 
 | Race   | Modifikation |
-| ------ | ------------ |
-| And    | -2           |
-| Dværg  | -2           |
-| Elver  | +1           |
-| Hobbit | -2           |
-| Øvrige | ±0           |
+| ------ | :----------: |
+| And    |      -2      |
+| Dværg  |      -2      |
+| Elver  |      +1      |
+| Hobbit |      -2      |
+| Øvrige |      ±0      |
 ##### Kropspoint
 | Træfområde  | 5-7 | 8-11 | 12-15 | 16-20 | 21-25 | 26-30 | 31-35 | 36-40 | \+5 |
-| ----------- | --- | ---- | ----- | ----- | ----- | ----- | ----- | ----- | --- |
-| Brystkasse  | 4   | 5    | 6     | 7     | 8     | 9     | 10    | 11    | \+1 |
-| Højre ben   | 3   | 4    | 5     | 6     | 7     | 8     | 9     | 10    | \+1 |
-| Venstre ben | 3   | 4    | 5     | 6     | 7     | 8     | 9     | 10    | \+1 |
-| Mave        | 3   | 4    | 5     | 6     | 7     | 8     | 9     | 10    | \+1 |
-| Højre arm   | 2   | 3    | 4     | 5     | 6     | 7     | 8     | 9     | \+1 |
-| Venstre arm | 2   | 3    | 4     | 5     | 6     | 7     | 8     | 9     | \+1 |
-| Hoved       | 3   | 4    | 5     | 6     | 7     | 8     | 9     | 10    | \+1 |
+| ----------- | :-: | :--: | :---: | :---: | :---: | :---: | :---: | :---: | :-: |
+| Brystkasse  |  4  |  5   |   6   |   7   |   8   |   9   |  10   |  11   | \+1 |
+| Højre ben   |  3  |  4   |   5   |   6   |   7   |   8   |   9   |  10   | \+1 |
+| Venstre ben |  3  |  4   |   5   |   6   |   7   |   8   |   9   |  10   | \+1 |
+| Mave        |  3  |  4   |   5   |   6   |   7   |   8   |   9   |  10   | \+1 |
+| Højre arm   |  2  |  3   |   4   |   5   |   6   |   7   |   8   |   9   | \+1 |
+| Venstre arm |  2  |  3   |   4   |   5   |   6   |   7   |   8   |   9   | \+1 |
+| Hoved       |  3  |  4   |   5   |   6   |   7   |   8   |   9   |  10   | \+1 |
 ##### Våbentabeller
 
 ###### Projektilvåben
 
 | Navn          | Skade  | STY-krav | Rækkevide | Vægt i Kg | Pris i sm |
-| ------------- | ------ | -------- | --------- | --------- | --------- |
-| Lille bue     | 1T4+1  | 9*       | 135m      | 1,5       | 150       |
-| Kortbue       | 1T6+1  | 17*      | 135m      | 2         | 400       |
-| Langbue       | 1T8+1  | 29*      | 180m      | 3         | 700       |
-| Sammensat bue | 1T10+1 | 29*      | 180m      | 3,5       | 1000      |
-| Slynge        | 1T6    | 9*       | 90m       | 0,5       | 40        |
-| Stavslynge    | 1T8    | 21*      | 120m      | 2         | 80        |
-| Pusterør      | Spec.  | 1*       | 20m       | 0,5       | 80        |
-| Let armbrøst  | 2T4+2  | 25*      | 150m      | 5         | 1300      |
-| Tung armbrøst | 2T6+2  | 27*      | 225m      | 6         | 2250      |
-| Arbalest      | 3T6+3  | 31*      | 250m      | 8         | 4000      |
+| ------------- | ------ | -------- | --------: | --------: | --------: |
+| Lille bue     | 1T4+1  | 9*       |      135m |       1,5 |       150 |
+| Kortbue       | 1T6+1  | 17*      |      135m |         2 |       400 |
+| Langbue       | 1T8+1  | 29*      |      180m |         3 |       700 |
+| Sammensat bue | 1T10+1 | 29*      |      180m |       3,5 |      1000 |
+| Slynge        | 1T6    | 9*       |       90m |       0,5 |        40 |
+| Stavslynge    | 1T8    | 21*      |      120m |         2 |        80 |
+| Pusterør      | Spec.  | 1*       |       20m |       0,5 |        80 |
+| Let armbrøst  | 2T4+2  | 25*      |      150m |         5 |      1300 |
+| Tung armbrøst | 2T6+2  | 27*      |      225m |         6 |      2250 |
+| Arbalest      | 3T6+3  | 31*      |      250m |         8 |      4000 |
 \*: Alle projektilvåben skal anvendes med to hænder.
 
 ###### Ubevæbnet kampkunst
@@ -345,16 +345,16 @@ Man kan kaste en fakkel for at antænde noget brændbart, f.eks. et stråtag. Fo
 ###### Kastevåben
 
 | Navn      | Skade | STY-krav | Rækkevide  | Vægt i Kg | Pris i sm |
-| --------- | ----- | -------- | ---------- | --------- | --------- |
-| Kastespyd | 1T6+1 | 11*      | STY felter | 1         | 120       |
-| Kastekniv | 1T4+1 | 9*       | STY felter | 0,5       | 100       |
-| Kasteøkse | 1T6+2 | 9*       | STY felter | 3         | 90        |
+| --------- | ----- | -------- | ---------- | --------: | --------: |
+| Kastespyd | 1T6+1 | 11*      | STY felter |         1 |       120 |
+| Kastekniv | 1T4+1 | 9*       | STY felter |       0,5 |       100 |
+| Kasteøkse | 1T6+2 | 9*       | STY felter |         3 |        90 |
 \*: Kastevåben kan anvendes med kun en hånd.
 
 ###### Ladetider
 
 | Ladetider     |       |
-| ------------- | ----- |
+| ------------- | :---: |
 | Stavslynge    | 1 KR  |
 | Let armbrøst  | 3 KR  |
 | Tung armbrøst | 6 KR  |
@@ -364,130 +364,130 @@ Man kan kaste en fakkel for at antænde noget brændbart, f.eks. et stråtag. Fo
 ###### Nærkampsvåben
 
 | Navn                    | Skade  | STY-krav | Rækkevide | Vægt i Kg | BV  | Pris i sm |
-| ----------------------- | ------ | -------- | --------- | --------- | --- | --------- |
-| Knojern eller stålhætte | +1     | 1        | 0         | 0,5       | -   | 20        |
-| Parerdolk               | 1T4+1  | 1        | 0         | 0,5       | 13  | 80        |
-| Dolk                    | 1T4+1  | 1        | 0         | 0,5       | 9   | 70        |
-| Kølle                   | 1T6    | 5        | 0         | 1         | 7   | 20        |
-| Piggekølle              | 1T6+1  | 5        | 0         | 1         | 7   | 30        |
-| Kortsværd               | 1T6+1  | 7        | 0         | 2         | 15  | 400       |
-| Kortspyd (2)            | 1T6    | 7        | 1         | 2         | 11  | 90        |
-| Træstav                 | 1T6    | 7*       | 0         | 2         | 7   | 100       |
-| Hammer                  | 1T8    | 7        | 0         | 2         | 15  | 600       |
-| Krumsabel               | 1T8+2  | 9        | 0         | 3         | 15  | 650       |
-| Pisk                    | 1T2    | 9        | 1         | 3         | 3   | 120       |
-| Håndøkse                | 1T6+1  | 9        | 0         | 3         | 11  | 60        |
-| Stridskølle             | 1T8+1  | 11       | 0         | 4         | 15  | 700       |
-| Stridshammer            | 1T6+2  | 11       | 0         | 4         | 15  | 850       |
-| Stridsøkse              | 1T8+2  | 11       | 0         | 4         | 11  | 450       |
-| Langspyd (2)            | 1T10   | 11*      | 2         | 4         | 11  | 300       |
-| Bredsværd               | 1T8+1  | 13       | 0         | 4,5       | 15  | 1000      |
-| Skorpionsvøbe           | 1T10   | 13       | 0         | 4,5       | 11  | 1250      |
-| Morgenstjerne           | 1T8+2  | 13       | 0         | 4,5       | 11  | 1500      |
-| Trefork                 | 3T6-2  | 15       | 1         | 5         | 11  | 1000      |
-| Bastardsværd            | 1T10+1 | 17       | 0         | 5,5       | 15  | 2500      |
-| Stor trækølle           | 2T4    | 21       | 0         | 6         | 11  | 50        |
-| Stor piggekølle         | 2T4+1  | 21       | 0         | 6         | 11  | 70        |
-| Kampplejl               | 1T10+1 | 25       | 0         | 6,5       | 11  | 1500      |
-| Skægøkse                | 2T8+1  | 25       | 3         | 6,5       | 11  | 1100      |
-| Pike                    | 2T8-1  | 25*      | 2         | 6,5       | 11  | 1900      |
-| Lanse                   | 2T8    | 25*      | 1         | 6,5       | 15  | 650       |
-| Partisan (2)            | 2T8+2  | 27*      | 1         | 7         | 11  | 1400      |
-| Spetum (2)              | 2T8+1  | 27*      | 1         | 7         | 11  | 1250      |
-| Glav (2)                | 2T10   | 27*      | 1         | 7         | 11  | 1600      |
-| Stavøkse (2)            | 3T6    | 29*      | 1         | 7,5       | 11  | 1150      |
-| Hellebard (2)           | 3T6+1  | 29*      | 1         | 7,5       | 11  | 1900      |
-| Tohåndsøkse             | 2T10+1 | 31*      | 1         | 8         | 11  | 1900      |
-| Tohåndssværd            | 2T10+2 | 31*      | 1         | 8         | 15  | 3500      |
+| ----------------------- | :----: | -------: | --------: | --------: | :-: | --------: |
+| Knojern eller stålhætte |   +1   |        1 |         0 |       0,5 |  -  |        20 |
+| Parerdolk               | 1T4+1  |        1 |         0 |       0,5 | 13  |        80 |
+| Dolk                    | 1T4+1  |        1 |         0 |       0,5 |  9  |        70 |
+| Kølle                   |  1T6   |        5 |         0 |         1 |  7  |        20 |
+| Piggekølle              | 1T6+1  |        5 |         0 |         1 |  7  |        30 |
+| Kortsværd               | 1T6+1  |        7 |         0 |         2 | 15  |       400 |
+| Kortspyd (2)            |  1T6   |        7 |         1 |         2 | 11  |        90 |
+| Træstav                 |  1T6   |       7* |         0 |         2 |  7  |       100 |
+| Hammer                  |  1T8   |        7 |         0 |         2 | 15  |       600 |
+| Krumsabel               | 1T8+2  |        9 |         0 |         3 | 15  |       650 |
+| Pisk                    |  1T2   |        9 |         1 |         3 |  3  |       120 |
+| Håndøkse                | 1T6+1  |        9 |         0 |         3 | 11  |        60 |
+| Stridskølle             | 1T8+1  |       11 |         0 |         4 | 15  |       700 |
+| Stridshammer            | 1T6+2  |       11 |         0 |         4 | 15  |       850 |
+| Stridsøkse              | 1T8+2  |       11 |         0 |         4 | 11  |       450 |
+| Langspyd (2)            |  1T10  |      11* |         2 |         4 | 11  |       300 |
+| Bredsværd               | 1T8+1  |       13 |         0 |       4,5 | 15  |      1000 |
+| Skorpionsvøbe           |  1T10  |       13 |         0 |       4,5 | 11  |      1250 |
+| Morgenstjerne           | 1T8+2  |       13 |         0 |       4,5 | 11  |      1500 |
+| Trefork                 | 3T6-2  |       15 |         1 |         5 | 11  |      1000 |
+| Bastardsværd            | 1T10+1 |       17 |         0 |       5,5 | 15  |      2500 |
+| Stor trækølle           |  2T4   |       21 |         0 |         6 | 11  |        50 |
+| Stor piggekølle         | 2T4+1  |       21 |         0 |         6 | 11  |        70 |
+| Kampplejl               | 1T10+1 |       25 |         0 |       6,5 | 11  |      1500 |
+| Skægøkse                | 2T8+1  |       25 |         3 |       6,5 | 11  |      1100 |
+| Pike                    | 2T8-1  |      25* |         2 |       6,5 | 11  |      1900 |
+| Lanse                   |  2T8   |      25* |         1 |       6,5 | 15  |       650 |
+| Partisan (2)            | 2T8+2  |      27* |         1 |         7 | 11  |      1400 |
+| Spetum (2)              | 2T8+1  |      27* |         1 |         7 | 11  |      1250 |
+| Glav (2)                |  2T10  |      27* |         1 |         7 | 11  |      1600 |
+| Stavøkse (2)            |  3T6   |      29* |         1 |       7,5 | 11  |      1150 |
+| Hellebard (2)           | 3T6+1  |      29* |         1 |       7,5 | 11  |      1900 |
+| Tohåndsøkse             | 2T10+1 |      31* |         1 |         8 | 11  |      1900 |
+| Tohåndssværd            | 2T10+2 |      31* |         1 |         8 | 15  |      3500 |
 \*: Er et tohåndsvåben, der aldrig kan anvendes med kun en hånd.
 1: Du kan anvende en turnerlanse med en hånd hvis du er ridende og kiler lansen fast under armen.
 2: Kan anvendes som trævstav, STY-kravet ændres ikke.
 
 ###### Skjold
 
-| Skjoldtype        | Beskytter                           | STY-krav | BV  | Vægt i Kg | Pris i sm |
-| ----------------- | ----------------------------------- | -------- | --- | --------- | --------- |
-| Bucklar/Bule      | Skjoldarm                           | 1        | 9   | 1         | 500       |
-| Rundskjold, lille | Skjoldarm                           | 3        | 9   | 2         | 650       |
-| Rundskjold, stor  | Skjoldarm+mave+brystkasse           | 11       | 11  | 7         | 1000      |
-| Langskjold        | Skjoldarm+brystkasse+skjoldben      | 7        | 11  | 6         | 900       |
-| Skjold, trekantet | Skjoldarm+brystkasse                | 7        | 11  | 6         | 850       |
-| Skjold, romersk   | Skjoldarm+mave+brystkasse           | 7        | 13  | 8         | 1100      |
-| Bueskytteskjold   | Skjoldarm+mave+brystkasse+skjoldben | 18       | 11  | 16        | 900       |
-| Læderovertræk     |                                     | +2       | +2  | +2        | +250      |
-| Metalbeklædning   |                                     | +3       | +3  | +3        | +500      |
+| Skjoldtype        | Beskytter                           | STY-krav |  BV | Vægt i Kg | Pris i sm |
+| ----------------- | ----------------------------------- | -------: | --: | --------: | --------: |
+| Bucklar/Bule      | Skjoldarm                           |        1 |   9 |         1 |       500 |
+| Rundskjold, lille | Skjoldarm                           |        3 |   9 |         2 |       650 |
+| Rundskjold, stor  | Skjoldarm+mave+brystkasse           |       11 |  11 |         7 |      1000 |
+| Langskjold        | Skjoldarm+brystkasse+skjoldben      |        7 |  11 |         6 |       900 |
+| Skjold, trekantet | Skjoldarm+brystkasse                |        7 |  11 |         6 |       850 |
+| Skjold, romersk   | Skjoldarm+mave+brystkasse           |        7 |  13 |         8 |      1100 |
+| Bueskytteskjold   | Skjoldarm+mave+brystkasse+skjoldben |       18 |  11 |        16 |       900 |
+| Læderovertræk     |                                     |       +2 |  +2 |        +2 |      +250 |
+| Metalbeklædning   |                                     |       +3 |  +3 |        +3 |      +500 |
 ###### Rustningsvægt
 
 | STO+STY+FYS | Vægtmodifikation |
-| ----------- | ---------------- |
-| 1-8         | -70%             |
-| 9-11        | -60%             |
-| 12-14       | -50%             |
-| 15-17       | -40%             |
-| 18-20       | -30%             |
-| 21-26       | -20%             |
-| 27-33       | -10%             |
-| 34-39       | ±0%              |
-| 40-45       | +10%             |
-| 46-51       | +20%             |
-| 52-57       | +30%             |
-| 58-63       | +40%             |
-| 64-69       | +50%             |
-| +6          | +10%             |
+| ----------: | ---------------: |
+|         1-8 |             -70% |
+|        9-11 |             -60% |
+|       12-14 |             -50% |
+|       15-17 |             -40% |
+|       18-20 |             -30% |
+|       21-26 |             -20% |
+|       27-33 |             -10% |
+|       34-39 |              ±0% |
+|       40-45 |             +10% |
+|       46-51 |             +20% |
+|       52-57 |             +30% |
+|       58-63 |             +40% |
+|       64-69 |             +50% |
+|          +6 |             +10% |
 ###### Hele rustninger
 
 | Type                   | Absorbering | Vægt i Kg | Pris i sm |
-| ---------------------- | ----------- | --------- | --------- |
-| Tykt tøj               | 1           | 7,5       | 275       |
-| Læder                  | 2           | 11        | 1300      |
-| Nittet læder           | 3           | 16        | 2500      |
-| Hærdet læder           | 4           | 13        | 3500      |
-| Ringbrynje             | 5           | 35        | 3700      |
-| Forstærket ringbrynje  | 6           | 51        | 4700      |
-| Hel lameleret rustning | 7           | 28        | 6000      |
-| Hel metalrustning      | 8           | 31        | 6000      |
-| Hel lamineret rustning | 9           | 38        | 5600      |
+| ---------------------- | ----------: | --------: | --------: |
+| Tykt tøj               |           1 |       7,5 |       275 |
+| Læder                  |           2 |        11 |      1300 |
+| Nittet læder           |           3 |        16 |      2500 |
+| Hærdet læder           |           4 |        13 |      3500 |
+| Ringbrynje             |           5 |        35 |      3700 |
+| Forstærket ringbrynje  |           6 |        51 |      4700 |
+| Hel lameleret rustning |           7 |        28 |      6000 |
+| Hel metalrustning      |           8 |        31 |      6000 |
+| Hel lamineret rustning |           9 |        38 |      5600 |
 
 ###### Rustningstabeller
 
 | Navn (Kropsdel)          | Absorbering | Vægt i Kg | Pris i sm |     | Navn (Kropsdel)                  | Absorbering | Vægt i Kg | Pris i sm |
 | ------------------------ | ----------- | --------- | --------- | --- | -------------------------------- | ----------- | --------- | --------- |
 | **Hjelm** (Hoved)        |             |           |           |     | **Harnisk** (Brystkasse og mave) |             |           |           |
-| Stofhætte                | 1           |           |           |     |                                  |             |           |           |
-| Læderhætte               | 2           |           |           |     |                                  |             |           |           |
-| Nittet læderhætte        | 3           |           |           |     |                                  |             |           |           |
-| Ringbrynjehætte (1)      | 4           |           |           |     |                                  |             |           |           |
-| Åben metalhjelm          | 6           |           |           |     |                                  |             |           |           |
-| Åben metalhjelm m. visir | 6           |           |           |     |                                  |             |           |           |
-| Tøndehjelm (2)           | 8           |           |           |     |                                  |             |           |           |
+| Stofhætte                | 1           | 0,5       |           |     |                                  |             |           |           |
+| Læderhætte               | 2           | 0,5       |           |     |                                  |             |           |           |
+| Nittet læderhætte        | 3           | 1         |           |     |                                  |             |           |           |
+| Ringbrynjehætte (1)      | 4           | 4         |           |     |                                  |             |           |           |
+| Åben metalhjelm          | 6           | 4         |           |     |                                  |             |           |           |
+| Åben metalhjelm m. visir | 6           | 6         |           |     |                                  |             |           |           |
+| Tøndehjelm (2)           | 8           | 6         |           |     |                                  |             |           |           |
 | **Armskinner** (Arm) (2) |             |           |           |     |                                  |             |           |           |
 |                          |             |           |           |     |                                  |             |           |           |
 
 ##### Modstandstabellen
-| SG                     | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | osv |
-| ---------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1                      | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
-| 2                      | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
-| 3                      | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
-| 4                      | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
-| 5                      | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
-| 6                      | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  |     |
-| 7                      | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  |     |
-| 8                      | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  |     |
-| 9                      | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  |     |
-| 10                     | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  |     |
-| 11                     | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  |     |
-| 12                     | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  |     |
-| 13                     | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  |     |
-| 14                     | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  |     |
-| 15                     | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     |
-| 16                     | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  |     |
-| 17                     | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  |     |
-| 18                     | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  |     |
-| 19                     | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |     |
-| 20                     | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  |     |
-| 21                     | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |     | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |     |
-| osv                    |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| SG  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | osv |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  1  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+|  2  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+|  3  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+|  4  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+|  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+|  6  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+|  7  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  |     |
+|  8  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  |     |
+|  9  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  |     |
+| 10  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  |     |
+| 11  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  |     |
+| 12  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  |     |
+| 13  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  |     |
+| 14  | \-  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  |     |
+| 15  | \-  | \-  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     |
+| 16  | \-  | \-  | \-  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  |     |
+| 17  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  |     |
+| 18  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  |     |
+| 19  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  |     |
+| 20  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  |     |
+| 21  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |     |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  |     |
+| osv |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 \+: Automatisk succes.
 \-: Automatisk fejlet.
 

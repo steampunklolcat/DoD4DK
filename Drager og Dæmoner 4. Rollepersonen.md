@@ -43,28 +43,28 @@ KAR står for karisma og omfatter ting som din personlige charme, karisma, leder
 STO står for din størrelse og bruges primært til at beregne hvor meget skade du kan tage, sammen med FYS, samt hvor meget skade du kan gøre, sammen med din STY. STO kan også bruges, når du forsøger at snige dig eller gemme dig, når nogen forsøger at vælte dig, eller når du tilfældigt skal afgøre, om du bliver ramt af flyvende genstande. STO er en kombination af højde og vægt i henhold til nedenstående tabel:
 
 | STO | Vægt i Kg | Højde i cm |
-| --- | --------- | ---------- |
-| 1   | 1-9       | 10-60      |
-| 2   | 10-18     | 40-110     |
-| 3   | 19-27     | 60-120     |
-| 4   | 28-36     | 75-130     |
-| 5   | 37-45     | 90-140     |
-| 6   | 46-50     | 110-150    |
-| 7   | 51-55     | 130-160    |
-| 8   | 56-60     | 140-170    |
-| 9   | 61-65     | 150-175    |
-| 10  | 66-70     | 155-180    |
-| 11  | 71-75     | 160-180    |
-| 12  | 76-80     | 160-180    |
-| 13  | 81-85     | 165-185    |
-| 14  | 86-90     | 170-185    |
-| 15  | 91-95     | 175-190    |
-| 16  | 96-100    | 180-195    |
-| 17  | 101-110   | 185-200    |
-| 18  | 111-120   | 190-205    |
-| 19  | 121-130   | 200-210    |
-| 20  | 131-140   | 205-220    |
-| 21  | 141-150   | 210-230    |
+| :-: | :-------: | :--------: |
+|  1  |    1-9    |   10-60    |
+|  2  |   10-18   |   40-110   |
+|  3  |   19-27   |   60-120   |
+|  4  |   28-36   |   75-130   |
+|  5  |   37-45   |   90-140   |
+|  6  |   46-50   |  110-150   |
+|  7  |   51-55   |  130-160   |
+|  8  |   56-60   |  140-170   |
+|  9  |   61-65   |  150-175   |
+| 10  |   66-70   |  155-180   |
+| 11  |   71-75   |  160-180   |
+| 12  |   76-80   |  160-180   |
+| 13  |   81-85   |  165-185   |
+| 14  |   86-90   |  170-185   |
+| 15  |   91-95   |  175-190   |
+| 16  |  96-100   |  180-195   |
+| 17  |  101-110  |  185-200   |
+| 18  |  111-120  |  190-205   |
+| 19  |  121-130  |  200-210   |
+| 20  |  131-140  |  205-220   |
+| 21  |  141-150  |  210-230   |
 Værdierne er meget omtrentlige og varierer hovedsageligt afhængigt af race og STY. Høj STY = vælg en højde tættere på den mindre værdi; lav STY = vælg en højde tættere på den større værdi. Dværge vejer STY kg mere end tabellen viser. Elvere vejer (20-STY) kg mindre end hvad tabellen viser.
 
 ##### Færdigheder
@@ -106,15 +106,15 @@ Man starter med 125 baggrundspoint (BP), som man bruger til at købe:
 
 I Drager og Dæmoner er der udover mennesker et antal af andre folkeslag man kan vælge imellem. Prisen for at vælge dem er angivet i tabellen nedenfor.
 
-| Race | Pris i BP |
-|------|-----------|
-| And | 0 |
-| Dværg | 25 |
-| Elver | 25 |
-| Halvelver | 15 |
-| Halvork | 10 |
-| Hobbit | 15 |
-| Menneske | 10 |
+| Race      | Pris i BP |
+| --------- | :-------: |
+| And       |     0     |
+| Dværg     |    25     |
+| Elver     |    25     |
+| Halvelver |    15     |
+| Halvork   |    10     |
+| Hobbit    |    15     |
+| Menneske  |    10     |
 
 ##### And
 Andefolket er humanoider med næb og fjerdragt. De er typisk grå eller brune i farven, men kan have aftegninger i mange forskellige farver. Alle ænder får automatisk FV20 (B5) i færdigheden Svømme. De har desuden +4 FV i færdigheden Snige Sig.
@@ -139,14 +139,14 @@ Mennesker findes over hele verden og i alle samfundslag.
 
 De forskellige racers modifikationer til grundegenskaberne.
 
-| Race      | STY | FYS | SMI | INT | PSY | KAR | STO*      |
-| --------- | --- | --- | --- | --- | --- | --- | --------- |
-| And       | \-4 | \+2 | \+2 | \-  | \-  | \-3 | 3-6 (5)   |
-| Dværg     | \+3 | \+2 | \-  | \-  | \+2 | \-  | 4-9 (7)   |
+| Race      | STY | FYS | SMI | INT | PSY | KAR |   STO*    |
+| --------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------: |
+| And       | \-4 | \+2 | \+2 | \-  | \-  | \-3 |  3-6 (5)  |
+| Dværg     | \+3 | \+2 | \-  | \-  | \+2 | \-  |  4-9 (7)  |
 | Elver     | \-1 | \-  | \+3 | \+3 | \-  | \+2 | 8-14 (11) |
 | Halvelver | \-  | \-  | \+2 | \-  | \-  | \+1 | 7-16 (12) |
 | Halvork   | \+2 | \+2 | \-1 | \-  | \-  | \-3 | 8-18 (13) |
-| Hobbit    | \-4 | \+3 | \+3 | \-  | \+2 | \-  | 3-6 (5)   |
+| Hobbit    | \-4 | \+3 | \+3 | \-  | \+2 | \-  |  3-6 (5)  |
 | Menneske  | \-  | \-  | \-  | \-  | \-  | \-  | 8-18 (13) |
 \*Specielle regler gælder for størrelse. Værdierne i tabellen angiver laveste og højeste værdi, samt normalværdien i parentes.
 
@@ -154,19 +154,19 @@ De forskellige racers modifikationer til grundegenskaberne.
 
 Din profession er en kombination af flere af dine egenskaber; din opvækst, træning, erfaringer, fremtidsmål og livssyn. Hver profession har en egenskab der er unik for den. Hver profession har en mængde færdigheder og det er kun dem og primærfærdighederne (plus besværgelser for magikere) du kan lære fra starten. Der må vælges 12 færdigheder fra listen og magikere må kun vælge 9. Alle andre færdigheder betragtes som sekundærfærdigheder. Tabellen nedenfor viser de krav der er til ens grundegenskaber for man kan vælge en given profession. Visse færdigheder indeholder flere separate underfærdigheder f. eks. håndværk, spille instrument og tale fremmedsprog. Hvert håndværk, instrument eller fremmedsprog tæller som sin egen færdighed. Vil en barde lære at spille både drejelire, mundharpe og fløjte så tæller det som tre separate færdigheder. Hvor mange man maksimalt kan vælge som professionsfærdighed er angivet ved hver profession.
 
-| Profession | STY | FYS | SMI | INT | PSY | KAR | STO |
-|------------|-----|-----|-----|-----|-----|-----|-----|
-| Barde |  |  | 12 |  |  | 14 |  |
-| Heler |  |  |  | 12 | 12 |  |  |
-| Kriger | 14 | 12 |  |  |  |  |  |
-| Lejemorder |  |  | 14 |  | 12 |  |  |
-| Lærd mand |  |  |  | 16 |  |  |  |
-| Magiker |  |  |  | 12 | 14 |  |  |
-| Munk |  |  |  | 12 | 12 |  |  |
-| Søfarer |  | 12 | 12 |  |  |  |  |
-| Ridder | 14 | 12 |  |  | 12 |  |  |
-| Tyv |  |  | 16 |  |  |  |  |
-| Vildmarksjæger |  | 12 | 12 |  | 12 |  |  |
+| Profession     | STY | FYS | SMI | INT | PSY | KAR | STO |
+| -------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Barde          |     |     | 12  |     |     | 14  |     |
+| Heler          |     |     |     | 12  | 12  |     |     |
+| Kriger         | 14  | 12  |     |     |     |     |     |
+| Lejemorder     |     |     | 14  |     | 12  |     |     |
+| Lærd mand      |     |     |     | 16  |     |     |     |
+| Magiker        |     |     |     | 12  | 14  |     |     |
+| Munk           |     |     |     | 12  | 12  |     |     |
+| Søfarer        |     | 12  | 12  |     |     |     |     |
+| Ridder         | 14  | 12  |     |     | 12  |     |     |
+| Tyv            |     |     | 16  |     |     |     |     |
+| Vildmarksjæger |     | 12  | 12  |     | 12  |     |     |
 
 ##### Barde
 **Særlig Evne:** Ved at spille på et instrument eller synge kan barden øge sin KAR med 5. Der skal spilles eller synges i mindst et minut og man skal lykkes med et relevant FV slag. Lykkes slaget opfatter alle der kan høre barden synge eller spille vedkommendes KAR som værende 5 højere. Dette påvirker alle KAR-baserede færdigheder. Effekten holder i en time.
@@ -237,170 +237,170 @@ Mand, kvinde, nonbinær eller noget valgfrit. Det spiller ingen rolle i forhold 
 I tabellen er det anført hvor mange BP en given værdi i en grundegenskab koster. De modificeres efterfølgende af en evt. racemodifikation.
 
 | Værdi | Pris i BP |
-| ----- | --------- |
-| 3     | 0         |
-| 4     | 1         |
-| 5     | 2         |
-| 6     | 3         |
-| 7     | 5         |
-| 8     | 7         |
-| 9     | 9         |
-| 10    | 10        |
-| 11    | 11        |
-| 12    | 12        |
-| 13    | 14        |
-| 14    | 17        |
-| 15    | 20        |
-| 16    | 25        |
-| 17    | 30        |
-| 18    | 40        |
+| :---: | :-------: |
+|   3   |     0     |
+|   4   |     1     |
+|   5   |     2     |
+|   6   |     3     |
+|   7   |     5     |
+|   8   |     7     |
+|   9   |     9     |
+|  10   |    10     |
+|  11   |    11     |
+|  12   |    12     |
+|  13   |    14     |
+|  14   |    17     |
+|  15   |    20     |
+|  16   |    25     |
+|  17   |    30     |
+|  18   |    40     |
 For STO gælder særlige regler, man har automatisk normalværdien fra start og den kan modificeres efter tabellerne nedenfor.
 
 | Modifikation | Pris i BP |
-| ------------ | --------- |
-| \+1          | 2         |
-| \+2          | 4         |
-| \+3          | 6         |
-| \+4          | 8         |
-| \+5          | 10        |
+| :----------: | :-------: |
+|     \+1      |     2     |
+|     \+2      |     4     |
+|     \+3      |     6     |
+|     \+4      |     8     |
+|     \+5      |    10     |
 
 | Modifikation | Ekstra BP |
-| ------------ | --------- |
-| \-1          | 1         |
-| \-2          | 2         |
-| \-3          | 3         |
-| \-4          | 5         |
-| \-5          | 7         |
+| :----------: | :-------: |
+|     \-1      |     1     |
+|     \-2      |     2     |
+|     \-3      |     3     |
+|     \-4      |     5     |
+|     \-5      |     7     |
 
 #### Kropspoint
 Antal kropspoint er FYS+STO divideret med 2. De forskellige kropsdele har kropspoint efter tabellen nedenfor.
 
 | Træfområde  | 5-7 | 8-11 | 12-15 | 16-20 | 21-25 | 26-30 | 31-35 | 36-40 | \+5 |
-| ----------- | --- | ---- | ----- | ----- | ----- | ----- | ----- | ----- | --- |
-| Brystkasse  | 4   | 5    | 6     | 7     | 8     | 9     | 10    | 11    | \+1 |
-| Højre ben   | 3   | 4    | 5     | 6     | 7     | 8     | 9     | 10    | \+1 |
-| Venstre ben | 3   | 4    | 5     | 6     | 7     | 8     | 9     | 10    | \+1 |
-| Mave        | 3   | 4    | 5     | 6     | 7     | 8     | 9     | 10    | \+1 |
-| Højre arm   | 2   | 3    | 4     | 5     | 6     | 7     | 8     | 9     | \+1 |
-| Venstre arm | 2   | 3    | 4     | 5     | 6     | 7     | 8     | 9     | \+1 |
-| Hoved       | 3   | 4    | 5     | 6     | 7     | 8     | 9     | 10    | \+1 |
+| ----------- | :-: | :--: | :---: | :---: | :---: | :---: | :---: | :---: | :-: |
+| Brystkasse  |  4  |  5   |   6   |   7   |   8   |   9   |  10   |  11   | \+1 |
+| Højre ben   |  3  |  4   |   5   |   6   |   7   |   8   |   9   |  10   | \+1 |
+| Venstre ben |  3  |  4   |   5   |   6   |   7   |   8   |   9   |  10   | \+1 |
+| Mave        |  3  |  4   |   5   |   6   |   7   |   8   |   9   |  10   | \+1 |
+| Højre arm   |  2  |  3   |   4   |   5   |   6   |   7   |   8   |   9   | \+1 |
+| Venstre arm |  2  |  3   |   4   |   5   |   6   |   7   |   8   |   9   | \+1 |
+| Hoved       |  3  |  4   |   5   |   6   |   7   |   8   |   9   |  10   | \+1 |
 
 #### Skadebonus
 Er du meget stærk eller stor kan du opnå en skadebonus efter nedenstående tabel.
 
 | STY + STO | Skadebonus |
-|-----------|------------|
-| 1-26 | ingen |
-| 27-29 | \+1 |
-| 30-32 | \+1T2 |
-| 33-40 | \+1T4 |
-| 41-50 | \+1T6 |
-| 51-60 | \+1T10 |
-| 61-80 | \+2T6 |
-| 81-100 | \+3T6 |
-| 101-140 | \+4T6 |
-| 141-180 | \+5T6 |
+| :-------: | :--------: |
+|   1-26    |   ingen    |
+|   27-29   |    \+1     |
+|   30-32   |   \+1T2    |
+|   33-40   |   \+1T4    |
+|   41-50   |   \+1T6    |
+|   51-60   |   \+1T10   |
+|   61-80   |   \+2T6    |
+|  81-100   |   \+3T6    |
+|  101-140  |   \+4T6    |
+|  141-180  |   \+5T6    |
 
 #### Flytteformåen
 Din flytteformåen er hvor mange felter du kan flytte i en kamprunde (KR). Et felt er ca. 1,5m og en kamprunde er ca. 5 sekunder.
 
-| STO + FYS + SMI        | Flytteformåen |
-| ---------------------- | ------------- |
-| 0-11                   | 7             |
-| 12-20                  | 8             |
-| 21-29                  | 9             |
-| 30-38                  | 10            |
-| 39-47                  | 11            |
-| 48-56                  | 12            |
-| 57-65                  | 13            |
-| 66-74                  | 14            |
-| 75-83                  | 15            |
-| 84-92                  | 16            |
-| For hver yderligere +8 | \+1           |
+|    STO + FYS + SMI     | Flytteformåen |
+| :--------------------: | :-----------: |
+|          0-11          |       7       |
+|         12-20          |       8       |
+|         21-29          |       9       |
+|         30-38          |      10       |
+|         39-47          |      11       |
+|         48-56          |      12       |
+|         57-65          |      13       |
+|         66-74          |      14       |
+|         75-83          |      15       |
+|         84-92          |      16       |
+| For hver yderligere +8 |      \+1      |
 
 | Race   | Modifikation |
-| ------ | ------------ |
-| And    | -2           |
-| Dværg  | -2           |
-| Elver  | +1           |
-| Hobbit | -2           |
-| Øvrige | ±0           |
+| ------ | :----------: |
+| And    |      -2      |
+| Dværg  |      -2      |
+| Elver  |      +1      |
+| Hobbit |      -2      |
+| Øvrige |      ±0      |
 
 #### Særlige Evner
 Du kan vælge at bruge et antal BP på at købe en særlig evne. For hver BP du bruger får du +1 på nedenstående tabel, dog max. +40. Du skal bruge mindst 1 BP for at slå på tabellen og du må kun gøre det en gang. Visse evner passer dårligt sammen med visse professioner, det er op til spiller og spilleleder i fællesskab at finde noget passende.
 
 | 2T20+BP | Særlig Evne                                                                                                                                                                | 2T20+BP | Særlig Evne                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3-4     | \+1 FV på valgfri sekundær færdighed. Ingen forbudte færdigheder.                                                                                                          | 56      | Bersærk. +5 FV i Bersærkergang.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| 5-6     | Søfarer baggrund. +2 FV til Sømandskab og Navigering.                                                                                                                      | 57      | God Balanceevne. +5 på SMI ved alle balanceøvelser og når du forsøger at lande på fødderne efter et fald.                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 7-8     | Stærke led. +3 FV i Springe.                                                                                                                                               | 58      | Hestenes Herre. +10 FV i Ride og du kan aldrig blive kastet af en hesteryg (Du kan trille af...)                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 9-10    | Voldelig opvækst. +3 FV i slagsmål.                                                                                                                                        | 59      | Ambidextriøs. Se afsnittet om Sværdhånd nedenfor.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| 11-12   | Håndværkerbaggrund. +3 FV i valgfrit håndværk.                                                                                                                             | 60      | Dyreven. Du bliver angrebet af almindelige dyr. Hvad enten de er vilde eller tamme.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 13-14   | Smidig krop. +3 FV i akrobatik.                                                                                                                                            | 61      | Heldig Kartoffel. Du er heldig og kan altid modificere CL med +1 ved at bruge et PSY-point. Du kan ikke forhøje CL yderligere ved at bruge flere PSY-point. De genvindes på vanlig vis (Se afsnittet om magi)                                                                                                                                                                                                                                                                                                                         |
-| 15-16   | Købmandsbaggrund. +3 FV i Vurdere.                                                                                                                                         | 62      | Magisk Empati. Hvis du med din PSY kan overvinde antallet af effektgrader gemt i en magisk genstand så kan du identificere alle besværgelser der i og deres effektgrader.                                                                                                                                                                                                                                                                                                                                                             |
-| 17-18   | God koordinationsevne. +3 FV i To Våben.                                                                                                                                   | 63      | Gudernes Yndling. Hvis dine KP når nul, er der 25 procent chance for at din gud griber ind og giver alle KP igen. Kritiske skader kan ikke heles på denne vis.                                                                                                                                                                                                                                                                                                                                                                        |
-| 19-20   | Hobbyist. +3 FV i valgfri sekundær færdighed. Ingen forbudte færdigheder.                                                                                                  | 64      | Lærenem. Grundprisen for sekundære færdigheder er aldrig mere end 4.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 21-22   | Høj gribestyrke. Du har altid +3 CL i klatre.                                                                                                                              | 65      | Høj Smertetærskel. Totale KP øges med x1,5. Gælder også træfområders KP.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 23-24   | Modtageligt media. Altid +5 CL i Magisk Kanalisering når du er den passiv part.                                                                                            | 66      | Hurtigslående. Du slår altid først i en KR. Har modstanderen også denne evne, slåes normalt, men begge er før alle andre.                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 25-26   | Dedikeret Elev. +2 FV i valgfri færdighed. Begrænsning på FV hæves også med 2. Ingen forbudte færdigheder.                                                                 | 67      | Banemand. Du har svoret at bekæmpe en bestemt race eller folkeslag og har +5 CL på alle angreb mod dem.                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 27-28   | Overbevisende tonefald. Altid +3 CL til Overtale og Bestikke.                                                                                                              | 68      | God kropskontrol. Ved at lykkes med et normalt FYS-slag kan du øge din STY og alle STY baserede færdigheder med +5 i 3 KR. Kan max. anvendes 2 gange om dagen.                                                                                                                                                                                                                                                                                                                                                                        |
-| 29-30   | Sjette Sans. +1 FV i Opdage Fare og Finde Skjulte Ting.                                                                                                                    | 69      | Jernnæve. Du gør altid maksimal skade i ubevæbnet kamp.                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 31-32   | Stirrende Blik. Altid +5 CL i Hypnotisere.                                                                                                                                 | 70      | Frygtløs. Du får -5 på alle slag på skræktabellen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 33-34   | Magifølsom. Altid +5 CL i Kende Magi.                                                                                                                                      | 71      | Ubøjelig Vilje. Du har +5 PSY på alle PSY mod PSY-slag på modstandstabellen.                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 35-36   | Godt Sprogøre. FV 20 B5 i Tale og Læse/Skrive et valgfrit sprog.                                                                                                           | 72      | Hærdet mod elementerne. +5 FYS på alle modstandsslag mod ild, kulde, vand, vind etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 37-38   | Stort Kundskabsområde. Du får 2 yderligere professionsfærdigheder fra listen.                                                                                              | 73      | God heleevne. Alle KP tabt til fysisk vold eller elementar magi heler dobbelt så hurtigt.                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 39-40   | God Bueskytte. Alle rækkevider for projektiler øges med 25 procent.                                                                                                        | 74      | God mental kontrol. Du genvinder PSY-point brugt til besværgelser på halvdelen af ​​den normale tid. Hvis du ikke er magiker, tæller dette som resultat 73.                                                                                                                                                                                                                                                                                                                                                                           |
-| 41-42   | Absolut Gehør. Grundprisen for færdighederne Spille Instrument og Synge er altid 1.                                                                                        | 75      | Naturlig våbenfærdighed. Du får +5 FV på en valgfri våbenfærdighed.                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 43-44   | Præcisionssind. Altid +1 CL på alle våbenfærdigheder.                                                                                                                      | 76      | Splittet personlighed. Ud over din egen professions særlige evne, må du også vælge den særlige evne fra en anden profession.                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 45-46   | Dobbelthåndet. Se rubrikken sværdhånd nedenfor.                                                                                                                            | 77      | God fornemmelse for faget. Omkostningerne til at lære en af ​​dine besværgelser eller en af ​​dine professionsfærdigheder er altid halveret (rund op). Halver efter at have ganget med grundprisen.                                                                                                                                                                                                                                                                                                                                   |
-| 47-48   | God tidsfornemmelse. Du ved altid inden for 10 minutter hvad klokken er. Hvis nogen beder dig vente to minutter ved du inden for 5 sekunder hvornår de 2 minutter er gået. | 78      | Hamskifter. Du kan til enhver tid forvandle dig til et af følgende dyr (Slå 1T6): 1 - ulv, 2 - bjørn, 3 - høg, 4 - hjort, 5 - svane, 6 - kat. Under forvandlingen er reel påtager du dig alle dyrets træk undtagen INT og INT-baserede færdigheder, som du beholder (ikke besværgelser). Transformationen tager 1 KR og varer så længe du ønsker. For hver time over din normale PSY-værdi skal du dog tage et normalt PSY-slag, ellers vil du for altid sidde fast i din dyreham. Se Drager og Dæmoner Monster for mere information. |
-| 49-51   | Absolut øjemål. Du kan bedømme afstand med øjnene med 5 procent fejlmargin.                                                                                                | 79      | Hurtig opfattelse. +5 CL på alle våbenpareringer i nærkamp og du kan parere projektiler du ser komme i mod dig (Kræver et nærkampsvåben i hånden, CL er det samme som for nærkampsvåbnet.)                                                                                                                                                                                                                                                                                                                                            |
-| )52-54  | Meget Opmærksom. Altid +2 CL i Finde Skjulte Ting og Opdage Fare.                                                                                                          | 80      | Højt PSY potentiale. Når du slår for at højne din PSY har du altid -5 på terningslaget. Et resultat på nul eller mindre, regnes som 1.                                                                                                                                                                                                                                                                                                                                                                                                |
-| 55      | Lynreflekser. +3 på alle initiativslag.                                                                                                                                    | 81+     | Høj grundegenskab. Du får +1 på tre valgri grundegenskaber eller +2 på en valgfri grundegenskab.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| :-----: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   3-4   | \+1 FV på valgfri sekundær færdighed. Ingen forbudte færdigheder.                                                                                                          |   56    | Bersærk. +5 FV i Bersærkergang.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|   5-6   | Søfarer baggrund. +2 FV til Sømandskab og Navigering.                                                                                                                      |   57    | God Balanceevne. +5 på SMI ved alle balanceøvelser og når du forsøger at lande på fødderne efter et fald.                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|   7-8   | Stærke led. +3 FV i Springe.                                                                                                                                               |   58    | Hestenes Herre. +10 FV i Ride og du kan aldrig blive kastet af en hesteryg (Du kan trille af...)                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|  9-10   | Voldelig opvækst. +3 FV i slagsmål.                                                                                                                                        |   59    | Ambidextriøs. Se afsnittet om Sværdhånd nedenfor.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|  11-12  | Håndværkerbaggrund. +3 FV i valgfrit håndværk.                                                                                                                             |   60    | Dyreven. Du bliver angrebet af almindelige dyr. Hvad enten de er vilde eller tamme.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|  13-14  | Smidig krop. +3 FV i akrobatik.                                                                                                                                            |   61    | Heldig Kartoffel. Du er heldig og kan altid modificere CL med +1 ved at bruge et PSY-point. Du kan ikke forhøje CL yderligere ved at bruge flere PSY-point. De genvindes på vanlig vis (Se afsnittet om magi)                                                                                                                                                                                                                                                                                                                         |
+|  15-16  | Købmandsbaggrund. +3 FV i Vurdere.                                                                                                                                         |   62    | Magisk Empati. Hvis du med din PSY kan overvinde antallet af effektgrader gemt i en magisk genstand så kan du identificere alle besværgelser der i og deres effektgrader.                                                                                                                                                                                                                                                                                                                                                             |
+|  17-18  | God koordinationsevne. +3 FV i To Våben.                                                                                                                                   |   63    | Gudernes Yndling. Hvis dine KP når nul, er der 25 procent chance for at din gud griber ind og giver alle KP igen. Kritiske skader kan ikke heles på denne vis.                                                                                                                                                                                                                                                                                                                                                                        |
+|  19-20  | Hobbyist. +3 FV i valgfri sekundær færdighed. Ingen forbudte færdigheder.                                                                                                  |   64    | Lærenem. Grundprisen for sekundære færdigheder er aldrig mere end 4.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|  21-22  | Høj gribestyrke. Du har altid +3 CL i klatre.                                                                                                                              |   65    | Høj Smertetærskel. Totale KP øges med x1,5. Gælder også træfområders KP.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  23-24  | Modtageligt media. Altid +5 CL i Magisk Kanalisering når du er den passiv part.                                                                                            |   66    | Hurtigslående. Du slår altid først i en KR. Har modstanderen også denne evne, slåes normalt, men begge er før alle andre.                                                                                                                                                                                                                                                                                                                                                                                                             |
+|  25-26  | Dedikeret Elev. +2 FV i valgfri færdighed. Begrænsning på FV hæves også med 2. Ingen forbudte færdigheder.                                                                 |   67    | Banemand. Du har svoret at bekæmpe en bestemt race eller folkeslag og har +5 CL på alle angreb mod dem.                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|  27-28  | Overbevisende tonefald. Altid +3 CL til Overtale og Bestikke.                                                                                                              |   68    | God kropskontrol. Ved at lykkes med et normalt FYS-slag kan du øge din STY og alle STY baserede færdigheder med +5 i 3 KR. Kan max. anvendes 2 gange om dagen.                                                                                                                                                                                                                                                                                                                                                                        |
+|  29-30  | Sjette Sans. +1 FV i Opdage Fare og Finde Skjulte Ting.                                                                                                                    |   69    | Jernnæve. Du gør altid maksimal skade i ubevæbnet kamp.                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|  31-32  | Stirrende Blik. Altid +5 CL i Hypnotisere.                                                                                                                                 |   70    | Frygtløs. Du får -5 på alle slag på skræktabellen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|  33-34  | Magifølsom. Altid +5 CL i Kende Magi.                                                                                                                                      |   71    | Ubøjelig Vilje. Du har +5 PSY på alle PSY mod PSY-slag på modstandstabellen.                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|  35-36  | Godt Sprogøre. FV 20 B5 i Tale og Læse/Skrive et valgfrit sprog.                                                                                                           |   72    | Hærdet mod elementerne. +5 FYS på alle modstandsslag mod ild, kulde, vand, vind etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|  37-38  | Stort Kundskabsområde. Du får 2 yderligere professionsfærdigheder fra listen.                                                                                              |   73    | God heleevne. Alle KP tabt til fysisk vold eller elementar magi heler dobbelt så hurtigt.                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|  39-40  | God Bueskytte. Alle rækkevider for projektiler øges med 25 procent.                                                                                                        |   74    | God mental kontrol. Du genvinder PSY-point brugt til besværgelser på halvdelen af ​​den normale tid. Hvis du ikke er magiker, tæller dette som resultat 73.                                                                                                                                                                                                                                                                                                                                                                           |
+|  41-42  | Absolut Gehør. Grundprisen for færdighederne Spille Instrument og Synge er altid 1.                                                                                        |   75    | Naturlig våbenfærdighed. Du får +5 FV på en valgfri våbenfærdighed.                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|  43-44  | Præcisionssind. Altid +1 CL på alle våbenfærdigheder.                                                                                                                      |   76    | Splittet personlighed. Ud over din egen professions særlige evne, må du også vælge den særlige evne fra en anden profession.                                                                                                                                                                                                                                                                                                                                                                                                          |
+|  45-46  | Dobbelthåndet. Se rubrikken sværdhånd nedenfor.                                                                                                                            |   77    | God fornemmelse for faget. Omkostningerne til at lære en af ​​dine besværgelser eller en af ​​dine professionsfærdigheder er altid halveret (rund op). Halver efter at have ganget med grundprisen.                                                                                                                                                                                                                                                                                                                                   |
+|  47-48  | God tidsfornemmelse. Du ved altid inden for 10 minutter hvad klokken er. Hvis nogen beder dig vente to minutter ved du inden for 5 sekunder hvornår de 2 minutter er gået. |   78    | Hamskifter. Du kan til enhver tid forvandle dig til et af følgende dyr (Slå 1T6): 1 - ulv, 2 - bjørn, 3 - høg, 4 - hjort, 5 - svane, 6 - kat. Under forvandlingen er reel påtager du dig alle dyrets træk undtagen INT og INT-baserede færdigheder, som du beholder (ikke besværgelser). Transformationen tager 1 KR og varer så længe du ønsker. For hver time over din normale PSY-værdi skal du dog tage et normalt PSY-slag, ellers vil du for altid sidde fast i din dyreham. Se Drager og Dæmoner Monster for mere information. |
+|  49-51  | Absolut øjemål. Du kan bedømme afstand med øjnene med 5 procent fejlmargin.                                                                                                |   79    | Hurtig opfattelse. +5 CL på alle våbenpareringer i nærkamp og du kan parere projektiler du ser komme i mod dig (Kræver et nærkampsvåben i hånden, CL er det samme som for nærkampsvåbnet.)                                                                                                                                                                                                                                                                                                                                            |
+| )52-54  | Meget Opmærksom. Altid +2 CL i Finde Skjulte Ting og Opdage Fare.                                                                                                          |   80    | Højt PSY potentiale. Når du slår for at højne din PSY har du altid -5 på terningslaget. Et resultat på nul eller mindre, regnes som 1.                                                                                                                                                                                                                                                                                                                                                                                                |
+|   55    | Lynreflekser. +3 på alle initiativslag.                                                                                                                                    |   81+   | Høj grundegenskab. Du får +1 på tre valgri grundegenskaber eller +2 på en valgfri grundegenskab.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 #### Sværdhånd
 
 Den hånd man normalt anvendes kaldes sværdhånden og den anden kaldes skjoldhånden. Skjoldhånden er normalt svagere end sværdhånden, undtagen for færdighederne To Våben og Skjold. Hvilken hånd der er hvad afgøres af tabellen nedenfor, man får +1 for hver BP man bruger på slaget. Dobbelthåndede kan anvende begge hænder lige godt, men ikke samtidigt. Ambidextriøse kan anvende begge hænder samtidig til forskellige ting uden problemer. Har du fået dobbelthåndet eller ambidextriøs som Særlig Evne behøver du ikke slå på tabellen.
 
-| 2T6+BP | Sværdhånd |
-|--------|-----------|
-| 2-11 | Højre |
-| 12-14 | Venstre |
-| 15-18 | Dobbelthåndet |
-| 19+ | Ambidextriøs |
+| 2T6+BP | Sværdhånd     |
+| :----: | ------------- |
+|  2-11  | Højre         |
+| 12-14  | Venstre       |
+| 15-18  | Dobbelthåndet |
+|  19+   | Ambidextriøs  |
 
 #### Social Stand
 
 Social stand afgøres af tabellen nedenfor, man får +1 for hver BP man bruger på slaget.
 
-| 2T6+BP | Social stand | Typiske |
-|--------|--------------|---------|
-| 2 | Besiddelsesløs | Træl, slave, straffefange, tiggermunk, livegen, galejslave |
-| 3-4 | Lavre underklasse | Tigger, latrintømmer, gravgraver |
-| 5-7 | Højere underklasse | Lærling, svend, novice |
-| 8-11 | Lavere middelklasse | Grovhåndværkere, arbejdende købmænd, byvagter |
-| 12-16 | Højere middelklasse | Finhåndværkere, købmænd, præst, selvejende bonde |
-| 17-22 | Lavere overklasse | rådsfolk, hoffolk, håndværksmestre |
-| 23-29 | Højere overklasse | Borgmestre, laugsmester, rigsembedsmænd |
-| 30-37 | Lavadel | Ridder, friherre, baron, markis, jarl, biskop |
-| 38+ | Højadel | Greve, hertug, prins, kardinal, pave, konge, kejser |
+| 2T6+BP | Social stand        | Typiske                                                    |
+| :----: | ------------------- | ---------------------------------------------------------- |
+|   2    | Besiddelsesløs      | Træl, slave, straffefange, tiggermunk, livegen, galejslave |
+|  3-4   | Lavre underklasse   | Tigger, latrintømmer, gravgraver                           |
+|  5-7   | Højere underklasse  | Lærling, svend, novice                                     |
+|  8-11  | Lavere middelklasse | Grovhåndværkere, arbejdende købmænd, byvagter              |
+| 12-16  | Højere middelklasse | Finhåndværkere, købmænd, præst, selvejende bonde           |
+| 17-22  | Lavere overklasse   | rådsfolk, hoffolk, håndværksmestre                         |
+| 23-29  | Højere overklasse   | Borgmestre, laugsmester, rigsembedsmænd                    |
+| 30-37  | Lavadel             | Ridder, friherre, baron, markis, jarl, biskop              |
+|  38+   | Højadel             | Greve, hertug, prins, kardinal, pave, konge, kejser        |
 
 #### Startkapital
 
 Startkapital afgøres af tabellen nedenfor, man får +1 for hver BP man bruger på slaget og +1 for hvert andet BP man brugte på social stand.
 
 | 2T6+BP+1/2BP fra social stand | Startkapital |
-|-------------------------------|--------------|
-| 2 | 200sm |
-| 3-4 | 400sm |
-| 5-7 | 600sm |
-| 8-11 | 1000sm |
-| 12-16 | 2000sm |
-| 17-22 | 3000sm |
-| 23-29 | 5000sm |
-| 30-37 | 10000sm |
-| 38-46 | 20000sm |
-| 47-56 | 30000sm |
-| 57+ | 50000sm |
+| :---------------------------: | -----------: |
+|               2               |        200sm |
+|              3-4              |        400sm |
+|              5-7              |        600sm |
+|             8-11              |       1000sm |
+|             12-16             |       2000sm |
+|             17-22             |       3000sm |
+|             23-29             |       5000sm |
+|             30-37             |      10000sm |
+|             38-46             |      20000sm |
+|             47-56             |      30000sm |
+|              57+              |      50000sm |
 
 #### Alder
 
@@ -410,26 +410,26 @@ Elvere regnes altid som værende unge for antal EP og startkapital, men som modn
 
 Baggrundspoint du ikke ønsker at bruge på andet ganges med 5 og lægges til de erfaringspoint du har at købe færdigheder for.
 
-|  | Ung | Moden | Middelaldrende | Gammel |
-|--|-----|-------|----------------|--------|
-| STY | \-1 | \- | \-2 | \-5 |
-| FYS | \+1 | \- | \-1 | \-3 |
-| SMI | \+1 | \- | \-1 | \-3 |
-| INT | \- | \- | \+1 | \+1 |
-| PSY | \-1 | \- | \+2 | \+4 |
-| KAR | \- | \- | \+1 | \+1 |
-| STO | \- | \- | \- | \- |
-|  |  |  |  |  |
-| EP | 150 | 200 | 250 | 300 |
-| Startkapital | x1 | x1,5 | x2 | x2,5 |
-| Max. FV fra start | 13 | 15 | 17 | 19 |
-|  |  |  |  |  |
-| And | 16-20 | 21-40 | 41-60 | 61-80 |
-| Dværg | 21-40 | 41-155 | 151-250 | 251-400 |
-| Halvelver | 30-40 | 41-70 | 71-100 | 101-130 |
-| Halvork | 12-18 | 19-30 | 31-45 | 46-55 |
-| Hobbit | 20-30 | 31-60 | 61-75 | 76-100 |
-| Menneske | 16-20 | 21-45 | 46-60 | 61-80 |
+|                   |  Ung  | Moden  | Middelaldrende | Gammel  |
+| ----------------- | :---: | :----: | :------------: | :-----: |
+| STY               |  \-1  |   \-   |      \-2       |   \-5   |
+| FYS               |  \+1  |   \-   |      \-1       |   \-3   |
+| SMI               |  \+1  |   \-   |      \-1       |   \-3   |
+| INT               |  \-   |   \-   |      \+1       |   \+1   |
+| PSY               |  \-1  |   \-   |      \+2       |   \+4   |
+| KAR               |  \-   |   \-   |      \+1       |   \+1   |
+| STO               |  \-   |   \-   |       \-       |   \-    |
+|                   |       |        |                |         |
+| EP                |  150  |  200   |      250       |   300   |
+| Startkapital      |  x1   |  x1,5  |       x2       |  x2,5   |
+| Max. FV fra start |  13   |   15   |       17       |   19    |
+|                   |       |        |                |         |
+| And               | 16-20 | 21-40  |     41-60      |  61-80  |
+| Dværg             | 21-40 | 41-155 |    151-250     | 251-400 |
+| Halvelver         | 30-40 | 41-70  |     71-100     | 101-130 |
+| Halvork           | 12-18 | 19-30  |     31-45      |  46-55  |
+| Hobbit            | 20-30 | 31-60  |     61-75      | 76-100  |
+| Menneske          | 16-20 | 21-45  |     46-60      |  61-80  |
 
 #### Startfærdigheder
 
@@ -439,58 +439,58 @@ Dine startfærdigheder er de primære færdigheder og de 12 (9 for magikere) du 
 
 Din basischance (BC) er den færdighedsværdi du har fra start når du skaber din spilleperson. Den baseres på den grundegenskabsværdi som hører til færdigheden.
 
-| Værdi | BC |
-|-------|----|
-| 1-3 | 0 |
-| 4-8 | 1 |
-| 9-12 | 2 |
-| 13-16 | 3 |
-| 17-20 | 4 |
-| 21+ | 5 |
-| Du får en BC i alle primære færdigheder og dine professionsfærdigheder, dog ikke i besværgelser. Specielle regler gælder for færdigheden Læse/Skrive Modersmål. |  |
+| Værdi | BC  |
+| :---: | :-: |
+|  1-3  |  0  |
+|  4-8  |  1  |
+| 9-12  |  2  |
+| 13-16 |  3  |
+| 17-20 |  4  |
+|  21+  |  5  |
+Du får en BC i alle primære færdigheder og dine professionsfærdigheder, dog ikke i besværgelser. Specielle regler gælder for færdigheden Læse/Skrive Modersmål.
 
 ##### Brug af erfaringspoint
 
 Ud fra din alder får du et vist antal erfaringspoint, som du skal bruge til at øge dine færdighedsværdier. Grundprisen for en primær færdighed er 2, den er 3 for en professionsfærdighed og 5 for en sekundærfærdighed. Grundprisen for besværgelser afgøres af skoleværdien. I tabellen nedenfor er anført en multipel, som du ganger grundprisen for færdigheden med for at regne den endelig pris ud. Vær opmærksom på at du fra starten ikke kan købe en højere færdighedsværdi end angivet i alderstabellen.
 
-| FV | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
-|----|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|----|----|
-| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 | 18 | 21 | 24 | 27 | 31 | 35 | 39 | 44 |
-| 1 |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 11 | 13 | 15 | 17 | 20 | 23 | 26 | 30 | 34 | 38 | 43 |
-| 2 |  |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 10 | 12 | 14 | 16 | 19 | 22 | 25 | 29 | 33 | 37 | 42 |
-| 3 |  |  |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 9 | 11 | 13 | 15 | 18 | 21 | 24 | 28 | 32 | 36 | 41 |
-| 4 |  |  |  |  | 1 | 2 | 3 | 4 | 5 | 6 | 8 | 10 | 12 | 14 | 17 | 20 | 23 | 27 | 31 | 35 | 40 |
-| 5 |  |  |  |  |  | 1 | 2 | 3 | 4 | 5 | 7 | 9 | 11 | 13 | 16 | 19 | 22 | 26 | 30 | 34 | 39 |
-| 6 |  |  |  |  |  |  | 1 | 2 | 3 | 4 | 6 | 8 | 10 | 12 | 15 | 18 | 21 | 25 | 29 | 33 | 38 |
-| 7 |  |  |  |  |  |  |  | 1 | 2 | 3 | 5 | 7 | 9 | 11 | 14 | 17 | 20 | 24 | 28 | 32 | 37 |
-| 8 |  |  |  |  |  |  |  |  | 1 | 2 | 4 | 6 | 8 | 10 | 13 | 16 | 19 | 23 | 27 | 31 | 36 |
-| 9 |  |  |  |  |  |  |  |  |  | 1 | 3 | 5 | 7 | 9 | 12 | 15 | 18 | 22 | 26 | 30 | 35 |
-| 10 |  |  |  |  |  |  |  |  |  |  | 2 | 4 | 6 | 8 | 11 | 14 | 17 | 21 | 25 | 29 | 34 |
-| 11 |  |  |  |  |  |  |  |  |  |  |  | 2 | 4 | 6 | 9 | 12 | 15 | 19 | 23 | 27 | 32 |
-| 12 |  |  |  |  |  |  |  |  |  |  |  |  | 2 | 4 | 7 | 10 | 13 | 17 | 21 | 25 | 30 |
-| 13 |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 | 5 | 8 | 11 | 15 | 19 | 23 | 28 |
-| 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 | 6 | 9 | 13 | 17 | 21 | 26 |
-| 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 | 6 | 10 | 14 | 18 | 23 |
-| 16 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 | 7 | 11 | 15 | 20 |
-| 17 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 8 | 12 | 17 |
-| 18 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 8 | 13 |
-| 19 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 | 9 |
-| 20+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 5 |
+| FV  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 12  | 14  | 16  | 18  | 21  | 24  | 27  | 31  | 35  | 39  | 44  |
+|  1  |     |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 11  | 13  | 15  | 17  | 20  | 23  | 26  | 30  | 34  | 38  | 43  |
+|  2  |     |     |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  | 10  | 12  | 14  | 16  | 19  | 22  | 25  | 29  | 33  | 37  | 42  |
+|  3  |     |     |     |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  9  | 11  | 13  | 15  | 18  | 21  | 24  | 28  | 32  | 36  | 41  |
+|  4  |     |     |     |     |  1  |  2  |  3  |  4  |  5  |  6  |  8  | 10  | 12  | 14  | 17  | 20  | 23  | 27  | 31  | 35  | 40  |
+|  5  |     |     |     |     |     |  1  |  2  |  3  |  4  |  5  |  7  |  9  | 11  | 13  | 16  | 19  | 22  | 26  | 30  | 34  | 39  |
+|  6  |     |     |     |     |     |     |  1  |  2  |  3  |  4  |  6  |  8  | 10  | 12  | 15  | 18  | 21  | 25  | 29  | 33  | 38  |
+|  7  |     |     |     |     |     |     |     |  1  |  2  |  3  |  5  |  7  |  9  | 11  | 14  | 17  | 20  | 24  | 28  | 32  | 37  |
+|  8  |     |     |     |     |     |     |     |     |  1  |  2  |  4  |  6  |  8  | 10  | 13  | 16  | 19  | 23  | 27  | 31  | 36  |
+|  9  |     |     |     |     |     |     |     |     |     |  1  |  3  |  5  |  7  |  9  | 12  | 15  | 18  | 22  | 26  | 30  | 35  |
+| 10  |     |     |     |     |     |     |     |     |     |     |  2  |  4  |  6  |  8  | 11  | 14  | 17  | 21  | 25  | 29  | 34  |
+| 11  |     |     |     |     |     |     |     |     |     |     |     |  2  |  4  |  6  |  9  | 12  | 15  | 19  | 23  | 27  | 32  |
+| 12  |     |     |     |     |     |     |     |     |     |     |     |     |  2  |  4  |  7  | 10  | 13  | 17  | 21  | 25  | 30  |
+| 13  |     |     |     |     |     |     |     |     |     |     |     |     |     |  2  |  5  |  8  | 11  | 15  | 19  | 23  | 28  |
+| 14  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  3  |  6  |  9  | 13  | 17  | 21  | 26  |
+| 15  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  3  |  6  | 10  | 14  | 18  | 23  |
+| 16  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  3  |  7  | 11  | 15  | 20  |
+| 17  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  4  |  8  | 12  | 17  |
+| 18  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  4  |  8  | 13  |
+| 19  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  4  |  9  |
+| 20+ |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  5  |
 
 ##### Besværgelser
 
 Kun magikere kan lære besværgelser fra starten. Prisen beregnes ud fra tabellen nedenfor.
 
-| Skoleværdi | Grundpris |
-|------------|-----------|
-| 1-3 | 2 |
-| 4-6 | 4 |
-| 7-9 | 6 |
-| 10-12 | 8 |
-| 13-15 | 10 |
-| 16-18 | 12 |
-| 19-21 | 14 |
-| For hver +3 | \+2 |
+| Skoleværdi  | Grundpris |
+| :---------: | :-------: |
+|     1-3     |     2     |
+|     4-6     |     4     |
+|     7-9     |     6     |
+|    10-12    |     8     |
+|    13-15    |    10     |
+|    16-18    |    12     |
+|    19-21    |    14     |
+| For hver +3 |    \+2    |
 
 #### Udseende og personlig baggrund
 
@@ -531,26 +531,26 @@ Kategori A færdigheder anvender altid skalaen fra 1 til 20 (Højere værdier ka
 
 Ved kategori B færdigheder ændres den sædvanlige FV til en værdi mellem 0 og 5, hvor 0 er intet kendskab overhovedet og 5 er en legendarisk mester. Kategorien anvendes til færdigheder hvor A ikke passer. Det gælder for kategori B færdigheder at enten kan man gøre en ting eller også kan man ikke. Held og tilfældigheder spiller ingen rolle, så terningslag er unødvendige. Færdigheder i kategori B fungerer og forbedres præcis som i kategori A, men når de skal anvendes så forvandles færdighedsværdien til en B-færdighedsværdi efter tabellen nedenfor.
 
-| FV | B-FV |
-|----|------|
-| 0 | B0 |
-| 1-4 | B1 |
-| 5-10 | B2 |
-| 11-15 | B3 |
-| 16-19 | B4 |
-| 20+ | B5 |
-| Når man angiver en B-færdighedsværdi, så skriver man altid et B foran. |  |
+|  FV   | B-FV |
+| :---: | :--: |
+|   0   |  B0  |
+|  1-4  |  B1  |
+| 5-10  |  B2  |
+| 11-15 |  B3  |
+| 16-19 |  B4  |
+|  20+  |  B5  |
+Når man angiver en B-færdighedsværdi, så skriver man altid et B foran.
 
 Ved de fleste B-færdigheder angives specifikt hvilke evner man har på de forskellige niveauer, for resten anvendes nedenstående tabel.
 
 | B-færdighedsniveau | Kundskaber                                                                                                                                                                                      |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0                  | Ingen evner overhovedet.                                                                                                                                                                        |
-| 1                  | Ubetydelige kundskaber. Man kan kun det mest grundlæggende og nogle få detaljer.                                                                                                                |
-| 2                  | Små kundskaber. Man har fortsat store huller i ens viden, men har et godt indblik i de store ting. For detaljerne er man stadig nød til at slå op i bøger.                                      |
-| 3                  | Gode kundskaber. Man er velorienteret om de store ting. Mindre kendte detaljer og specielle kundskabsområder er stadig diffuse.                                                                 |
-| 4                  | Meget gode kundskaber. På dette niveau kan man blive lærer i færdigheden. Kun glemte ting ligger uden for ens kundskabsområde. Det man mangler at lære kan kun findes ved omfattende forskning. |
-| 5                  | Man er en sand mester indenfor færdigheden og kan svare på alle spørgsmål om emnet.                                                                                                             |
+| :----------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|         0          | Ingen evner overhovedet.                                                                                                                                                                        |
+|         1          | Ubetydelige kundskaber. Man kan kun det mest grundlæggende og nogle få detaljer.                                                                                                                |
+|         2          | Små kundskaber. Man har fortsat store huller i ens viden, men har et godt indblik i de store ting. For detaljerne er man stadig nød til at slå op i bøger.                                      |
+|         3          | Gode kundskaber. Man er velorienteret om de store ting. Mindre kendte detaljer og specielle kundskabsområder er stadig diffuse.                                                                 |
+|         4          | Meget gode kundskaber. På dette niveau kan man blive lærer i færdigheden. Kun glemte ting ligger uden for ens kundskabsområde. Det man mangler at lære kan kun findes ved omfattende forskning. |
+|         5          | Man er en sand mester indenfor færdigheden og kan svare på alle spørgsmål om emnet.                                                                                                             |
 
 ##### Færdighedstabeller
 
@@ -565,73 +565,72 @@ Alle har adgang til samtlige primære færdigheder.
 | Springe (SMI)            | Slagsmål (STY)                    | Overtale (KAR)             |
 | Klatre (SMI)             | Snige sig (SMI)                   |                            |
 | Købslå (KAR)             | Spore (INT)                       |                            |
-|                          |                                   |                            |
 
 I tabellen nedenfor findes samtlige færdigheder og den eller de grundegenskaber den er baseret på i parentes. Efter de sekundære færdigheder er det markeret med et x hvilke professioner der kan vælge færdigheden som professionsfærdighed. Ved våbenfærdighederne, tale og læse/skrive fremmedsprog, håndværk og spille instrument er det angivet med et tal hvor mange den givne profession maximalt kan vælge. Et x ved en af færdighederne angiver et ubegrænset antal (I praksis dog max. 12)
 
 | Sekundære færdigheder                             | Bar | Hel | Kri | LæM | LejM | Mag | Mun | Søf | Rid | Tyv | VmJ |
-| ------------------------------------------------- | --- | --- | --- | --- | ---- | --- | --- | --- | --- | --- | --- |
-| Våbenfærdigheder (Var.)                           | 1   |     | x   |     | 1    |     |     | 3   | 5   | 2   | 3   |
-| Tale fremmedsprog (INT)                           | 2   | 2   | 1   | 4   | 1    | 3   | 3   | 3   | 1   | 1   | 1   |
-| Læse/Skrive fremmedsprog (INT)                    | 1   | 1   |     | 4   |      | 3   | 3   | 1   | 1   |     |     |
-| Administration (INT)                              | x   |     |     | x   | x    |     |     |     | x   | x   |     |
-| Akrobatik (SMI)                                   | x   |     |     |     | x    |     |     | x   |     | x   |     |
-| Alkymi (INT)                                      |     | x   |     | x   |      | x   |     |     |     |     |     |
-| Astrologi (INT)                                   |     |     |     | x   |      | x   |     |     |     |     |     |
-| Afvæbne (SMI)                                     |     |     | x   |     |      |     | x   |     | x   |     |     |
-| Bugtale (PSY)                                     | x   |     |     |     |      |     |     |     |     | x   |     |
-| Beserkergang (PSY)                                |     |     | x   |     |      |     |     |     |     |     |     |
-| Dans (SMI)                                        | x   |     |     |     |      |     |     | x   | x   |     |     |
-| Dirke låse (SMI)                                  | x   |     |     |     | x    |     |     |     |     | x   |     |
-| Dyreheling (INT)                                  |     | x   |     |     |      | x   | x   |     |     |     | x   |
-| Dyretræning (PSY)                                 | x   |     |     |     |      | x   |     |     | x   |     | x   |
-| Dolk (SMI)                                        | x   |     | x   | x   | x    |     |     | x   | x   | x   | x   |
-| Drogekundskab (INT)                               |     | x   |     | x   |      | x   | x   |     |     |     | x   |
-| Entrehage (SMI)                                   |     |     |     |     | x    |     |     | x   |     | x   |     |
-| Forfalskning (INT)                                | x   |     |     | x   | x    |     | x   |     |     | x   |     |
-| Geografi (INT)                                    | x   | x   | x   | x   | x    | x   | x   | x   | x   | x   | x   |
-| Geologi (INT)                                     |     |     |     | x   |      |     |     |     |     |     | x   |
-| Giftkundskab (INT)                                |     | x   |     | x   | x    | x   | x   |     |     | x   | x   |
-| Gøglerkunster (SMI)                               | x   |     |     |     |      |     |     | x   |     | x   |     |
-| Håndtere fælder (SMI)                             |     |     |     |     | x    |     |     |     |     | x   | x   |
-| Håndværk (Var.)                                   | 1   | 1   | 1   |     |      |     | 1   | 1   |     |     | 1   |
-| Hasardspil (PSY)                                  | x   |     | x   | x   | x    |     |     | x   |     | x   |     |
-| Heraldik (INT)                                    | x   |     |     | x   |      |     | x   |     | x   |     |     |
-| Historie (INT)                                    | x   |     |     | x   |      |     | x   |     | x   |     |     |
-| Hypnotisere (PSY)                                 | x   | x   |     |     | x    |     |     |     |     | x   |     |
-| Kampkunst (SMI)                                   |     |     | x   |     | x    |     | x   |     |     |     |     |
-| Knob og Stik (SMI)                                | x   |     |     |     | x    |     | x   | x   |     | x   | x   |
-| Kulturkendskab (INT)                              | x   | x   | x   | x   | x    | x   | x   | x   | x   | x   | x   |
-| Kundskab om dæmoner (INT)                         |     | x   |     | x   |      | x   | x   |     |     |     |     |
-| Kundskab om magi (INT)                            |     | x   |     | x   |      | x   | x   |     | x   |     |     |
-| Kundskab om udøde (INT)                           |     | x   |     | x   |      | x   | x   |     | x   |     |     |
+| ------------------------------------------------- | :-: | :-: | :-: | :-: | :--: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Våbenfærdigheder (Var.)                           |  1  |     |  x  |     |  1   |     |     |  3  |  5  |  2  |  3  |
+| Tale fremmedsprog (INT)                           |  2  |  2  |  1  |  4  |  1   |  3  |  3  |  3  |  1  |  1  |  1  |
+| Læse/Skrive fremmedsprog (INT)                    |  1  |  1  |     |  4  |      |  3  |  3  |  1  |  1  |     |     |
+| Administration (INT)                              |  x  |     |     |  x  |  x   |     |     |     |  x  |  x  |     |
+| Akrobatik (SMI)                                   |  x  |     |     |     |  x   |     |     |  x  |     |  x  |     |
+| Alkymi (INT)                                      |     |  x  |     |  x  |      |  x  |     |     |     |     |     |
+| Astrologi (INT)                                   |     |     |     |  x  |      |  x  |     |     |     |     |     |
+| Afvæbne (SMI)                                     |     |     |  x  |     |      |     |  x  |     |  x  |     |     |
+| Bugtale (PSY)                                     |  x  |     |     |     |      |     |     |     |     |  x  |     |
+| Beserkergang (PSY)                                |     |     |  x  |     |      |     |     |     |     |     |     |
+| Dans (SMI)                                        |  x  |     |     |     |      |     |     |  x  |  x  |     |     |
+| Dirke låse (SMI)                                  |  x  |     |     |     |  x   |     |     |     |     |  x  |     |
+| Dyreheling (INT)                                  |     |  x  |     |     |      |  x  |  x  |     |     |     |  x  |
+| Dyretræning (PSY)                                 |  x  |     |     |     |      |  x  |     |     |  x  |     |  x  |
+| Dolk (SMI)                                        |  x  |     |  x  |  x  |  x   |     |     |  x  |  x  |  x  |  x  |
+| Drogekundskab (INT)                               |     |  x  |     |  x  |      |  x  |  x  |     |     |     |  x  |
+| Entrehage (SMI)                                   |     |     |     |     |  x   |     |     |  x  |     |  x  |     |
+| Forfalskning (INT)                                |  x  |     |     |  x  |  x   |     |  x  |     |     |  x  |     |
+| Geografi (INT)                                    |  x  |  x  |  x  |  x  |  x   |  x  |  x  |  x  |  x  |  x  |  x  |
+| Geologi (INT)                                     |     |     |     |  x  |      |     |     |     |     |     |  x  |
+| Giftkundskab (INT)                                |     |  x  |     |  x  |  x   |  x  |  x  |     |     |  x  |  x  |
+| Gøglerkunster (SMI)                               |  x  |     |     |     |      |     |     |  x  |     |  x  |     |
+| Håndtere fælder (SMI)                             |     |     |     |     |  x   |     |     |     |     |  x  |  x  |
+| Håndværk (Var.)                                   |  1  |  1  |  1  |     |      |     |  1  |  1  |     |     |  1  |
+| Hasardspil (PSY)                                  |  x  |     |  x  |  x  |  x   |     |     |  x  |     |  x  |     |
+| Heraldik (INT)                                    |  x  |     |     |  x  |      |     |  x  |     |  x  |     |     |
+| Historie (INT)                                    |  x  |     |     |  x  |      |     |  x  |     |  x  |     |     |
+| Hypnotisere (PSY)                                 |  x  |  x  |     |     |  x   |     |     |     |     |  x  |     |
+| Kampkunst (SMI)                                   |     |     |  x  |     |  x   |     |  x  |     |     |     |     |
+| Knob og Stik (SMI)                                |  x  |     |     |     |  x   |     |  x  |  x  |     |  x  |  x  |
+| Kulturkendskab (INT)                              |  x  |  x  |  x  |  x  |  x   |  x  |  x  |  x  |  x  |  x  |  x  |
+| Kundskab om dæmoner (INT)                         |     |  x  |     |  x  |      |  x  |  x  |     |     |     |     |
+| Kundskab om magi (INT)                            |     |  x  |     |  x  |      |  x  |  x  |     |  x  |     |     |
+| Kundskab om udøde (INT)                           |     |  x  |     |  x  |      |  x  |  x  |     |  x  |     |     |
 | Kende magi (PSY)                                  |     |     |     | \+  |      |     |     |     |     |     |     |
-| Lægekunst (INT)                                   | x   |     |     |     |      |     | x   |     |     |     |     |
-| Mundaflæsning (INT)                               | x   |     |     |     |      |     |     |     |     | x   |     |
-| Magisk kanalisering (INT)                         |     |     |     |     |      | x   |     |     |     |     |     |
-| Magiskoler (INT)                                  | f   | f   | f   | f   | f    | x   | f   | f   | f   | f   | \++ |
-| Massage (SMI)                                     |     | x   |     |     |      |     | x   |     |     |     |     |
-| Bestikke (KAR)                                    | x   |     |     |     | x    |     |     | x   |     | x   |     |
-| Male (SMI)                                        | x   |     |     |     |      |     | x   |     | x   |     |     |
-| Navigering (INT)                                  |     |     |     |     |      |     |     | x   |     |     |     |
-| Orientering (INT)                                 |     | x   |     |     |      |     |     | x   |     |     | x   |
-| Overlevelse (INT)                                 |     | x   |     |     |      |     |     |     |     |     | x   |
-| Regning (INT)                                     |     |     |     | x   |      | x   | x   |     | x   | x   |     |
-| Skak og brætspil (INT)                            | x   |     |     | x   |      |     |     | x   | x   |     |     |
-| Svømme (SMI)                                      | x   | x   | x   | x   | x    | x   | x   | x   | x   | x   | x   |
-| Sømandskab (INT)                                  |     |     |     |     |      |     |     | x   |     |     |     |
-| Skuespil (KAR)                                    | x   |     |     |     | x    |     |     |     |     | x   |     |
-| Spille instrument (KAR)                           | x   |     |     |     |      |     | 2   | 2   | 2   | 2   |     |
-| Sprogkundskab (INT)                               | x   | x   |     | x   |      | x   | x   |     | x   |     |     |
-| Forudsige vejr (INT)                              |     |     |     |     |      |     |     | x   |     |     | x   |
-| Stangspring (SMI)                                 |     |     |     |     | x    |     |     | x   |     | x   |     |
-| Tegnsprog (INT)                                   |     |     |     |     | x    |     |     |     |     | x   |     |
-| Trække våben (SMI)                                |     |     | x   |     | x    |     |     |     | x   | x   |     |
-| Træstav (SMI)                                     | x   | x   | x   | x   | x    | x   | x   | x   | x   | x   | x   |
-| To våben (Var.)                                   |     |     | x   |     |      |     |     |     | x   |     |     |
-| Underverdenen (INT)                               |     |     |     |     | x    |     |     | x   |     | x   |     |
-| Urtekundskab (INT)                                |     | x   |     | x   |      | x   | x   |     |     |     | x   |
-| Zoologi (INT)                                     |     | x   |     | x   |      | x   | x   |     |     |     | x   |
+| Lægekunst (INT)                                   |  x  |     |     |     |      |     |  x  |     |     |     |     |
+| Mundaflæsning (INT)                               |  x  |     |     |     |      |     |     |     |     |  x  |     |
+| Magisk kanalisering (INT)                         |     |     |     |     |      |  x  |     |     |     |     |     |
+| Magiskoler (INT)                                  |  f  |  f  |  f  |  f  |  f   |  x  |  f  |  f  |  f  |  f  | \++ |
+| Massage (SMI)                                     |     |  x  |     |     |      |     |  x  |     |     |     |     |
+| Bestikke (KAR)                                    |  x  |     |     |     |  x   |     |     |  x  |     |  x  |     |
+| Male (SMI)                                        |  x  |     |     |     |      |     |  x  |     |  x  |     |     |
+| Navigering (INT)                                  |     |     |     |     |      |     |     |  x  |     |     |     |
+| Orientering (INT)                                 |     |  x  |     |     |      |     |     |  x  |     |     |  x  |
+| Overlevelse (INT)                                 |     |  x  |     |     |      |     |     |     |     |     |  x  |
+| Regning (INT)                                     |     |     |     |  x  |      |  x  |  x  |     |  x  |  x  |     |
+| Skak og brætspil (INT)                            |  x  |     |     |  x  |      |     |     |  x  |  x  |     |     |
+| Svømme (SMI)                                      |  x  |  x  |  x  |  x  |  x   |  x  |  x  |  x  |  x  |  x  |  x  |
+| Sømandskab (INT)                                  |     |     |     |     |      |     |     |  x  |     |     |     |
+| Skuespil (KAR)                                    |  x  |     |     |     |  x   |     |     |     |     |  x  |     |
+| Spille instrument (KAR)                           |  x  |     |     |     |      |     |  2  |  2  |  2  |  2  |     |
+| Sprogkundskab (INT)                               |  x  |  x  |     |  x  |      |  x  |  x  |     |  x  |     |     |
+| Forudsige vejr (INT)                              |     |     |     |     |      |     |     |  x  |     |     |  x  |
+| Stangspring (SMI)                                 |     |     |     |     |  x   |     |     |  x  |     |  x  |     |
+| Tegnsprog (INT)                                   |     |     |     |     |  x   |     |     |     |     |  x  |     |
+| Trække våben (SMI)                                |     |     |  x  |     |  x   |     |     |     |  x  |  x  |     |
+| Træstav (SMI)                                     |  x  |  x  |  x  |  x  |  x   |  x  |  x  |  x  |  x  |  x  |  x  |
+| To våben (Var.)                                   |     |     |  x  |     |      |     |     |     |  x  |     |     |
+| Underverdenen (INT)                               |     |     |     |     |  x   |     |     |  x  |     |  x  |     |
+| Urtekundskab (INT)                                |     |  x  |     |  x  |      |  x  |  x  |     |     |     |  x  |
+| Zoologi (INT)                                     |     |  x  |     |  x  |      |  x  |  x  |     |     |     |  x  |
 |                                                   | Bar | Hel | Kri | LæM | LejM | Mag | Mun | Søf | Rid | Tyv | VmJ |
 | \+: Se færdigheden for en forklaring.             |     |     |     |     |      |     |     |     |     |     |     |
 | \++: Se vildmarksjægerens professionsfærdigheder. |     |     |     |     |      |     |     |     |     |     |     |
@@ -668,42 +667,42 @@ Hvis forandringen af grundegenskabsværdien er permanent, så ændrer FV i de pr
 
 I visse tilfælde skal man vurdere hvor godt spillepersonen klarer sig uden at der er en egentlig færdighed at anvende til formålet. I de situationer anvender man i stedet den grundegenskab som er mest passende. Slår man lig med eller under grundegenskaben lykkes man. I mange tilfælde skal sværhedsgraden dog modificeres, så man giver i stedet for problemet en sværhedsgrad mellem 1 og 25. Derefter sætter man sværhedsgraden og en passende grundegenskab ind i modstandstabellen. Man skal slå under den angivne værdi med 1T20 for at lykkes.
 
-| Problem | Sværhedsgrad (SG) |
-|---------|-------------------|
-| Meget let | 1 |
-| Let | 5 |
-| Normalt | 10 |
-| Svært | 15 |
-| Meget svært | 20 |
-| Ekstremt svært | 25 |
+| Problem        | Sværhedsgrad (SG) |
+| -------------- | :---------------: |
+| Meget let      |         1         |
+| Let            |         5         |
+| Normalt        |        10         |
+| Svært          |        15         |
+| Meget svært    |        20         |
+| Ekstremt svært |        25         |
 
 ###### Modstandstabellen
 
 Sværhedsgraden er lodret og grundegenskabsværdien er vandret.
 
-| SG  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | osv |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
-| 2   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
-| 3   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
-| 4   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
-| 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
-| 6   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  |     |
-| 7   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  |     |
-| 8   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  |     |
-| 9   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  |     |
-| 10  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  |     |
-| 11  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  |     |
-| 12  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  |     |
-| 13  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  |     |
-| 14  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  |     |
-| 15  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     |
-| 16  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  |     |
-| 17  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  |     |
-| 18  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  |     |
-| 19  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |     |
-| 20  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  |     |
-| 21  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |     | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |     |
+| SG  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | osv |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  1  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+|  2  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+|  3  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+|  4  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+|  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+|  6  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  | \+  |     |
+|  7  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  | \+  |     |
+|  8  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  | \+  |     |
+|  9  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  | \+  |     |
+| 10  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  | \+  |     |
+| 11  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | \+  |     |
+| 12  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  |     |
+| 13  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  |     |
+| 14  | \-  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  |     |
+| 15  | \-  | \-  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  |     |
+| 16  | \-  | \-  | \-  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  |     |
+| 17  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  |     |
+| 18  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  |     |
+| 19  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  |     |
+| 20  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  |     |
+| 21  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  | \-  |     |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  |     |
 | osv |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 \+: Automatisk succes.
 \-: Automatisk fejlet.
@@ -770,32 +769,32 @@ Grundegenskab: INT
 Denne færdighed bruges for at finde ud af, om en spilleperson hører noget. For at finde ud af det, lægger SL alle de forskellige modifikationer sammen, som har noget at gøre med situationen. Hvis summen af de forskellige modifikationer viser sig at være positiv, så lykkes det automatisk for spillepersonen at opfatte situationen uden at behøve at slå en terning. Hvis den totale sum bliver 0 eller negativ derimod, så må SL slå et modificeret slag for at finde ud af, om spillepersonen hører noget eller ej.
 
 | Afstand til Lyden | Modifikation |     | Lydkilde                     | Modifikation |
-| ----------------- | ------------ | --- | ---------------------------- | ------------ |
-| 0-2m              | \+5          |     | Armbrøstskud                 | \+2          |
-| 3-5               | \+3          |     | Bueskud                      | \-           |
-| 6-10              | \+1          |     | Knust glas                   | \+2          |
-| 11-20             | \-           |     | Legeme der falder til jorden | \-           |
-| 21-50             | \-1          |     | Dør åbnes                    | \-           |
-| 51-75             | \-3          |     | Dør åbnes forsigtigt         | \-3          |
-| 76-150            | \-5          |     | Forsigtige skridt            | \-1          |
-| 151-250           | \-8          |     | Normale skridt               | \-           |
-| 251-400           | \-11         |     | Løbende skridt               | \+1          |
-| 401-600           | \-15         |     | Sværdkamp                    | \+5          |
-| 601-1000          | \-20         |     | Knytnæveslag                 | \+1          |
-| 1001-2000         | \-25         |     | Nys                          | \+1          |
-| 2001-3000         | \-40         |     | Snorken                      | \-           |
-|                   |              |     | Hvisken                      | \-3          |
-| Lytteren...       | Modifikation |     | Tale                         | \-           |
-| Døser             | \-7          |     | Højlydt samtale              | \+2          |
-| Taler             | \-5          |     | Skrig                        | \+5          |
-| Hvisker           | \-2          |     | Eksplosion                   | \+20         |
-| Skriger           | \-10         |     |                              |              |
-| Støjer            | \-10         |     |                              |              |
-| Slås              | \-10         |     |                              |              |
+| ----------------: | :----------: | --- | ---------------------------- | :----------: |
+|              0-2m |     \+5      |     | Armbrøstskud                 |     \+2      |
+|              3-5m |     \+3      |     | Bueskud                      |      \-      |
+|             6-10m |     \+1      |     | Knust glas                   |     \+2      |
+|            11-20m |      \-      |     | Legeme der falder til jorden |      \-      |
+|            21-50m |     \-1      |     | Dør åbnes                    |      \-      |
+|            51-75m |     \-3      |     | Dør åbnes forsigtigt         |     \-3      |
+|           76-150m |     \-5      |     | Forsigtige skridt            |     \-1      |
+|          151-250m |     \-8      |     | Normale skridt               |      \-      |
+|          251-400m |     \-11     |     | Løbende skridt               |     \+1      |
+|          401-600m |     \-15     |     | Sværdkamp                    |     \+5      |
+|         601-1000m |     \-20     |     | Knytnæveslag                 |     \+1      |
+|        1001-2000m |     \-25     |     | Nys                          |     \+1      |
+|        2001-3000m |     \-40     |     | Snorken                      |      \-      |
+|                   |              |     | Hvisken                      |     \-3      |
+|       Lytteren... | Modifikation |     | Tale                         |      \-      |
+|             Døser |     \-7      |     | Højlydt samtale              |     \+2      |
+|             Taler |     \-5      |     | Skrig                        |     \+5      |
+|           Hvisker |     \-2      |     | Eksplosion                   |     \+20     |
+|           Skriger |     \-10     |     |                              |              |
+|            Støjer |     \-10     |     |                              |              |
+|              Slås |     \-10     |     |                              |              |
 |                   |              |     |                              |              |
-| Andre faktorer    | Modifikation |     |                              |              |
-| Medvind fra lyden | \+1 <-> +5   |     |                              |              |
-| Modvind fra lyden | \-1 <-> -5   |     |                              |              |
+|    Andre faktorer | Modifikation |     |                              |              |
+| Medvind fra lyden |  \+1 <-> +5  |     |                              |              |
+| Modvind fra lyden |  \-1 <-> -5  |     |                              |              |
 Har man hørt noget, kan man prøve at identificere HVOR og HVAD, lyden kom fra. Dog kræves et nyt slag i færdigheden Lytte (det udføres af SL) for hvert svar, man måtte ønske. SL må tage hensyn til omstændighederne omkring lyden for at afgøre, hvilke modifikationer der skal bruges.
 
 ##### Læse/skrive modersmål
@@ -804,19 +803,19 @@ Type: Primær, B
 Grundegenskab: Speciel (INT)
 En spillepersons BC i at læse og skrive sit modersmål afgøres af social stand og INT efter tabellen nedenfor.
 
-| Social stand | BC |  | Race | Sprog de forskellige racer får BC i at læse/skrive |
-|--------------|----|--|------|----------------------------------------------------|
-| Overklasse eller adel (INT 15+) | 20 |  | And | Et menneskesprog |
-| Overklasse eller adel (INT 1-14) | 16 |  | Dværg | Dværgisk |
-| Højere middelklasse (INT 15+) | 16 |  | Elver | Elvisk og et menneskesprog |
-| Højere middelklasse (INT 1-14) | 11 |  | Halvelver | Elvisk eller et menneskesprog |
-| Lavere middelklasse (INT 15+) | 11 |  | Halvork | Et menneskesprog |
-| Lavere middelklasse (INT 1-14) | 5 |  | Hobbit | Et menneskesprog |
-| Højere underklasse (INT 15+) | 5 |  | Menneske | Et menneskesprog |
-| Højere underklasse (INT 1-14) | 1 |  |  |  |
-| Øvrige (INT 15+) | 1 |  |  |  |
-| Øvrige (INT 1-14) | 0 |  |  |  |
-| Se i øvrigt Læse/Skrive fremmedsprog blandt de sekundære færdigheder. |  |  |  |  |
+| Social stand                     | BC  |     | Race      | Sprog de forskellige racer får BC i at læse/skrive |
+| -------------------------------- | --- | --- | --------- | -------------------------------------------------- |
+| Overklasse eller adel (INT 15+)  | 20  |     | And       | Et menneskesprog                                   |
+| Overklasse eller adel (INT 1-14) | 16  |     | Dværg     | Dværgisk                                           |
+| Højere middelklasse (INT 15+)    | 16  |     | Elver     | Elvisk og et menneskesprog                         |
+| Højere middelklasse (INT 1-14)   | 11  |     | Halvelver | Elvisk eller et menneskesprog                      |
+| Lavere middelklasse (INT 15+)    | 11  |     | Halvork   | Et menneskesprog                                   |
+| Lavere middelklasse (INT 1-14)   | 5   |     | Hobbit    | Et menneskesprog                                   |
+| Højere underklasse (INT 15+)     | 5   |     | Menneske  | Et menneskesprog                                   |
+| Højere underklasse (INT 1-14)    | 1   |     |           |                                                    |
+| Øvrige (INT 15+)                 | 1   |     |           |                                                    |
+| Øvrige (INT 1-14)                | 0   |     |           |                                                    |
+Se i øvrigt Læse/Skrive fremmedsprog blandt de sekundære færdigheder.
 
 ##### Ride
 
@@ -846,15 +845,15 @@ Type: Primær
 Grundegenskab: SMI
 Denne færdighed anvendes når en spilleperson forsøger at bevæge sig så lydløst som muligt. Han slår et færdighedsslag og anvender differenceværdien til at modificere CL på Opdage Fare for dem som forsøger at opdage ham. En person som sniger sig, kan ikke bevæge sig hurtigere end det halve af sin normale hastighed. Man kan dog snige sig ekstra forsigtigt med en fjerdedel hastighed og få -5 på færdighedsslaget. Der kræves et færdighedsslag hvert minut. SL bør kigge på følgende tabel når han regner CL ud for den som sniger sig.
 
-| Omstændighed | CL-modifikation |
-|--------------|-----------------|
-| Regn | \+1 <-> +5 |
-| Storm/Tordenvejr | \+10 |
-| Vind og tætte træer | \+1 <-> +5 |
-| Vandfald | \+1 <-> +5 |
-| Metalrustning | \-4 |
-| Grus | \-4 |
-| Anden lyd i nærheden | \+1 <-> +20 |
+| Omstændighed         | CL-modifikation |
+| -------------------- | :-------------: |
+| Regn                 |   \+1 <-> +5    |
+| Storm/Tordenvejr     |      \+10       |
+| Vind og tætte træer  |   \+1 <-> +5    |
+| Vandfald             |   \+1 <-> +5    |
+| Metalrustning        |       \-4       |
+| Grus                 |       \-4       |
+| Anden lyd i nærheden |   \+1 <-> +20   |
 
 ##### Spore
 
@@ -862,22 +861,22 @@ Type: Primær
 Grundegenskab: INT
 Dette er færdigheden at følge de spor nogen eller noget har efterladt sig. Man slår med en times mellemrum. Mislykkes sporeren med sit færdighedsslag har han tabt sporet og fumler han finder han et andet spor som han følger i 1T6 timer. SL bør slå hver gang der opstår et valg hvis f. eks. vejen deler sig.
 
-| Underlag | CL-modifikation |  | Sporets alder | CL-modifikation |
-|----------|-----------------|--|---------------|-----------------|
-| Blødt | \+5 |  | Op til en time | \- |
-| Medium | \- |  | Op til 6 timer | \-1 |
-| Hårdt | \-5 |  | Op til 12 timer | \-2 |
-| Mudret | \+5 |  | Op til 24 timer | \-3 |
-| Blødt efter regn | \+2 |  | Op til 2 dage | \-5 |
-| Sne | \+5 |  | Op til 7 dage | \-7 |
-|  |  |  | Op til 14 dage | \-15 |
-| Vegetation |  |  | Mere end 14 dage | \-20 |
-| Skov | \+2 |  |  |  |
-| Højt græs | \+2 |  | Diverse |  |
-| Ingen f. eks. på et bjerg | \-10 |  | Den forfulgte bløder | \+3 |
-| Buske | \+1 |  | Regn | \-2 pr. time |
-|  |  |  | Snefald | \-5 pr. time |
-| Hvis den forfulgte ved at han bliver forfulgt kan han forsøge at skjule sine spor. Sporerens CL mindskes i så fald med den forfulgtes differenceværdi i Spore (Han skal slå et færdighedsslag.) |  |  |  |  |
+| Underlag                  | CL-modifikation |     | Sporets alder        | CL-modifikation |
+| ------------------------- | :-------------: | --- | -------------------- | :-------------: |
+| Blødt                     |       \+5       |     | Op til en time       |       \-        |
+| Medium                    |       \-        |     | Op til 6 timer       |       \-1       |
+| Hårdt                     |       \-5       |     | Op til 12 timer      |       \-2       |
+| Mudret                    |       \+5       |     | Op til 24 timer      |       \-3       |
+| Blødt efter regn          |       \+2       |     | Op til 2 dage        |       \-5       |
+| Sne                       |       \+5       |     | Op til 7 dage        |       \-7       |
+|                           |                 |     | Op til 14 dage       |      \-15       |
+| Vegetation                |                 |     | Mere end 14 dage     |      \-20       |
+| Skov                      |       \+2       |     |                      |                 |
+| Højt græs                 |       \+2       |     | Diverse              |                 |
+| Ingen f. eks. på et bjerg |      \-10       |     | Den forfulgte bløder |       \+3       |
+| Buske                     |       \+1       |     | Regn                 |  \-2 pr. time   |
+|                           |                 |     | Snefald              |  \-5 pr. time   |
+Hvis den forfulgte ved at han bliver forfulgt kan han forsøge at skjule sine spor. Sporerens CL mindskes i så fald med den forfulgtes differenceværdi i Spore (Han skal slå et færdighedsslag.)
 
 ##### Stjæle ting
 
@@ -885,12 +884,12 @@ Type: Primær
 Grundegenskab: SMI
 Denne færdighed anvendes når man ønsker at stjæle noget ud af nogens lommer uden at vedkommende opdager noget. Hvis man lykkes med sit færdighedsslag fik man fat på det man ville. Hvis offeret lykkes med et perfekt PSY slag opdages tyven dog med det samme. Hvis tyven mislykkes er et vellykket PSY slag nok og fumler tyven, så er et slag ikke nødvendigt. Slår tyven et perfekt slag, så kan offeret ikke opdage det. Hvis andre er i nærheden er der altid 5% chance for at de ser tyveriet, mislykkes færdighedsslaget er chancen 25%.
 
-| Omstændighed | CL-modifikation |
-|--------------|-----------------|
-| Tingen er i yderlommen | \-1 |
-| Tingen er i inderlommer | \-5 |
-| Tingen sidder på offeret (Ring, halskæde, etc.) | \-12 |
-| Tingen hænger i offerets bælte | \- |
+| Omstændighed                                    | CL-modifikation |
+| ----------------------------------------------- | :-------------: |
+| Tingen er i yderlommen                          |       \-1       |
+| Tingen er i inderlommer                         |       \-5       |
+| Tingen sidder på offeret (Ring, halskæde, etc.) |      \-12       |
+| Tingen hænger i offerets bælte                  |       \-        |
 
 ##### Tale modersmål
 
@@ -898,16 +897,16 @@ Type: Primær
 Grundegenskab: Speciel (INT)
 En spillepersons BC i sit eller sine modersmål afhænger af social stand. Hvis han i følge tabellen for social stand tilhører overklassen eller adelen så har han FV 20 (B5) som BC. Alle andre spillepersoner har FV 16 (B4).
 
-| Race | Sprog man får BC i |
-|------|--------------------|
-| And | Et menneskesprog |
-| Dværg | Dværgisk og et menneskesprog |
-| Elver | Elvisk og et menneskesprog |
-| Halvelver | Elvisk og et menneskesprog |
-| Halvork | Sortsprog og et menneskesprog |
-| Hobbit | Et menneskesprog |
-| Menneske | Et menneskesprog |
-| Se i øvrigt færdigheden Tale fremmedsprog under sekundære færdigheder. |  |
+| Race      | Sprog man får BC i            |
+| --------- | ----------------------------- |
+| And       | Et menneskesprog              |
+| Dværg     | Dværgisk og et menneskesprog  |
+| Elver     | Elvisk og et menneskesprog    |
+| Halvelver | Elvisk og et menneskesprog    |
+| Halvork   | Sortsprog og et menneskesprog |
+| Hobbit    | Et menneskesprog              |
+| Menneske  | Et menneskesprog              |
+Se i øvrigt færdigheden Tale fremmedsprog under sekundære færdigheder.
 
 ##### Opdage fare
 
@@ -997,11 +996,11 @@ Grundegenskab: SMI
 Kunsten at dirke en lås uden at have den rigtige nøgle er en hel videnskab, som kræver meget øvelse og et stort bundt dirke. Hvis du ikke har nogen dirke, har du kun halv chance for at lykkes med at dirke låsen. Nogle virkelig gode dirke eller meget store dirkesæt kan give en bonus, +1T6 eller muligvis +1T10. SL skal tildele en sværhedsgrad til låsen, normalt 1 til 20, men en sværere lås kan være så høj som 25. Hvis du ikke har oplysninger om en lås, kan du antage, at dens sværhedsgrad er 15. Det kan være en tidskrævende proces at dirke en lås op. Hver SR nogen forsøger at gøre dette, skal han lave et færdighedsslag. Hvis dette mislykkes, sker der ikke noget, han kan prøve igen næste runde. Lykkes det dog, trækkes differenceværdien fra låsens sværhedsgrad. Når sværhedsgraden når '0', er låsen gået op. Men for hvert mislykket forsøg øges sværhedsgraden med 1T6. Hvis han nogensinde slår et perfekt slag, åbner låsen med det samme. Hvis han derimod skulle fumle, betyder det, at han indser, at låsen overstiger hans evne, og han må ikke prøve igen, før han har opnået en højere FV. Han skal også slå på fumletabellen:
 
 | 1T4 | Resultat                                                                                                                                                |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Dirken knækker, men sætter sig ikke i låsen.                                                                                                            |
-| 2   | Dirken knækker og sætter sig i låsen. Denne lås skal skilles ad af en låsesmed for at kunne åbnes, selvom du har den rigtige nøgle hjælper det ikke.    |
-| 3   | Total fiasko og knust selvtillid. Du har -5 til CL i Dirke Låse de næste tre dage.                                                                      |
-| 4   | Mental blokering. Du indser, at denne lås er alt for svær for dig, og du går videre til en lettere opgave. Du har -10 På CL På alle låse i en uge frem. |
+| :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | Dirken knækker, men sætter sig ikke i låsen.                                                                                                            |
+|  2  | Dirken knækker og sætter sig i låsen. Denne lås skal skilles ad af en låsesmed for at kunne åbnes, selvom du har den rigtige nøgle hjælper det ikke.    |
+|  3  | Total fiasko og knust selvtillid. Du har -5 til CL i Dirke Låse de næste tre dage.                                                                      |
+|  4  | Mental blokering. Du indser, at denne lås er alt for svær for dig, og du går videre til en lettere opgave. Du har -10 På CL På alle låse i en uge frem. |
 
 ##### Dyreheling
 Type: Sekundær
@@ -1050,16 +1049,16 @@ Man måste ha minst FV B4 i att Skriva det språk på vilket förfalskningen gö
 Denne færdighed bruges til at forfalske dokumenter, passersedler, underskrifter, segl osv. For at opdage forfalskede dokumenter, skal modtageren lykkes med et perfekt slag i færdigheden Finde Skjulte Ting , modificeret af differenceværdien mellem ​​forfalskerens færdighedsslag og modifikationerne nedenfor . For at kunne lave en forfalskning skal man have adgang til originalen i mindst 60 minutter minus forfalskerens FV. Du skal mindst have FV B4 i at skrive det sprog, som forfalskningen skal laves på.
 
 | Omstændighed                              | Modifikation på at gennemskue forfalskningen |
-| ----------------------------------------- | -------------------------------------------- |
-| Offeret har lavet originalen              | +5                                           |
-| Offeret har set originalen eller lignende | +2                                           |
+| ----------------------------------------- | :------------------------------------------: |
+| Offeret har lavet originalen              |                      +5                      |
+| Offeret har set originalen eller lignende |                      +2                      |
 
 | Omstændighed                                       | Modifikation på forfalskerens CL |
-| -------------------------------------------------- | -------------------------------- |
-| Originalen er udstedt af kongen, eller tilsvarende | -10                              |
-| Segl                                               | -5                               |
-| Underskrift                                        | -2                               |
-| For hver side originalen har, i ca A4 størrelse.   | -1                               |
+| -------------------------------------------------- | :------------------------------: |
+| Originalen er udstedt af kongen, eller tilsvarende |               -10                |
+| Segl                                               |                -5                |
+| Underskrift                                        |                -2                |
+| For hver side originalen har, i ca A4 størrelse.   |                -1                |
 Flere modifikationer kan gælde samtidig.
 
 ##### Geografi
@@ -1152,16 +1151,16 @@ Hvis færdighedsslaget er et fumleslag, får du med direkte forkerte oplysninger
 Ved et perfekt slag kan det ske, at du finder ud af ting, som du ikke har bedt om, men alligevel har gavn af.
 
 | Eksempler på hændelser                          | CL-modifikation |
-| ----------------------------------------------- | --------------- |
-| Meget vigtig, f. eks. en stor krig              | +5              |
-| Vigtig, f. eks. kongemord, en mindre krig       | -               |
-| Mindre, f. eks. oprørsforsøg, mord på lensherre | -5              |
-| Minimal, f. eks. oversvømmelse                  | -10             |
+| ----------------------------------------------- | :-------------: |
+| Meget vigtig, f. eks. en stor krig              |       +5        |
+| Vigtig, f. eks. kongemord, en mindre krig       |        -        |
+| Mindre, f. eks. oprørsforsøg, mord på lensherre |       -5        |
+| Minimal, f. eks. oversvømmelse                  |       -10       |
 |                                                 |                 |
 | **Andre modifikationer**                        |                 |
-| Hændelsen skete i et andet land                 | -2              |
-| Hændelsen skete på et andet kontinent           | -10             |
-| For hver halvtreds år tilbage i tiden           | -1              |
+| Hændelsen skete i et andet land                 |       -2        |
+| Hændelsen skete på et andet kontinent           |       -10       |
+| For hver halvtreds år tilbage i tiden           |       -1        |
 ##### Hypnotisere
 Type: Sekundær
 Professioner: Barde, Heler, Lejemorder, Tyv.
@@ -1179,29 +1178,29 @@ De ubevæbnede kampkunster, der findes i Drager og Dæmoners verden, er mange og
 Ubevæbnet kamp kan ikke udføres i rustning, der er tungere end læder. Hvis kampkunsten mangler teknikken "ubevæbnet våbenparering", kan kæmperen, hvis han selv er ubevæbnet, kun parere ubevæbnede angreb.
 
 | Teknik                  | Grundpris |
-| ----------------------- | --------- |
-| Afvæbne                 | 1,0       |
-| Bagspark                | 0,5       |
-| Bedøvende slag          | 1,0       |
-| Blindkamp               | 2,0       |
-| Dobbeltslag             | 1,0       |
-| Dobbeltspark            | 1,5       |
-| Faldteknik/rullefald    | 0,5       |
-| Finter                  | 0,5       |
-| Springspark             | 1,0       |
-| Højt kast +             | 1,0       |
-| Initiativbonus          | 0,5       |
-| Knuseslag               | 1,0       |
-| Liggende kamp           | 1,0       |
-| Lavt kast +             | 0,5       |
-| Låse/nedtage +          | 1,0       |
-| Normalt slag            | 0,5       |
-| Normalt spark           | 0,5       |
-| Ubevæbnet våbenparering | 0,5       |
-| Cirkelspark             | 1,0       |
-| Stål                    | 1,0       |
-| Opspring                | 0,5       |
-| Vidvinkelsyn            | 1,0       |
+| ----------------------- | :-------: |
+| Afvæbne                 |    1,0    |
+| Bagspark                |    0,5    |
+| Bedøvende slag          |    1,0    |
+| Blindkamp               |    2,0    |
+| Dobbeltslag             |    1,0    |
+| Dobbeltspark            |    1,5    |
+| Faldteknik/rullefald    |    0,5    |
+| Finter                  |    0,5    |
+| Springspark             |    1,0    |
+| Højt kast +             |    1,0    |
+| Initiativbonus          |    0,5    |
+| Knuseslag               |    1,0    |
+| Liggende kamp           |    1,0    |
+| Lavt kast +             |    0,5    |
+| Låse/nedtage +          |    1,0    |
+| Normalt slag            |    0,5    |
+| Normalt spark           |    0,5    |
+| Ubevæbnet våbenparering |    0,5    |
+| Cirkelspark             |    1,0    |
+| Stål                    |    1,0    |
+| Opspring                |    0,5    |
+| Vidvinkelsyn            |    1,0    |
 \+ Kan kun anvendes mod menneskelignende modstandere.
 
 ###### Beskrivelse af teknikkerne
@@ -1256,7 +1255,7 @@ Professioner: Barde, lejemorder, Munk, Søfarer, Tyv, Vildmarksjæger.
 Grundegenskab: SMI
 Denne færdighed bruges til at binde og løse holdbare og målrettede knob. Hvis du f.eks. vil forsøge at binde nogen, kan den bundne ved at lykkes på et færdighedsslag, modificeret med binderens FV i Knob og Stik, bryde fri fra rebene.
 
-==Eksempel: Teval (Knob og Stik 8) er blevet bundet af en ork med Knob og Stik 3. Hans CL for at slippe fri er 8-3=5.==
+==Eksempel: Gandor (Knob og Stik 8) er blevet bundet af en ork med Knob og Stik 3. Hans CL for at slippe fri er 8-3=5.==
 
 Du kan aldrig bryde fri af reb, der er blevet bundet med et perfekt slag. Med et perfekt slag kan du bryde fri af alle reb, undtagen dem, der er bundet med et perfekt slag. Færdigheden kan også bruges til at lave rebstiger, tackler til skibe eller til at sno eller flette reb for at gøre dem mere holdbare.
 
@@ -1413,13 +1412,13 @@ Grundegenskab: SMI
 Flytteformåen tælles i kvadrater pr. SR. I tilfælde af at der svømmes om kap vinder den, der har den højeste SMI. Man kan under ingen omstændigheder svømme i rustning, heller ikke læderrustning. Du kan holde dig flydende i læderpanser, men ikke mere end i FYS/2 minutter. Du skal lave færdighedsslag i svære situationer, f.eks. hvis vandet er meget oprørt, hvis du tilfældigvis ender i en strømhvirvel, hvis du er lettere såret (hvis du er hårdt såret, kan du slet ikke gøre noget), eller i andre situationer efter SL's skøn. Et passende tidsinterval for færdighedsslag er et minut. Svømmeevne inddeles i de nedenstående niveauer.
 
 | FN  | Svømmeevne        | Flytteformåen |
-| --- | ----------------- | ------------- |
-| 0   | Ingen             | 0             |
-| 1   | Svømmekyndig      | 1             |
-| 2   | Anstændig svømmer | 2             |
-| 3   | God svømmer       | 3             |
-| 4   | Dygtig svømmer    | 4             |
-| 5   | Mestersvømmer     | 5             |
+| :-: | ----------------- | :-----------: |
+|  0  | Ingen             |       0       |
+|  1  | Svømmekyndig      |       1       |
+|  2  | Anstændig svømmer |       2       |
+|  3  | God svømmer       |       3       |
+|  4  | Dygtig svømmer    |       4       |
+|  5  | Mestersvømmer     |       5       |
 ##### Sømandskab
 Type: Sekundær
 Professioner: Søfarer.
@@ -1583,17 +1582,17 @@ Bemærk, at PSY vs. PSY-kampene skal være virkelige, alvorlige situationer, hvo
 Når du præsterer en stor bedrift eller efter en lang karriere som eventyrer bliver exceptionelt dygtig til noget, bliver du optaget i rækken af ​​eventyrverdenens helte. At være en helt har både positive og negative effekter, hvilket vil blive vist senere. Hvor stor en helt du egentlig er, bestemmes af noget, vi kalder heltepoint (HP). HP kan bruges til forskellige ting, hvorefter de er brugt op. Det er ikke altid helt positivt at være helt, for så bliver man notorisk og anerkendt, hvilket man ikke altid vil være. Chancen for at blive anerkendt er normalt (samlet akkumuleret HP i livet)%. Denne procentvise chance skal modificeres afhængigt af f.eks. hvor meget helten har bevæget sig i området, hvor mange bedrifter han udførte der, og hvor længe siden det var. I tabellen nedenfor er der nogle eksempler på, hvor mange HP en rolleperson kan få for forskellige gerninger. Vi kan ikke beskrive samtlige heltedåde, men du kan som SL bruge det som rettesnor. Du kan også som SL være parat til at trække HP fra rollepersonerne, hvis de laver ekstremt 'uhelteagtige' handlinger, f.eks. forlader sine venner i farens time, forråder venner eller nægter at acceptere udfordringer til dueller.
 
 | Heltedåd                                        | Heltepoint |
-| ----------------------------------------------- | ---------- |
-| Opnå FV21, 41,61 i en færdighed                 | 1T4        |
-| Vinde turnering med mere end 400 deltagere      | 5          |
-| Redde prinsessen på kongens befaling            | 10         |
-| Dræbe fjendens hærfører                         | 10         |
-| Opdage nyt kontinent                            | 10         |
-| Belejre og erobre en fjendtlig borg             | 10         |
-| Stjæle skatte fra et monster uden at dræbe det+ | 5-25       |
-| Dræbe et monster+                               | 10-50      |
-| Redde kongeriget fra den visse undergang        | 50         |
-| Besejre en anden helt                           | ++         |
+| ----------------------------------------------- | :--------: |
+| Opnå FV21, 41,61 i en færdighed                 |    1T4     |
+| Vinde turnering med mere end 400 deltagere      |     5      |
+| Redde prinsessen på kongens befaling            |     10     |
+| Dræbe fjendens hærfører                         |     10     |
+| Opdage nyt kontinent                            |     10     |
+| Belejre og erobre en fjendtlig borg             |     10     |
+| Stjæle skatte fra et monster uden at dræbe det+ |    5-25    |
+| Dræbe et monster+                               |   10-50    |
+| Redde kongeriget fra den visse undergang        |     50     |
+| Besejre en anden helt                           |     ++     |
 \+: F. eks. drager, gorgoner, fuglen rok, titaner, dæmoner. dødsridder eller et anden sjældent og dødsensfarlig væsen.
 \++: Du får 10%(rundet ned) af den fjendtlige helts samlede heltepoint.
 
