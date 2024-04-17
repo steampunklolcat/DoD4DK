@@ -450,18 +450,36 @@ Man kan kaste en fakkel for at antænde noget brændbart, f.eks. et stråtag. Fo
 
 ###### Rustningstabeller
 
-| Navn (Kropsdel)          | Absorbering | Vægt i Kg | Pris i sm |     | Navn (Kropsdel)                  | Absorbering | Vægt i Kg | Pris i sm |
-| ------------------------ | ----------- | --------- | --------- | --- | -------------------------------- | ----------- | --------- | --------- |
-| **Hjelm** (Hoved)        |             |           |           |     | **Harnisk** (Brystkasse og mave) |             |           |           |
-| Stofhætte                | 1           | 0,5       |           |     |                                  |             |           |           |
-| Læderhætte               | 2           | 0,5       |           |     |                                  |             |           |           |
-| Nittet læderhætte        | 3           | 1         |           |     |                                  |             |           |           |
-| Ringbrynjehætte (1)      | 4           | 4         |           |     |                                  |             |           |           |
-| Åben metalhjelm          | 6           | 4         |           |     |                                  |             |           |           |
-| Åben metalhjelm m. visir | 6           | 6         |           |     |                                  |             |           |           |
-| Tøndehjelm (2)           | 8           | 6         |           |     |                                  |             |           |           |
-| **Armskinner** (Arm) (2) |             |           |           |     |                                  |             |           |           |
-|                          |             |           |           |     |                                  |             |           |           |
+| Navn (Kropsdel)          | Absorbering | Vægt i Kg | Pris i sm |     | Navn (Kropsdel)                          | Absorbering | Vægt i Kg | Pris i sm |
+| ------------------------ | :---------: | :-------: | --------: | --- | ---------------------------------------- | :---------: | :-------: | --------: |
+| **Hjelm** (Hoved)        |             |           |           |     | **Harnisk** (Brystkasse og mave)         |             |           |           |
+| Stofhætte                |      1      |    0,5    |        25 |     | Tykt tøj                                 |      1      |     2     |       130 |
+| Læderhætte               |      2      |    0,5    |        80 |     | Læder                                    |      2      |     3     |       600 |
+| Nittet læderhætte        |      3      |     1     |       180 |     | Nittet læder                             |      3      |     4     |      1150 |
+| Ringbrynjehætte (1)      |      4      |     4     |       300 |     | Hærdet læder                             |      4      |     4     |      1500 |
+| Åben metalhjelm          |      6      |     4     |       500 |     | Ringbrynjeskjorte (1)                    |      5      |    10     |      1500 |
+| Åben metalhjelm m. visir |      6      |     6     |      1500 |     | Forstærket ringbrynje (1)                |      6      |    15     |      1150 |
+| Tøndehjelm (2)           |      8      |     6     |      1000 |     | Skælpanser                               |      6      |    14     |      1500 |
+| **Armskinner** (Arm) (3) |             |           |           |     | Lameleret metal                          |      6      |    10     |      1550 |
+| Tykt tøj                 |      1      |     2     |        50 |     | Metal                                    |      7      |    12     |      1900 |
+| Læder                    |      2      |     3     |       250 |     | Lamineret metal                          |      8      |    15     |      1800 |
+| Nittet læder             |      3      |     5     |       500 |     | **Brynje** (Brystkasse, mave, arme) (4)  |             |           |           |
+| Hærdet læder             |      4      |     3     |       750 |     | Ringbrynje (1)                           |      5      |    16     |      2000 |
+| Lameleret metal          |      6      |    5,5    |       950 |     | Forstærket ringbrynje (1)                |      6      |    24     |      2500 |
+| Metal                    |      7      |     6     |      1350 |     | **Brynjebukser** (Ben)                   |             |           |           |
+| Lamineret metal          |      8      |     8     |      1200 |     | Ringbrynje (1)                           |      5      |    15     |      2500 |
+| **Benskinner** (Ben) (3) |             |           |           |     | Forstærket ringbrynje (1)                |      6      |   22,5    |      3250 |
+| Tykt tøj                 |      1      |     3     |        80 |     | **Hauberk** (Hele kroppen, ej hoved)     |             |           |           |
+| Læder                    |      2      |     4     |       400 |     | Ringbrynje (1)                           |      5      |    32     |      3500 |
+| Nittet læder             |      3      |     6     |       750 |     | Forstærket ringbrynje (1)                |      6      |    48     |      4500 |
+| Hærdet læder             |      4      |     5     |      1150 |     | **Helrustning** (Hele kroppen, ej hoved) |             |           |           |
+| Lameleret metal          |      6      |     6     |      1550 |     | Metal                                    |      8      |    25     |      5100 |
+| Metal                    |      7      |     7     |      1850 |     |                                          |             |           |           |
+| Lamineret metal          |      8      |     9     |      1600 |     |                                          |             |           |           |
+(1): Sår kan ikke blive inficerede.
+(2): -5 til CL i Finde Skjulte Ting og Opdage Fare
+(3): Pris og vægt gælder pr. par.
+(4): Ringbrynjehætte kan indgå, læg 3Kg til vægten og 200sm til prisen.
 
 ##### Modstandstabellen
 | SG  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | osv |
@@ -491,13 +509,13 @@ Man kan kaste en fakkel for at antænde noget brændbart, f.eks. et stråtag. Fo
 \+: Automatisk succes.
 \-: Automatisk fejlet.
 
-| Problem | Sværhedsgrad (SG) |
-|---------|-------------------|
-| Meget let | 1 |
-| Let | 5 |
-| Normalt | 10 |
-| Svært | 15 |
-| Meget svært | 20 |
-| Ekstremt svært | 25 |
+| Problem        | Sværhedsgrad (SG) |
+| -------------- | :---------------: |
+| Meget let      |         1         |
+| Let            |         5         |
+| Normalt        |        10         |
+| Svært          |        15         |
+| Meget svært    |        20         |
+| Ekstremt svært |        25         |
 
 ### Væsener
