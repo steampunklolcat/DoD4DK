@@ -22,7 +22,7 @@ Din rolleperson består af syv grundegenskabsværdier, der normalt er et sted me
 • Størrelse (STO)
 
 #### STY
-STY står for styrke og er dels et mål for din rene muskelstyrke, og dels et mål for, hvor godt du kan udnytte den bedst muligt. STY er en vigtig grundegenskab, når du kæmper, fordi den bestemmer, hvor meget skade du gør i nærkamp. STY bestemmer også, hvor meget udstyr du kan have med dig, og hvor tung rustning du kan håndtere.
+STY står for styrke og er dels et mål for din rene muskelstyrke, og dels et mål for, hvor godt du er til at udnytte den. STY er en vigtig grundegenskab, når du kæmper, fordi den bestemmer, hvor meget skade du gør i nærkamp. STY bestemmer også, hvor meget udstyr du kan have med dig, og hvor tung rustning du kan håndtere.
 
 #### FYS
 FYS står for fysik og er et mål for dit helbred, udholdenhed, modstandsdygtighed over for gifte og sygdomme, hårdførhed mod vejr og vind samt evne til at modstå skader. Jo højere din FYS, jo bedre kondition og jo mere skade kan du modstå. Ligesom STY er dette en vigtig egenskab for krigere.

@@ -1,6 +1,7 @@
 # Spillelederens opgaver
 
 ## Tid og bevægelse
+
 ### Stor tidsskala
 Stor tidsskala bruges, når rollepersonerne ikke udfører aktiviteter, der er særligt interessante. Det involverer ofte rejser eller længere hvileperioder. I denne tid behøver SL kun at beskrive begivenheder i store træk. Hvis de rejser, kan SL for eksempel beskrive, hvordan landet eller byen ser ud generelt, hvilke byer eller landsbyer karaktererne passerer igennem osv. Man skal forvente, at der kan ske noget, og så bruger man en detaljeret tidsskala, eller evt. selv kamprunder. Om der sker noget afhænger af, om spillerne vil sætte sig selv i sådan en situation, eller at SL sætter spillerne i sådan en situation gennem for eksempel tilfældige møder.
 
