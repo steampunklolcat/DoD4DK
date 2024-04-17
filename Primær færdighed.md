@@ -1,3 +1,3 @@
-##### Færdighed
+## Færdighed
 Type: Primær
 Grundegenskab:

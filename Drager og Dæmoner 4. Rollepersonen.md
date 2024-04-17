@@ -1,17 +1,17 @@
-### Forord
+# Forord
 Dette er en dansk oversættelse og omskrivning af den svenske fjerde udgave af Drager og Dæmoner fra 1991.
 
-### Introduktion
+# Introduktion
 
-#### Hvad er rollespil
+## Hvad er rollespil
 Rollespil er et spil om at skabe en god historie i fællesskab, styret af et regelsystem og terninger.
 
-#### Udrustning
+## Udrustning
 Du får brug for papir, blyant, rollepersonsark og mindst et sæt terninger, bestående af T4, T6, T8, T10, T12 og T20.
 
-#### Rollepersonen
+## Rollepersonen
 
-##### Grundegenskaberne
+### Grundegenskaberne
 Din rolleperson består af syv grundegenskabsværdier, der normalt er et sted mellem 3 og 18, som beskriver hvordan rollepersonen er. Jo højere værdi, jo bedre. De syv grundegenskaber er:
 • Styrke (herefter forkortet som STY)
 • Fysik (FYS)
@@ -21,25 +21,25 @@ Din rolleperson består af syv grundegenskabsværdier, der normalt er et sted me
 • Karisma (KAR)
 • Størrelse (STO)
 
-###### STY
+#### STY
 STY står for styrke og er dels et mål for din rene muskelstyrke, og dels et mål for, hvor godt du kan udnytte den bedst muligt. STY er en vigtig grundegenskab, når du kæmper, fordi den bestemmer, hvor meget skade du gør i nærkamp. STY bestemmer også, hvor meget udstyr du kan have med dig, og hvor tung rustning du kan håndtere.
 
-###### FYS
+#### FYS
 FYS står for fysik og er et mål for dit helbred, udholdenhed, modstandsdygtighed over for gifte og sygdomme, hårdførhed mod vejr og vind samt evne til at modstå skader. Jo højere din FYS, jo bedre kondition og jo mere skade kan du modstå. Ligesom STY er dette en vigtig egenskab for krigere.
 
-###### SMI
+#### SMI
 SMI står for smidighed og er en vigtig grundegenskab for alle professioner. SMI bestemmer en række ting, bla. hurtighed, nøjagtighed, mobilitet, opfattelsesevne, kropskontrol, styrke og evne til præcisionsarbejde. Din værdi i SMI bliver ofte brugt, når du f.eks. vil kaste dig væk fra en faldende kampesten eller en angribende ulv, samt beslutte, hvem der angriber først i en kamp. Kort sagt kan man sige, at en person med lav SMI er ret klodset, ubevægelig og ukoordineret, mens en person med høj SMI er hurtig, adræt, letfodet og fingernem.
 
-###### INT
+#### INT
 INT står for intelligens og er et mål for, hvor nemt eller svært det er for dig at forstå og lære ting. Denne grundegenskab er meget vigtig for magikere, da de skal kunne huske en række komplekse besværgelser. En intelligent person har også lettere ved at lære nye færdigheder. INT kan også bruges til at se, om rollepersonen finder på noget, som du ikke selv finder på, og omvendt.
 
-###### PSY
+#### PSY
 PSY står for psykisk kraft og dækker over ret meget; magisk kraft, selvdisciplin, held, vedholdenhed, intuition, opfattelsesevne og modstand mod magi. PSY er en vigtig egenskab for alle slags rollepersoner, men især for magikere, som skal have høj PSY for at kunne bruge besværgelser.
 
-###### KAR
+#### KAR
 KAR står for karisma og omfatter ting som din personlige charme, karisma, lederegenskaber og til dels udseende. Hvis du har høj KAR, er der større chance for, at du kan overtale folk til at gøre, som du vil, og der er større chance for, at du bliver behandlet venligt af fremmede. En person med lav KAR virker derimod ret trist i andres øjne og kan have svært ved at forhandle eller overtale folk.
 
-###### STO
+#### STO
 STO står for din størrelse og bruges primært til at beregne hvor meget skade du kan tage, sammen med FYS, samt hvor meget skade du kan gøre, sammen med din STY. STO kan også bruges, når du forsøger at snige dig eller gemme dig, når nogen forsøger at vælte dig, eller når du tilfældigt skal afgøre, om du bliver ramt af flyvende genstande. STO er en kombination af højde og vægt i henhold til nedenstående tabel:
 
 | STO | Vægt i Kg | Højde i cm |
@@ -67,7 +67,7 @@ STO står for din størrelse og bruges primært til at beregne hvor meget skade 
 | 21  |  141-150  |  210-230   |
 Værdierne er meget omtrentlige og varierer hovedsageligt afhængigt af race og STY. Høj STY = vælg en højde tættere på den mindre værdi; lav STY = vælg en højde tættere på den større værdi. Dværge vejer STY kg mere end tabellen viser. Elvere vejer (20-STY) kg mindre end hvad tabellen viser.
 
-##### Færdigheder
+### Færdigheder
 Som forklaret ovenfor er grundegenskaberne en beskrivelse af din rollepersons personlige karakteristika. Disse er ret uforanderlige og tjener som grundlag for alt, hvad du vil lære senere. Det du lærer kaldes færdigheder og dækker over ting som erfaring og viden, altså ting du har lært.
 
 Hvor god du er til en færdighed, kommer til udtryk i en færdighedsværdi (herefter forkortet FV), som normalt ligger et sted mellem 1 og 20. Har du FV 1 i en færdighed, betyder det, at du er helt nybegynder, mens en høj FV, op mod 15-20 , betyder, at du er næsten færdiguddannet.
@@ -80,18 +80,18 @@ Den anden kategori af færdigheder kaldes sekundære færdigheder og er betydeli
 
 Nogle af de sekundære færdigheder bliver dog til dine professionsfærdigheder. Hvilke det er vælger du selv, men dem du kan vælge imellem afhænger af hvilken profession du tilhører. En kriger kan f.eks. ikke vælge færdigheden Dirke Låse, og en magiker kan ikke vælge våbenfærdigheden Sværd. Du får automatisk et FV i alle professionsfærdigheder fra start, og disse er også nemmere at lære end de andre sekundære færdigheder. Professionsfærdighedern er ubegrænsede. Den mest almindelige måde at se, om du formår at bruge en færdighed, er at slå 1T20. Hvis resultatet er mindre end eller lig med FV for færdigheden, er det lykkedes. Hvis resultatet er højere er det mislykkedes.
 
-##### Magi
+### Magi
 Magi er en vigtig del af Drager og Dæmoners fantasiverden. Magi er noget mystisk og ukendt, men kan opdeles i tre forskellige skoler; animisme (som manipulerer alle levende ting, dvs. planter og dyr), elementar magi (som manipulerer de fire elementer jord, vand, luft og ild) og mentalisme (som manipulerer intelligente væseners kroppe og sind). Det er udelukkende magikere (og vildmarksjægere) der kan lære magiske besværgelser, og disse følger hverken reglerne for primære eller sekundære færdigheder. Kun magikeren kan lære sig besværgelser fra starten, og alle besværgelser er ubegrænsede.
 Besværgelserne er ikke alle lig lette at lære, hvilket kommer til udtryk i deres skoleværdi (herefter forkortet SV), der normalt ligger mellem 1 og 20. De letteste besværgelser har SV 1, mens de sværeste har SV 20. I stedet for FV så har besværgelserne noget, der hedder en færdighedsværdi (forkortet S). For eksempel, hvis en magiker har KNÆKKE S12, betyder det i praksis, at han har FV 1 2 i besværgelsen KNÆKKE.
 
-#### Afsluttende
+## Afsluttende
 Husk at alle reglerne kun er vejledende og det er dit spil, er der en regel der generer, er for kraftig eller begrænser for meget, så lav den om så den passer til gruppens spillestil. 
 
-### Hvordan man skaber sin rolleperson
+# Hvordan man skaber sin rolleperson
 Det første du bør gøre, når du vil skabe din rolleperson, er at tænke lidt over, hvilken slags rolleperson du ønsker. Skal det være en stor brutal kriger; en belæst magiker; eller en snedig og kvik tyv? Du skaber din rolleperson helt selv, så det er godt have et billede i baghovedet fra starten, så du ikke famler helt i blinde ved de forskellige valg undervejs i processen.
 Dernæst skal du finde et rollepersonsskema, blyant, viskelæder og terninger. En blok papir kan også være en god idé.
 
-#### Baggrundspoint
+## Baggrundspoint
 
 Man starter med 125 baggrundspoint (BP), som man bruger til at købe:
 - Race
@@ -102,7 +102,7 @@ Man starter med 125 baggrundspoint (BP), som man bruger til at købe:
 - Højere startkapital
 - Højere FV i startfærdighederne
 
-#### Race
+## Race
 
 I Drager og Dæmoner er der udover mennesker et antal af andre folkeslag man kan vælge imellem. Prisen for at vælge dem er angivet i tabellen nedenfor.
 
@@ -116,25 +116,25 @@ I Drager og Dæmoner er der udover mennesker et antal af andre folkeslag man kan
 | Hobbit    |    15     |
 | Menneske  |    10     |
 
-##### And
+### And
 Andefolket er humanoider med næb og fjerdragt. De er typisk grå eller brune i farven, men kan have aftegninger i mange forskellige farver. Alle ænder får automatisk FV20 (B5) i færdigheden Svømme. De har desuden +4 FV i færdigheden Snige Sig.
 
-##### Dværg
+### Dværg
 Dværgene er et folk af stolte håndværkere og krigere. De lever under jorden i blandt bjerge og bakkedrag. De er ca. 1,2m høje og meget kraftigt byggede. Mændene har ofte kraftige fuldskæg og kvinderne stort og langt hår; mange dværge fletter smykker af forskellig art ind i håret. Alle dværge får automatisk FV5 i Geologi og det regnes som en primær færdighed for dem.
 
-##### Elver
+### Elver
 Elverfolket er høje og slanke af udseende, de har tydeligt spidse ører og deres øjne er let mandelformede. Måneelverne lever i verdens store skove og på sletterne. Huleelverne bor under jorden og har nogle steder bygget samfund sammen med dværgene. Elvere kan ikke dø af alderdom, men trækker sig ofte mere og mere tilbage fra verden som tiden går. Alle elvere får automatisk +4 FV i færdighederne Opdage Fare og Lytte.
 
-##### Halvelver
+### Halvelver
 Halvelvere er resultatet af når mennesker og elvere får børn sammen. De ser stort set ud som mennesker, men ørene er ofte let spidse. De er ikke som elvere udødelige, men lever ofte meget længe. Alle halvelvere får automatisk +2 FV i færdighederne Opdage Fare og Lytte.
 
-##### Halvork
+### Halvork
 Halvorker er afkommet af mennesker og orker. På afstand ligner de mennesker, men er ofte kraftigere og større. De har ofte kraftig hårvækst og øjnene kan være gullige. Alle halvorker får automatisk +4 FV i færdigheden Slagsmål.
 
-##### Hobbit
+### Hobbit
 Hobbitter er ca. en meter høje og lever gerne i fred og ro, så langt væk fra farer og eventyr som de kan komme. Alle hobbitter får automatisk +4 FV i færdigheden Gemme Sig.
 
-##### Menneske
+### Menneske
 Mennesker findes over hele verden og i alle samfundslag.
 
 De forskellige racers modifikationer til grundegenskaberne.
@@ -150,7 +150,7 @@ De forskellige racers modifikationer til grundegenskaberne.
 | Menneske  | \-  | \-  | \-  | \-  | \-  | \-  | 8-18 (13) |
 \*Specielle regler gælder for størrelse. Værdierne i tabellen angiver laveste og højeste værdi, samt normalværdien i parentes.
 
-#### Profession
+## Profession
 
 Din profession er en kombination af flere af dine egenskaber; din opvækst, træning, erfaringer, fremtidsmål og livssyn. Hver profession har en egenskab der er unik for den. Hver profession har en mængde færdigheder og det er kun dem og primærfærdighederne (plus besværgelser for magikere) du kan lære fra starten. Der må vælges 12 færdigheder fra listen og magikere må kun vælge 9. Alle andre færdigheder betragtes som sekundærfærdigheder. Tabellen nedenfor viser de krav der er til ens grundegenskaber for man kan vælge en given profession. Visse færdigheder indeholder flere separate underfærdigheder f. eks. håndværk, spille instrument og tale fremmedsprog. Hvert håndværk, instrument eller fremmedsprog tæller som sin egen færdighed. Vil en barde lære at spille både drejelire, mundharpe og fløjte så tæller det som tre separate færdigheder. Hvor mange man maksimalt kan vælge som professionsfærdighed er angivet ved hver profession.
 
@@ -168,72 +168,72 @@ Din profession er en kombination af flere af dine egenskaber; din opvækst, træ
 | Tyv            |     |     | 16  |     |     |     |     |
 | Vildmarksjæger |     | 12  | 12  |     | 12  |     |     |
 
-##### Barde
+### Barde
 **Særlig Evne:** Ved at spille på et instrument eller synge kan barden øge sin KAR med 5. Der skal spilles eller synges i mindst et minut og man skal lykkes med et relevant FV slag. Lykkes slaget opfatter alle der kan høre barden synge eller spille vedkommendes KAR som værende 5 højere. Dette påvirker alle KAR-baserede færdigheder. Effekten holder i en time.
 
 **Færdigheder:** Våbenfærdighed (1), tale fremmedsprog (2), læse/skrive fremmedsprog (1), administration, Akrobatik, bugtale, dans, dyretræning, dolk, forfalskning, geografi, gøglerkunster, håndværk (1), hasardspil, heraldik, historie, hypnotisere, knob og stik, kulturkendskab, dirke låse, mundaflæsning, bestikke, male, skak og brætspil, svømme, skuespil, spille instrument, sprogkundskab, træstav.
 
-##### Heler
+### Heler
 **Særlig Evne:** Heleren kan gennem håndspålæggelse hele 1KP/SR. Det koster 1 PSY-point pr. helet KP. Heleren kan også kurere sygdomme (Helerens PSY/2 skal overvinde sygdommens sværhedsgrad) og neutralisere gift (PSY/2 skal overvinde giftens STY på modstandstabellen). Dette koster PSY-point svarende til sygdommen eller giftens STY uanset resultat. PSY kan dog ikke reduceres under 1 og så fejler heleren automatisk. Tabte PSY-point genvindes på sædvanlig vis.
 
 **Færdigheder:** Tale fremmedsprog (2), læse/skrive fremmedsprog (1), alkymi, dyreheling, dolk, drogekundskab, geografi, giftkundskab, håndværk (1), hypnotisere, kulturkendskab, kundskab om dæmoner, kundskab om magi, kundskab om udøde, lægekunst, massage, orientering, svømme, træstav, zoologi, urtekundskab, overlevelse.
 
-##### Kriger
+### Kriger
 **Særlig Evne:** Krigeren har altid +5 på sit initiativslag.
 
 **Færdigheder:** Våbenfærdighed (12), tale fremmedsprog (1), afvæbne, bersærkergang, trække våben, dolk, geografi, håndværk (1), hasardspil, kulturkendskab, svømme, kampkunst, træstav, to våben.
 
-##### Lejemorder
+### Lejemorder
 **Særlig Evne:** Lejemorderen kan gennem at lykkes med et angreb bagfra (kræver et lykkedes færdighedsslag på Snige og at offret mislykkedes med et Opdage Fare) forårsage mellem dobbelt og firdobbeltskade. Skadebonus kommer ikke oven i. Skaden afgøres efter tabellen. Evnen kan kun anvendes mod væsner der er max. to meter højere end lejemorderen.
 
-| Resultat på terningslag | Skade |
-|-------------------------|-------|
-| Fumler | Ingen |
-| Mislykkes | Normal skade (uden skadebonus) |
-| Lykkes | Dobbelt skade |
-| Perfekt slag | Firdobbelt skade |
+| Resultat på terningslag | Skade                          |
+| ----------------------- | ------------------------------ |
+| Fumler                  | Ingen                          |
+| Mislykkes               | Normal skade (uden skadebonus) |
+| Lykkes                  | Dobbelt skade                  |
+| Perfekt slag            | Firdobbelt skade               |
 
 **Færdigheder:** Våbenfærdighed (1), tale fremmedsprog (1), administration, akrobatik, trække våben, dolk, forfalskning, geografi, giftkundskab, håndtere fælder, hasardspil, hypnotisere, knob og stik, kulturkendskab, dirke låse, bestikke, svømme, skuespil, stangspring, kampkunst, tegnsprog, træstav, underverdenen, entrehage.
 
-##### Lærd Mand
+### Lærd Mand
 **Særlig Evne:** En lærd mand har altid -5 til alle slag på skræktabellen.
 
 **Færdigheder:** Tale fremmedsprog (4), læse/skrive fremmedsprog (4), administration, alkymi, astrologi, dolk, drogekundskab, forfalskning, geografi, giftkundskab, hasardspil, heraldik, historie, kulturkendskab, kundskab om dæmoner, kundskab om magi, kundskab om udøde, regning, skak og brætspil, svømme, sprogkundskab, træstav, zoologi, urtekundskab.
 
-##### Magiker
+### Magiker
 **Særlig Evne:** Ingen.
 
 **Færdigheder:** Tale fremmedsprog (3), læse/skrive fremmedsprog (3), alkymi, astrologi, dyreheling, dyretræning, drogekundskab, geografi, giftkundskab, kulturkendskab, kundskab om dæmoner, kundskab om magi, kundskab om udøde, magisk kanalisering, en valgfri magiskole, regning, svømme, sprogkundskab, træstav, zoologi, urtekundskab.
 
-##### Munk
+### Munk
 **Særlig Evne:** Munken kan ved at meditere en hel SR øge sin FV i en valgfri færdighed med 1. Han kan intet andet foretage sig denne SR. Effekten er kumulativ, dog kan den aldrig øges til mere end det dobbelte af den oprindelige FV. Øgningen gælder kun for et enkelt færdighedsslag, som skal ske indenfor et minut af at meditationen afsluttes.
 
 **Færdigheder:** Tale fremmedsprog (3), læse/skrive fremmedsprog (3), afvæbne, dyreheling, dolk, drogekundskab, forfalskning, geografi, giftkundskab, et valgfri håndværk, heraldik, historie, kampkunst, knob og stik, kulturkendskab, kundskab om dæmoner, kundskab om magi, kundskab om udøde, lægekunst, massage, male, regning, svømme, spille op til to valgfri instrumenter, sprogkundskab, træstav, zoologi, urtekundskab.
 
-##### Søfarer
+### Søfarer
 **Særlig Evne:** Søfareren har en særlig modstandskraft mod elementerne, de har +5 til STY, STO eller FYS ved alle modstandsslag mod besværgelser der relaterer til elementerne og naturlige forekomster af elementarkræfter, så som flammer eller isvinde.
 
 **Færdigheder:** Våbenfærdigheder (3), tale fremmedsprog (3), læse/skrive fremmedsprog (1), akrobatik, dans, dolk, geografi, gøglerkunster, et valgfri håndværk, hasardspil, knob og stik, kulturkendskab, bestikke, navigering, orientering, skak og brætspil, svømme, sømandskab, spille instrumenter (2), forudsige vejr, stangspring, træstav, underverdenen, entrehage.
 
-##### Ridder
+### Ridder
 **Særlig Evne:** Ridderen kan mod at spendere fem PSY-point: (1) Ramme specifik kropsdel på sin modstander uden minus til CL eller (2) gøre maximal skade med sit våben inkl. max skadebonus. Rustning kan stadig absorbere skaden og reglerne for parering gælder. De tabte PSY-point genvindes på normal vis (se kapitlet om magi).
 
 **Færdigheder:** Våbenfærdigheder (5), tale fremmedsprog (1), læse/skrive fremmedsprog (1), administration, afvæbne, dans, dyretræning, trække våben, dolk, geografi, heraldik, historie, kulturkendskab, kundskab om magi, kundskab om udøde, male, regning, skak og brætspil, svømme, spille instrumenter (2), sprogkundskab, træstav, to våben.
 
-##### Tyv
+### Tyv
 **Særlig Evne:** Tyven kan mod at bruge PSY-point modificere CL på en valgfri færdighed. Tyven får +1 for hver PSY-point der bruges, dog max. tre. PSY-point genvindes på normal vis (se kapitlet om magi). Evnen kan kun anvendes to gange for hver hvileperiode på otte timer (fire for elvere).
 
 **Færdigheder:** Våbenfærdigheder (2), tale fremmedsprog (1), administration, akrobatik, bugtale, trække våben, dolk, drogekundskab, forfalskning, geografi, giftkundskab, gøglerkunster, hypnotisere, knob og stik, kulturkendskab, dirke låse, mundaflæsning, bestikke, regning, svømme, skuespil, spille instrumenter (2), stangspring, tegnsprog, træstav, underverdenen, entrehage.
 
-##### Vildmarksjæger
+### Vildmarksjæger
 **Særlig Evne:** Vildmarksjægeren kan lære sig magiskolen animisme som professionsfærdighed og alle animisme og almene besværgelser med skoleværdi 12 eller lavere. Vildmarksjægeren kan dog ikke starte spillet med besværgelser.
 
 **Færdigheder:** Våbenfærdigheder (3), tale fremmedsprog (1), animisme, dyreheling, dyretræning, dolk, drogekundskab, geografi, geologi, giftkundskab, et valgfri håndværk, håndtere fælder, knob og stik, kulturkendskab, orientering, svømme, forudsige vejr, zoologi, urtekundskab, overlevelse.
 
-#### Køn
+## Køn
 Mand, kvinde, nonbinær eller noget valgfrit. Det spiller ingen rolle i forhold til reglerne.
 
-#### Grundegenskaber
+## Grundegenskaber
 I tabellen er det anført hvor mange BP en given værdi i en grundegenskab koster. De modificeres efterfølgende af en evt. racemodifikation.
 
 | Værdi | Pris i BP |
@@ -272,7 +272,7 @@ For STO gælder særlige regler, man har automatisk normalværdien fra start og 
 |     \-4      |     5     |
 |     \-5      |     7     |
 
-#### Kropspoint
+## Kropspoint
 Antal kropspoint er FYS+STO divideret med 2. De forskellige kropsdele har kropspoint efter tabellen nedenfor.
 
 | Træfområde  | 5-7 | 8-11 | 12-15 | 16-20 | 21-25 | 26-30 | 31-35 | 36-40 | \+5 |
@@ -285,7 +285,7 @@ Antal kropspoint er FYS+STO divideret med 2. De forskellige kropsdele har kropsp
 | Venstre arm |  2  |  3   |   4   |   5   |   6   |   7   |   8   |   9   | \+1 |
 | Hoved       |  3  |  4   |   5   |   6   |   7   |   8   |   9   |  10   | \+1 |
 
-#### Skadebonus
+## Skadebonus
 Er du meget stærk eller stor kan du opnå en skadebonus efter nedenstående tabel.
 
 | STY + STO | Skadebonus |
@@ -301,7 +301,7 @@ Er du meget stærk eller stor kan du opnå en skadebonus efter nedenstående tab
 |  101-140  |   \+4T6    |
 |  141-180  |   \+5T6    |
 
-#### Flytteformåen
+## Flytteformåen
 Din flytteformåen er hvor mange felter du kan flytte i en kamprunde (KR). Et felt er ca. 1,5m og en kamprunde er ca. 5 sekunder.
 
 |    STO + FYS + SMI     | Flytteformåen |
@@ -326,7 +326,7 @@ Din flytteformåen er hvor mange felter du kan flytte i en kamprunde (KR). Et fe
 | Hobbit |      -2      |
 | Øvrige |      ±0      |
 
-#### Særlige Evner
+## Særlige Evner
 Du kan vælge at bruge et antal BP på at købe en særlig evne. For hver BP du bruger får du +1 på nedenstående tabel, dog max. +40. Du skal bruge mindst 1 BP for at slå på tabellen og du må kun gøre det en gang. Visse evner passer dårligt sammen med visse professioner, det er op til spiller og spilleleder i fællesskab at finde noget passende.
 
 | 2T20+BP | Særlig Evne                                                                                                                                                                | 2T20+BP | Særlig Evne                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -357,7 +357,7 @@ Du kan vælge at bruge et antal BP på at købe en særlig evne. For hver BP du 
 |  49-51  | Absolut øjemål. Du kan bedømme afstand med øjnene med 5 procent fejlmargin.                                                                                                |   79    | Hurtig opfattelse. +5 CL på alle våbenpareringer i nærkamp og du kan parere projektiler du ser komme i mod dig (Kræver et nærkampsvåben i hånden, CL er det samme som for nærkampsvåbnet.)                                                                                                                                                                                                                                                                                                                                            |
 | )52-54  | Meget Opmærksom. Altid +2 CL i Finde Skjulte Ting og Opdage Fare.                                                                                                          |   80    | Højt PSY potentiale. Når du slår for at højne din PSY har du altid -5 på terningslaget. Et resultat på nul eller mindre, regnes som 1.                                                                                                                                                                                                                                                                                                                                                                                                |
 |   55    | Lynreflekser. +3 på alle initiativslag.                                                                                                                                    |   81+   | Høj grundegenskab. Du får +1 på tre valgri grundegenskaber eller +2 på en valgfri grundegenskab.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-#### Sværdhånd
+## Sværdhånd
 
 Den hånd man normalt anvendes kaldes sværdhånden og den anden kaldes skjoldhånden. Skjoldhånden er normalt svagere end sværdhånden, undtagen for færdighederne To Våben og Skjold. Hvilken hånd der er hvad afgøres af tabellen nedenfor, man får +1 for hver BP man bruger på slaget. Dobbelthåndede kan anvende begge hænder lige godt, men ikke samtidigt. Ambidextriøse kan anvende begge hænder samtidig til forskellige ting uden problemer. Har du fået dobbelthåndet eller ambidextriøs som Særlig Evne behøver du ikke slå på tabellen.
 
@@ -368,7 +368,7 @@ Den hånd man normalt anvendes kaldes sværdhånden og den anden kaldes skjoldh�
 | 15-18  | Dobbelthåndet |
 |  19+   | Ambidextriøs  |
 
-#### Social Stand
+## Social Stand
 
 Social stand afgøres af tabellen nedenfor, man får +1 for hver BP man bruger på slaget.
 
@@ -384,7 +384,7 @@ Social stand afgøres af tabellen nedenfor, man får +1 for hver BP man bruger p
 | 30-37  | Lavadel             | Ridder, friherre, baron, markis, jarl, biskop              |
 |  38+   | Højadel             | Greve, hertug, prins, kardinal, pave, konge, kejser        |
 
-#### Startkapital
+## Startkapital
 
 Startkapital afgøres af tabellen nedenfor, man får +1 for hver BP man bruger på slaget og +1 for hvert andet BP man brugte på social stand.
 
@@ -402,7 +402,7 @@ Startkapital afgøres af tabellen nedenfor, man får +1 for hver BP man bruger p
 |             47-56             |      30000sm |
 |              57+              |      50000sm |
 
-#### Alder
+## Alder
 
 Du vælger selv din alder (undtagen elvere), men det har både positive og negative konsekvenser efter tabellerne nedenfor.
 
@@ -431,11 +431,11 @@ Baggrundspoint du ikke ønsker at bruge på andet ganges med 5 og lægges til de
 | Hobbit            | 20-30 | 31-60  |     61-75      | 76-100  |
 | Menneske          | 16-20 | 21-45  |     46-60      |  61-80  |
 
-#### Startfærdigheder
+## Startfærdigheder
 
 Dine startfærdigheder er de primære færdigheder og de 12 (9 for magikere) du har valgt fra din profession. Du kan ikke lære en sekundær færdighed fra starten, undtagen som en Særlig Evne. Magikere kan lære besværgelser fra starten af spillet, men ikke vildmarksjægeren.
 
-##### Basischancer
+### Basischancer
 
 Din basischance (BC) er den færdighedsværdi du har fra start når du skaber din spilleperson. Den baseres på den grundegenskabsværdi som hører til færdigheden.
 
@@ -449,7 +449,7 @@ Din basischance (BC) er den færdighedsværdi du har fra start når du skaber di
 |  21+  |  5  |
 Du får en BC i alle primære færdigheder og dine professionsfærdigheder, dog ikke i besværgelser. Specielle regler gælder for færdigheden Læse/Skrive Modersmål.
 
-##### Brug af erfaringspoint
+### Brug af erfaringspoint
 
 Ud fra din alder får du et vist antal erfaringspoint, som du skal bruge til at øge dine færdighedsværdier. Grundprisen for en primær færdighed er 2, den er 3 for en professionsfærdighed og 5 for en sekundærfærdighed. Grundprisen for besværgelser afgøres af skoleværdien. I tabellen nedenfor er anført en multipel, som du ganger grundprisen for færdigheden med for at regne den endelig pris ud. Vær opmærksom på at du fra starten ikke kan købe en højere færdighedsværdi end angivet i alderstabellen.
 
@@ -477,7 +477,7 @@ Ud fra din alder får du et vist antal erfaringspoint, som du skal bruge til at 
 | 19  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  4  |  9  |
 | 20+ |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  5  |
 
-##### Besværgelser
+### Besværgelser
 
 Kun magikere kan lære besværgelser fra starten. Prisen beregnes ud fra tabellen nedenfor.
 
@@ -492,7 +492,7 @@ Kun magikere kan lære besværgelser fra starten. Prisen beregnes ud fra tabelle
 |    19-21    |    14     |
 | For hver +3 |    \+2    |
 
-#### Udseende og personlig baggrund
+## Udseende og personlig baggrund
 
 Nu er din spilleperson færdig, med undtagelse af to vigtige ting: udseende og baggrundshistorie. Dette er ting du bestemmer helt selv uden brug af terninger, tabeller eller andet. Udseende bør i det mindste omfatte de store træk - hårfarve, hårlængde, frisure, øjenfarve, påklædning, højde, kropsbygning, ar eller andre markante træk. Lad fantasien løbe og snak med din spilleleder når du finder på en baggrundshistorie, så du er sikker på at den passer ind. Eksempler på spørgsmål du kan stille dig selv:
 Hvor kommer du fra?
@@ -500,17 +500,17 @@ Hvorfor er du eventyrer?
 Hvad er dit store mål med livet?
 Slækt, venner, erfaringer, tidligere eventyr?
 
-#### Udrustning
+## Udrustning
 
 I afsnittet om udrustning finder du alt hvad du skal bruge inden du drager på eventyr.
 
-#### Færdigheder
+# Færdigheder
 
-##### Generelt
+## Generelt
 
 Man angiver hvor dygtig en spilleperson er til en given færdighed med hjælp af færdighedsværdier (FV) som normalt strækker sig fra 1-20. Den modificeres siden afhængig af situationen. Det er f. eks. lettere at klatre op af en rebstige end op ad en gletsjer, derfor lægger man næsten altid en række modifikationer til FV. Slutresultatet når alt er indregnet er spillepersonens chance for at lykkes (CL)
 
-##### Beskrivelser
+### Beskrivelser
 
 Alle færdigheder er beskrevet efter nedenstående mønster.
 Navn: Færdighedens navn.
@@ -519,15 +519,15 @@ Profession: Her angives hvilke professioner der kan vælge færdigheden som prof
 Grundegenskab: Hvilken grundegenskab færdigheden er baseret på.
 Beskrivelse: Hvordan færdigheden anvendes og i hvilke situationer, samt de modifikationer som gives i visse tilfælde.
 
-##### Færdighedskategorier
+## Færdighedskategorier
 
 Der findes to kategorier af færdigheder, som behandles forskelligt.
 
-###### Kategori A
+### Kategori A
 
 Kategori A færdigheder anvender altid skalaen fra 1 til 20 (Højere værdier kan opnås, men er usædvanligt) Disse færdigheder har ingen speciel markering. Færdighedsslaget foregår altid med 1T20.
 
-###### Kategori B
+### Kategori B
 
 Ved kategori B færdigheder ændres den sædvanlige FV til en værdi mellem 0 og 5, hvor 0 er intet kendskab overhovedet og 5 er en legendarisk mester. Kategorien anvendes til færdigheder hvor A ikke passer. Det gælder for kategori B færdigheder at enten kan man gøre en ting eller også kan man ikke. Held og tilfældigheder spiller ingen rolle, så terningslag er unødvendige. Færdigheder i kategori B fungerer og forbedres præcis som i kategori A, men når de skal anvendes så forvandles færdighedsværdien til en B-færdighedsværdi efter tabellen nedenfor.
 
@@ -552,7 +552,7 @@ Ved de fleste B-færdigheder angives specifikt hvilke evner man har på de forsk
 |         4          | Meget gode kundskaber. På dette niveau kan man blive lærer i færdigheden. Kun glemte ting ligger uden for ens kundskabsområde. Det man mangler at lære kan kun findes ved omfattende forskning. |
 |         5          | Man er en sand mester indenfor færdigheden og kan svare på alle spørgsmål om emnet.                                                                                                             |
 
-##### Færdighedstabeller
+## Færdighedstabeller
 
 Alle har adgang til samtlige primære færdigheder.
 
@@ -636,13 +636,13 @@ I tabellen nedenfor findes samtlige færdigheder og den eller de grundegenskaber
 | \++: Se vildmarksjægerens professionsfærdigheder. |     |     |     |     |      |     |     |     |     |     |     |
 | f: Forbudt færdighed.                             |     |     |     |     |      |     |     |     |     |     |     |
 
-##### Chance for at lykkes (CL)
+## Chance for at lykkes (CL)
 
 Når man anvender en færdighed har en man vis chance for at lykkes, udtrykt i en værdi mellem 1 og 20. Når man slår kan man få fire forskellige resultater: Perfekt slag, lykket slag, fejlet slag og fumleslag. For kategori A færdigheder beregnes CL ud fra ens FV, som modificeres af flere forskellige ting, ofte forklaret under den givne færdighed. SL skal dog ikke finde sig for fin til selv at lægge de modifikationer til som menes at være passende.
 
 Så længe man har FV1 eller mere så lykkes man altid hvis man slår 1 og fejler hvis man slår 20. Har man CL0 eller lavere skal man slå 1 to gange i træk for at lykkes.
 
-###### Perfekte slag og fumleslag
+### Perfekte slag og fumleslag
 
 | CL |  |
 |----|--|
@@ -650,20 +650,20 @@ Så længe man har FV1 eller mere så lykkes man altid hvis man slår 1 og fejle
 | Mellem 1 og 19 | Slår man 1, skal man slå igen. Bliver resultatet lig med eller lavere end FV, så er slaget perfekt. Slår man 20 på det første slag, så skal man også slå igen. Kommer resultatet over ens FV fumler man. |
 | 20+ | 1 er altid perfekt slag, slår man 2, skal man slå igen. Bliver resultatet lig med eller lavere end FV, så er slaget perfekt. Man fumler altid hvis man slår 20 to gange i træk. |
 
-###### Differenceværdi
+### Differenceværdi
 
 Dette er et begreb som forekommer ved visse færdigheder. Værdien er lig med CL fratrukket terningslaget. *Hvis CL er 17 og man slår 12, så er differenceværdien 5.*
 
-###### Skjulte terningslag
+### Skjulte terningslag
 
 I visse tilfælde er det ikke ønskværdigt at spilleren ved om han er lykkes med et færdighedsslag. Dette gælder f. eks. for færdigheden finde skjulte ting - hvis spilleren ved at færdighedsslaget lykkedes og SL stadig meddeler at han ikke finder noget, så ved spilleren med sikkerhed at der ikke er noget at komme efter.
 
-##### Færdigheder og grundegenskaber
+## Færdigheder og grundegenskaber
 
 Grundegenskaber og de færdigheder der er baseret der på forandres nogen gange, det kan skyldes påvirkninger fra vejret, udmatning eller effekten af besværgelser.  Det gælder normalt at hvis en grundegenskab forandres, så ændres CL i de pågældende færdigheder med samme antal i den tid effekten varer. CL kan på denne måde aldrig blive lavere end 1.
 Hvis forandringen af grundegenskabsværdien er permanent, så ændrer FV i de professionsfærdigheder og primære færdigheder som er baserede på grundegenskaben sig automatisk. FV kan i dette tilfælde både komme over 20 eller ned på 0.
 
-##### Grundegenskabsslag
+## Grundegenskabsslag
 
 I visse tilfælde skal man vurdere hvor godt spillepersonen klarer sig uden at der er en egentlig færdighed at anvende til formålet. I de situationer anvender man i stedet den grundegenskab som er mest passende. Slår man lig med eller under grundegenskaben lykkes man. I mange tilfælde skal sværhedsgraden dog modificeres, så man giver i stedet for problemet en sværhedsgrad mellem 1 og 25. Derefter sætter man sværhedsgraden og en passende grundegenskab ind i modstandstabellen. Man skal slå under den angivne værdi med 1T20 for at lykkes.
 
@@ -676,7 +676,7 @@ I visse tilfælde skal man vurdere hvor godt spillepersonen klarer sig uden at d
 | Meget svært    |        20         |
 | Ekstremt svært |        25         |
 
-###### Modstandstabellen
+### Modstandstabellen
 
 Sværhedsgraden er lodret og grundegenskabsværdien er vandret.
 
@@ -707,40 +707,40 @@ Sværhedsgraden er lodret og grundegenskabsværdien er vandret.
 \+: Automatisk succes.
 \-: Automatisk fejlet.
 
-#### Primære Færdigheder
+# Primære Færdigheder
 
-##### Bluffe
+## Bluffe
 
 Type: Primær
 Grundegenskab: KAR
 Bluffe er kunsten hurtigt og troværdigt at stikke en løgn, der lyder overbevisende sand. Hvis man lykkes med sit færdighedsslag er man kommet på en løgn som synes troværdig. For at se om det endeligt lykkes skal man slå på modstandstabellen med sin KAR-værdig plus FV i Bluffe mod modstanderens INT-værdi. Hvis slaget lykkes, så tror offeret på en, men man kan blive gennemskuet efter et antal minutter svarende til differencen mellem terningslaget og CL. Slår man et perfekt slag på det første terningslag, så skal man ikke slå på modstandstabellen og løgnen bliver heller ikke gennemskuet.
 
-##### Finde skjulte ting
+## Finde skjulte ting
 
 Type: Primær
 Grundegenskab: INT
 Denne færdighed anvendes til at opdage skjulte døre, gemte personer, gemte sager, fælder etc. SL skal slå alle slag i skjul. Et fumleslag indebærer at spillepersonen tror det modsatte, et perfekt slag giver mere information end spilleren bad om. Et mislykket slag gør at han ikke ser eller hører noget.
 
-##### Førstehjælp
+## Førstehjælp
 
 Type: Primær
 Grundegenskab: INT
 Med denne færdighed kan man lægge en forbinding og derved hindre en såret person i at forbløde. Færdigheden kan ikke hele tabte KP.
 
-##### Gemme sig
+## Gemme sig
 
 Type: Primær
 Grundegenskab: INT
 Denne færdighed anvendes når en spilleperson ikke ønsker at blive set. SL skal modificere CL afhængig af lysforhold, det omgivende terræn, påklædning på den som gemmer etc. Hvis man lykkes med sit færdighedsslag, så indebærer at dem der søger skal lykkes med et færdighedsslag i Finde skjulte ting. Den gemtes differenceværdi skal trækkes fra slaget.
 
-| Modifikationer for at gemme sig |  |
-|---------------------------------|--|
+| Modifikationer for at gemme sig              |     |
+| -------------------------------------------- | --- |
 | Påklædning som skiller sig ud fra baggrunden | \-4 |
-| Påklædning som falder i med baggrunden | \+1 |
-| Tusmørke | \+2 |
-| Nat | \+5 |
+| Påklædning som falder i med baggrunden       | \+1 |
+| Tusmørke                                     | \+2 |
+| Nat                                          | \+5 |
 
-##### Springe
+## Springe
 
 Type: Primær
 Grundegenskab: SMI
@@ -750,19 +750,19 @@ Denne færdighed kan også anvendes til at mindske effekten af et fald. Man kan 
 
 En utrænet person kan springe det dobbelte af sin højde horisontalt og det halve af sin højde vertikalt. Normalt behøves intet færdighedsslag, men i pressede situationer, såsom at være under beskydning eller i vådt tøj kræves det. Et fumleslag i de tilfælde har ofte digre konsekvenser.
 
-##### Klatre
+## Klatre
 
 Type: Primær
 Grundegenskab: SMI
 Denne færdighed anvendes når man skal klatre op af eller langs med noget, som f. eks. vægge, tag, rebstiger, træer, gå armgang i en line eller en tagrende. Det kræver udstyr at klatre på tage eller i bjerge. Hastigheden er altid det halve af differenceværdien i meter pr. SR. Mislykket slag gør man står stille. Tre mislykkede slag i træk gør at man er nød til at afbryde og klatre ned igen. Et fumleslag gør at man taber grebet i sit reb. Et perfekt slag gør man kommer dobbelt så langt som normalt.
 
-##### Købslå
+## Købslå
 
 Type: Primær
 Grundegenskab: KAR
 Dette er færdigheden i at prutte og købslå om noget. For at afgøre om man kan prutte prisen ned skal køber slå på modstandstabellen med køber og sælgers FV i Købslå. Hvis køberen vinder over sælgeren får han sænket prisen med fem gange differencen mellem terningslaget og CL på modstandstabellen i procent.
 
-##### Lytte
+## Lytte
 
 Type: Primær
 Grundegenskab: INT
@@ -797,7 +797,7 @@ Denne færdighed bruges for at finde ud af, om en spilleperson hører noget. For
 | Modvind fra lyden |  \-1 <-> -5  |     |                              |              |
 Har man hørt noget, kan man prøve at identificere HVOR og HVAD, lyden kom fra. Dog kræves et nyt slag i færdigheden Lytte (det udføres af SL) for hvert svar, man måtte ønske. SL må tage hensyn til omstændighederne omkring lyden for at afgøre, hvilke modifikationer der skal bruges.
 
-##### Læse/skrive modersmål
+## Læse/skrive modersmål
 
 Type: Primær, B
 Grundegenskab: Speciel (INT)
@@ -817,7 +817,7 @@ En spillepersons BC i at læse og skrive sit modersmål afgøres af social stand
 | Øvrige (INT 1-14)                | 0   |     |           |                                                    |
 Se i øvrigt Læse/Skrive fremmedsprog blandt de sekundære færdigheder.
 
-##### Ride
+## Ride
 
 Type: Primær
 Grundegenskab: SMI
@@ -827,19 +827,19 @@ Det kræver specielt trænede heste at kæmpe fra hesteryg. En almindelig ridehe
 
 Ild, eksplosioner, drager og andre store rovdyr kan også få en hest til at løbe løbsk. I en sådan situation skal hesten klare et INT slag og rytteren skal klare sit færdighedsslag.
 
-##### Synge
+## Synge
 
 Type: Primær
 Grundegenskab: KAR
 Denne færdighed omfatter både at skrive sange, huske dem og synge dem. Færdigheden kan anvendes til at højne spillepersonens KAR i lytternes øjne med 1 for et lykkedes slag og med 3 for et perfekt slag.
 
-##### Slagsmål
+## Slagsmål
 
 Type: Primær
 Grundegenskab: STY
 Denne færdighed anvendes så snart en spilleperson havner i uvæbnet kamp, så fremt man ikke kan nogen form for kampkunst. Færdigheden omfatter anfald med knytnæve og spark. Slagsmål foregår præcis som kamp med våben. Man får et angreb med hver knytnæve i samme SR. Se afsnittet om kamp for mere information.
 
-##### Snige sig
+## Snige sig
 
 Type: Primær
 Grundegenskab: SMI
@@ -855,7 +855,7 @@ Denne færdighed anvendes når en spilleperson forsøger at bevæge sig så lydl
 | Grus                 |       \-4       |
 | Anden lyd i nærheden |   \+1 <-> +20   |
 
-##### Spore
+## Spore
 
 Type: Primær
 Grundegenskab: INT
@@ -878,7 +878,7 @@ Dette er færdigheden at følge de spor nogen eller noget har efterladt sig. Man
 |                           |                 |     | Snefald              |  \-5 pr. time   |
 Hvis den forfulgte ved at han bliver forfulgt kan han forsøge at skjule sine spor. Sporerens CL mindskes i så fald med den forfulgtes differenceværdi i Spore (Han skal slå et færdighedsslag.)
 
-##### Stjæle ting
+## Stjæle ting
 
 Type: Primær
 Grundegenskab: SMI
@@ -891,7 +891,7 @@ Denne færdighed anvendes når man ønsker at stjæle noget ud af nogens lommer 
 | Tingen sidder på offeret (Ring, halskæde, etc.) |      \-12       |
 | Tingen hænger i offerets bælte                  |       \-        |
 
-##### Tale modersmål
+## Tale modersmål
 
 Type: Primær
 Grundegenskab: Speciel (INT)
@@ -908,13 +908,13 @@ En spillepersons BC i sit eller sine modersmål afhænger af social stand. Hvis 
 | Menneske  | Et menneskesprog              |
 Se i øvrigt færdigheden Tale fremmedsprog under sekundære færdigheder.
 
-##### Opdage fare
+## Opdage fare
 
 Type: Primær
 Grundegenskab: PSY
 Denne færdighed anvendes i forskellige situationer når det skal afgøes om en spilleperson er opmærksom på sine omgivelser. Den kan fungere som en slags sjette sans når der er fare på færde eller noget andet uventet sker. Man har intet klart billede af hvad der er galt, bare en intuitiv fornemmelse. Kort sagt, nakkehårene rejser sig og det løber koldt ned af ryggen. SL slår alle slag for denne færdighed skjult
 
-##### Vurdere
+## Vurdere
 
 Type: Primær
 Grundegenskab: INT
@@ -922,21 +922,21 @@ Med denne færdighed kan man bestemme en genstands værdi. SL må modificere CL 
 
 *En kriger der finder en magisk stav vil typisk ikke vide noget som helst om dens reelle værdi, men en magiker ville. Omvendt ville magikeren have meget svært ved at vurdere kvaliteten på et sværd, noget som krigeren til gengæld ville kunne.**
 
-##### Overtale
+## Overtale
 
 Type: Primær
 Grundegenskab: KAR
 Denne færdighed bruges til at få nogen til at gøre noget de egentlig ikke vil. Det forudsætter at der ikke anvendes nogen former for tvang eller afpresning. Det er ikke svært at overtale nogen med en sværdsæg mod strubehovedet. Om forslaget er farligt tillægges en modifikation på CL mellem -1 og -5.
 
-#### Sekundære færdigheder
+# Sekundære færdigheder
 
-##### Administration
+## Administration
 Type: Sekundær, B
 Professioner: Barde, Lærd Mand, Lejemorder, Ridder, Tyv.
 Grundegenskab: INT
 Denne færdighed giver hovedpersonen et indblik i, hvordan samfundet styres, hvem der styrer hvad, hvad man skal vide for at varetage bestemte embeder osv. Han ved, hvordan han skal forholde sig til myndigheder og embedsmænd, og hvor han skal henvende sig i forskellige sager. Rollepersonen har også en vis træning i at løse de problemer, som myndighederne ofte selv står over for, organisering af told, af byvagt, af handel osv. Han har derfor også evnen til at kunne tildele opgaver til folk, så at det, der skal gøres, bliver gjort på en hurtig og fleksibel måde. For kriminelle er dette en nyttig færdighed, da det giver dem mulighed for at vide, hvilke kontorer de skal bestikke for at komme væk. Færdigheden dækker også jura.
 
-##### Akrobatik
+## Akrobatik
 Type: Sekundær, B
 Professioner:Barde, Lejemorder, Søfarer, Tyv.
 Grundegenskab: SMI
@@ -952,44 +952,44 @@ Akrobatik omfatter sådanne manøvrer som at gå på stram line, klatrevægge, g
 Generelt
 En akrobat kan altid falde (SMI+FV)x 20cm uden at tage skade. Hvis han skulle falde længere, skal han trække denne afstand fra faldets længde. Han kan, hvis han får lov til at tage tilløb, hoppe SMI+ FV x 10cm højt over forhindringer, og han kan hoppe dobbelt så højt i stangspring. Tilløbet skal være mindst dobbelt så langt, som forhindringen er høj. Under rolige forhold behøver en akrobat ikke at lave et færdighedsslag, men hvis han bliver beskudt eller udsat for andre distraktioner, skal han klare et SMI-slag. Hvis han fejler, har det som regel ødelæggende konsekvenser. En akrobat kan selvfølgelig ikke bære nogen rustning eller andre omfangsrige genstande på sin krop.
 
-##### Alkymi
+## Alkymi
 
 Type: Sekundær
 Professioner: Heler, Lærd Mand, Magiker.
 Grundegenskab: INT
 alkymister i Drager og Dæmoner svarer til nutidens kemikere og fysikere og besidder viden som kræves for at kunne fremstille alkymistiske bryg og eliksirer. Færdigheden er beskrevet detaljeret på ni sider i Drager og Dæmoner Magi. En karakter kan ikke have en højere FV i Alkymi end hvad han har i Læse/Skrive.
 
-##### Astrologi
+## Astrologi
 Type: Sekundær
 Professioner: Lærd Mand, Magiker.
 Grundegenskab: INT
 Ved hjælp af astrologi kan man i drager og dæmoners verden forudsige fremtiden ved at læse himmellegemernes bevægelser. Hvilken information du får afhænger helt af SL, og eventuelle færdighedsslag bør derfor skjules, så spilleren ikke ved om han får korrekt information eller ej. Eksempler på tilgængelige oplysninger er menneskers skæbner (man skal kende det nøjagtige fødselssted og -tidspunkt), tidspunkter, hvor det er gunstigt og risikofrit at foretage en rejse, starte en krig eller tilkalde en dæmon osv. Færdigheden er ikke til nogen hjælp med et problem som "Skal vi tage venstre eller højre dør? Et perfekt slag giver meget detaljerede oplysninger, hvis muligt mere end det, der blev bedt om. Et lykkedes slag giver korrekt information, en fejl giver ingen information overhovedet, og et fumleslag giver fuldstændig forkert information.
 
-##### Afvæbne
+## Afvæbne
 Type: Sekundær
 Professioner: Kriger, Munk, Ridder.
 Grundegenskab: SMI
 Ved at bruge denne færdighed kan en kæmper slå våben ud af modstanderens hænder. Det kræves dog, at han selv har et passende redskab i hånden, f.eks. et sværd eller en trækæp og lykkes med et angrebsslag. Hvis du også lykkes med et færdighedsslag i afvæbne, sætter du angriberens (STY+FV i afvæbne) mod den afvæbnedes STY i modstandstabellen. Hvis færdighedsslaget lykkes dér, er det lykkedes for afvæbneren at slå våbnet ud af sin modstanders hænder, og det lander 1T3+1 meter væk i en tilfældig retning.
 
-##### Bugtale
+## Bugtale
 Type: Sekundær
 Professioner: Barde, Tyv.
 Grundegenskab: PSY
 En vellykket færdighedsslag i denne færdighed får ens stemme til at lyde, som om den kommer fra et sted inden for tre meter fra bugtaleren. Færdigheden Opdage Fare bruges til at gennemskue bugtaleren, men slaget modificeres af bugtalerens differenceværdi. Et nyt slag er påkrævet i Bugtale en gang i minuttet.
 
-##### Bersærkergang
+## Bersærkergang
 Type: Sekundær
 Professioner: Kriger.
 Grundegenskab: PSY
 Ved at bruge denne færdighed kan rollepersonen kaste sig ud i raseri og gå bersærkergang. En person, der går bersærkergang, angriber tankeløst den nærmeste fjende, og giver ham +1T6 skade på alle angreb (kun i nærkamp). Rollepersonen har også et ekstra angreb i slutningen af ​​hver SR. En bersærker må aldrig parere, selvom han bærer et skjold, eller tage dækning for projektiler. Han ignorerer alt skade, men en kropsdel, der bliver kritisk beskadiget, bliver ubrugelig. Hvis bersærkerens KP når nul i en kropsdel, skal bersærkeren lave et færdighedsslag for at se, om han kan falde til ro. Hvis det mislykkes, fortsætter bersærkergangen. Lykkes det, bliver han normal igen, med alt hvad det medfører. Hvis alle fjender bliver nedkæmpet eller flygter, skal bersærkeren foretage et færdighedsslag. Hvis slaget mislykkes, besvimer han i et antal minutter svarende til differenceværdien. Lykkes slaget, forfølger han meningsløst den eller de flygtende i FYS antal af SR. Herefter falder han til ro. Hvis der ikke er nogen at forfølge, falder han til ro efter (20-FYS) antal SR.
 
-##### Dans
+## Dans
 Type: Sekundær
 Professioner: Barde, Søfarer, Ridder.
 Grundegenskab: SMI
 Denne færdighed omfatter både hofdans, ceremoniel dans i religiøse ritualer og almindelig folkedans. Færdigheden kan bruges til at hæve danserens KAR i publikums øjne, et forslag er med 1 for et vellykket slag og 3 for et perfekt slag. Normalt kræves der intet færdighedsslag, når man udfører en dans, men ved lejligheder, hvor kvaliteten skal vurderes, foretages et færdighedsslag, og differenceværdien anvendes for at få en relativ værdi.
 
-##### Dirke Låse
+## Dirke Låse
 Type: Sekundær
 Professioner: Lejemorder, Tyv.
 Grundegenskab: SMI
@@ -1002,44 +1002,44 @@ Kunsten at dirke en lås uden at have den rigtige nøgle er en hel videnskab, so
 |  3  | Total fiasko og knust selvtillid. Du har -5 til CL i Dirke Låse de næste tre dage.                                                                      |
 |  4  | Mental blokering. Du indser, at denne lås er alt for svær for dig, og du går videre til en lettere opgave. Du har -10 På CL På alle låse i en uge frem. |
 
-##### Dyreheling
+## Dyreheling
 Type: Sekundær
 Professioner: Heler, Magiker, Munk, Vildmarksjæger.
 Grundegenskab: INT
 Denne færdighed er grundlæggende den samme som Lægekunst, selvom den involverer dyr. Hver dyretype er en separat færdighed, f.eks. fugle, kvæg, heste, grise osv. Færdigheden er almindelig blandt magikere, der har Spiriti familiari.
 
-##### Dyretræning
+## Dyretræning
 Type: Sekundær
 Professioner: Barde, Magiker, Ridder, Vildmarksjæger.
 Grundegenskab: PSY
 Denne færdighed bruges til at træne dyr til at udføre kunster, tricks og kommandoer. Den bruges også når man skal ride en hest til eller et andet ridedyr og når man træner jagtfugle og jagthunde. For at lære et dyr noget kræver det et antal vellykkede færdighedsslag svarende til (20 - dyrets INT). Du kan kun slå et slag om ugen. Et perfekt slag svarer til tre normale vellykkede slag og en fumleslag betyder, at træningen skal starte forfra.
 
-##### Dolk
+## Dolk
 Type: Sekundær
 Professioner: Barde, Kriger, Lærd Mand, Lejemorder, Søfarer, Ridder, Tyv, Vildmarksjæger.
 Grundegenskab: SMI
 Se våbenfærdigheder.
 
-##### Trække Våben
+## Trække Våben
 Type: Sekundær
 Professioner: Kriger, Lejemorder, Ridder, Tyv.
 Grundegenskab: SMI
 Ved at bruge denne færdighed kan en kriger trække sit våben og bruge det i samme SR. Angrebet laves som et normalt angreb, men du kan aldrig have en højere FV i Trække Våben, end du har, når du angriber normalt med våbnet. For at kunne bruge denne færdighed uden negative modifikationer, er det nødvendigt at have våbnet let tilgængeligt, begge hænder frie og masser af plads til at manøvrere.
 
-##### Drogekundskab
+## Drogekundskab
 Type: Sekundær
 Professioner: Heler, Lærd Mand, Magiker, Munk, Vildmarksjæger.
 Grundegenskab: INT
 Færdigheden Drogekundskab giver rollepersonen mulighed for at tilberede brygge med effekter såsom kærlighedsdrikke, hårfjerningsmidler, naturfarver, styrkeurter osv. Færdigheden omfatter både tilberedning af bryggene samt viden om, hvor man kan finde de nødvendige ingredienser. Hver dag, som en rolleperson med færdigheden Drogekundskab søger efter det, han har brug for (urter eller dyr), får han et færdighedsslag. Hvis det lykkes, finder han 1T4 doser, et særligt slag giver 2T4 doser og et perfekt slag giver ham 4T4 doser. Dette forudsætter at han søger et sted hvor det han leder efter har gode levevilkår, man finder f.eks. ikke kaktusser i kolde egne uanset hvor mange år man leder. Husk på, at urter og bær ofte skal tørres på en særlig måde for at bevare de aktive stoffer, og at frugter skal bruges, mens de er friske. For at fremstille disse stoffer skal karakteren have adgang til et laboratorium med måleglas, ild, vand, specielle ingredienser mm.
 Se kapitlet om Urter & Planter for yderligere information om stoffernes virkning.
 
-##### Entrehage
+## Entrehage
 Type: Sekundær
 Professioner: Lejemorder, Søfarer, Tyv.
 Grundegenskab: SMI
 Dette er færdigheden at kaste en entrehage og få den til at sidde fast på det ønskede mål. Du kan maksimalt smide STY-felter vandret og STY/3 (afrundet) felter lodret. Et fumleslag betyder, at entrehagen enten falder tilbage på kasteren (hvis du kaster den opad), eller at den løsner sig på et kritisk tidspunkt. Husk, at det er lige meget, hvor godt du smider entrehagen, hvis den ikke har noget at sætte fast i.
 
-##### Forfalskning
+## Forfalskning
 Type: Sekundær
 Professioner: Barde, Lærd Mand, Lejemorder, Munk, Tyv.
 Grundegenskab: INT
@@ -1061,13 +1061,13 @@ Denne færdighed bruges til at forfalske dokumenter, passersedler, underskrifter
 | For hver side originalen har, i ca A4 størrelse.   |                -1                |
 Flere modifikationer kan gælde samtidig.
 
-##### Geografi
+## Geografi
 Type: Sekundær, B
 Professioner: Alle
 Grundegenskab: INT
 Denne færdighed giver rollepersonen et overblik over det kontinent, han bor på, hvilke forskellige folk der bor der, hvilke sprog der tales, hvordan vandvejene løber, hvor høje bjergene er, hvor store byerne er osv. Karakteren kan også være bekendt med politiske og økonomiske forhold i et bestemt område. Al denne information kan hjælpe spillere med at vide, hvor de skal gå hen for at finde det, de leder efter. Et tilgængeligt kort eller opslagsbog kan give nogle ændringer afhængigt af, hvad rollepersonen leder efter og bogens fuldstændighed (og nøjagtighed, husk, at pålidelige kort er luftfotografernes fortjeneste). En person med lav FV i geografi kender navnene på landene omkring hans eget hjemland, men ikke meget mere.
 
-##### Geologi
+## Geologi
 Type: Sekundær, B
 Professioner: Lærd Mand, Vildmarksjæger.
 Grundegenskab: INT
@@ -1079,13 +1079,13 @@ Andre spørgsmål, som den geologikyndige kan svare på er f.eks.:
 • Er dette område i fare for jordskælv?
 • Hvilken retning skal vi gå for at komme ud?
 
-##### Giftkundskab
+## Giftkundskab
 Type: Sekundær
 Professioner: Heler, Lærd Mand, Lejemorder, Magiker, Munk, Tyv, Vildmarksjæger.
 Grundegenskab: INT
 Færdigheden Giftkundskab giver rollepersonen mulighed for at producere mere eller mindre skadelige gifte og i bedste fald også deres modgift. Færdigheden dækker over alle gifte, både fra dyre-, plante- og mineralriget, og gælder både tilberedning af giftene og viden om hvor finder du dens råmaterialer. Hver dag, som en rolleperson med færdigheden Giftkundskab bruger på at søge efter de råmaterialer, han har brug for, laver han et færdighedsslag. Hvis det lykkes, finder han 1T2 doser, et særligt hit giver ham 1T4 doser, og et perfekt hit giver ham 2T4 doser. Det forudsætter naturligvis, at han søger et sted, hvor råmaterialerne kan findes. For at fremstille disse giftstoffer skal karakteren have adgang til et laboratorium med adgang til måleglas, ild, vand, specielle ingredienser mm. Se kapitlet om Urter & Planter for yderligere information om virkningerne af gifte.
 
-##### Gøglerkunster
+## Gøglerkunster
 Type: Sekundær, B
 Professioner: Barde, Søfarer, Tyv.
 Grundegenskab: SMI
@@ -1098,13 +1098,13 @@ En person med denne færdighed, kan udføre de gøglerkunster han mestrer, uden 
 4. Erfaren. Når man når dette niveau, kan man sluge sværd og jonglere med fem genstande. Ydermere kan du jonglere med genstande frem og tilbage med andre, der er mindst lige så dygtige.
 5. Mestre. Mesteren kan jonglere med op til syv genstande og udføre avancerede balancehandlinger, såsom at stå på en stol, der står på en stang, der står på en tønde, osv.
 
-##### Håndtere Fælder
+## Håndtere Fælder
 Type: Sekundær
 Professioner: Lejemorder, Tyv, Vildmarksjæger.
 Grundegenskab: SMI
 Dette er evnen til at springe og afvæbne fælder sat af en anden. Færdighedsslaget udføres altid skjult af SL; hvis det mislykkes, vil rollepersonen stadig tro, at fælden er afvæbnet. Hvis man mislykkes at afvæbne en fælde, er der altid en vis risiko for, at den udløses - dette er normalt beskrevet under fælden. Fumler man udløses fælden altid.
 
-##### Håndværk
+## Håndværk
 Type: Sekundær, B
 Professioner: Barde, Heler, Kriger, Munk, Søfarer, Vildmarksjæger.
 Grundegenskab: Varierer
@@ -1123,7 +1123,7 @@ Husk på, at det ikke kun er rene håndværkere, der bør kunne Håndværk — e
 4. Mester - Rollepersonen hæver sig over gennemsnittet og anerkendes som talentfuld af sine kolleger. Hans varer kan sælges for op til det dobbelte af prisen til ​​folk, der forstår godt håndværk. Våben fremstillet af en mester får deres brudværdi øget med 2.
 5. Berømt mester - Rollepersonen tilhører de allerbedste i hans håndværk, og hans produkter anses for at være af højeste klasse. Han har ofte en skare af mestre omkring sig som lærlinge, for han mestrer alle finesser i sit håndværk. Samlere kan købe hans genstande for op til ti gange prisen, og våben fremstillet af ham får øget deres skade med 1 og deres brudværdi øget med 4. Rustninger får deres absorberingsevne øget med 1.
 
-##### Hasardspil
+## Hasardspil
 Type: Sekundær
 Professioner: Barde, Kriger, Lærd Mand, Lejemorder, Søfarer, Tyv.
 Grundegenskab: PSY
@@ -1135,13 +1135,13 @@ Dette er evnen til at spille kort eller terninger ekstra dygtigt, det vil sige a
 
 Snyd er muligt for de karakterer, der har råd til at miste deres hæder og ære, men det kræver forberedte terninger eller kort. Med snyd kan du øge din CL med op til 10, hvor meget vælger du selv. Chancen for at snyd bliver opdaget er (CL i Finde Skjulte Ting + CL i Hasardspil + snyderens tillæg til CL - snyderens CL i Hasardspil). Hver gang nogen snyder, har alle, der ser det, en chance for at få øje på det. Opdagelsen af ​​snyd har normalt et voldsomt efterspil.
 
-##### Heraldik
+## Heraldik
 Type: Sekundær, B
 Professioner: Barde, Lærd Mand, Munk, Ridder.
 Grundegenskab: INT
 Denne færdighed giver rollepersonen mulighed for at identificere en families heraldiske våbenskjold og muligvis også dens symbolik. Han kan også finde ud af adelsfamiliernes familiebånd, og hvordan forholdet mellem dem er. En heraldiker har -2 til CL hvis våbenskjoldet eller familien er udenlandsk og yderligere -2, hvis den tilhører en repræsentant for en anden kultur. Derudover skal SL modificere afhængigt af andre faktorer, f.eks. våbnets originalitet, familiens berømmelse og hvor det kommer fra. Det er f.eks. usandsynligt, at du ikke genkender de heraldiske våben i din egen by og dit land, selvom du har FV 0.
 
-##### Historie
+## Historie
 Type: Sekundær, B
 Professioner: Barde, Lærd Mand, Munk, Ridder.
 Grundegenskab: INT
@@ -1161,13 +1161,13 @@ Ved et perfekt slag kan det ske, at du finder ud af ting, som du ikke har bedt o
 | Hændelsen skete i et andet land                 |       -2        |
 | Hændelsen skete på et andet kontinent           |       -10       |
 | For hver halvtreds år tilbage i tiden           |       -1        |
-##### Hypnotisere
+## Hypnotisere
 Type: Sekundær
 Professioner: Barde, Heler, Lejemorder, Tyv.
 Grundegenskab: PSY
 Denne færdighed bruges til at sætte en person i en trancetilstand, der åbner hans underbevidsthed, uden at han selv bemærker, hvad der sker. For at lykkes med at hypnotisere nogen, skal hypnotisøren med sit FV i Hypnotisere overvinde ofrets PSY tre SR i træk. Hvis øjenkontakten afbrydes i løbet af denne tid, mislykkes han automatisk. Når offeret er i trancetilstand, kan hypnotisøren f.eks. fremkalde minder, som offeret troede, han havde glemt, han kan få offeret til at sige ting, han virkelig ikke ville (eller kunne), han kan få ham til at udføre handlinger, han aldrig rigtig ville forestille sig. Hvis hypnotisøren beordrer offeret til at gøre eller sige noget helt imod offerets natur, skal der foretages et nyt færdighedsslag (FV i Hypnotisere mod offerets PSY). Slaget bør modificeres i ekstreme tilfælde, f.eks. når hypnotisøren beder om et mord eller forræderi. FV i Hypnotisere kan aldrig være højere end hypnotisørens PSY, uanset om det er en professionsfærdighed.
 
-##### Kampkunst
+## Kampkunst
 Type: Sekundær
 Professioner: Kriger, Lejemorder, Munk.
 Grundegenskab: SMI
@@ -1203,7 +1203,7 @@ Ubevæbnet kamp kan ikke udføres i rustning, der er tungere end læder. Hvis ka
 | Vidvinkelsyn            |    1,0    |
 \+ Kan kun anvendes mod menneskelignende modstandere.
 
-###### Beskrivelse af teknikkerne
+### Beskrivelse af teknikkerne
 Afvæbning: Dette er en form for ubevæbnet parering mod et væbnet angreb, hvor forsvareren forsøger at få sin modstander til at slippe sit våben. Hvis modstanderens angreb lykkes, fungerer færdigheden som en normal parering, men hvis det mislykkes, flytter våbnet 1T3 felter i en tilfældig retning. Han kan dog undgå dette ved at forsøge at parere afvæbningen. En vellykket parering betyder, at han formår at holde våbnet i hånden. På et perfekt slag i denne færdighed har forsvareren formået at tage våbnet i egne hænder, forudsat at angriberen ikke også får et perfekt slag. I så fald pareres angrebet som normalt.
 
 Bagspark: Et spark rettet mod en modstander i feltet bag angriberen. Den gør 1T6 i skade.
@@ -1249,7 +1249,7 @@ Opspring: Hvis kæmperen bliver væltet, kan han rejse sig med det samme med en 
 
 Vidvinkelsyn: Denne teknik er altid tændt og kræver ingen færdighedsslag. Den indebærer, at kæmperens synsfelt udvides til 270° (dvs. diagonalt bagud fra øjnene). Indenfor dette område er han opmærksom på alt, hvad der sker.
 
-##### Knob og Stik
+## Knob og Stik
 Type: Sekundær
 Professioner: Barde, lejemorder, Munk, Søfarer, Tyv, Vildmarksjæger.
 Grundegenskab: SMI
@@ -1259,33 +1259,33 @@ Denne færdighed bruges til at binde og løse holdbare og målrettede knob. Hvis
 
 Du kan aldrig bryde fri af reb, der er blevet bundet med et perfekt slag. Med et perfekt slag kan du bryde fri af alle reb, undtagen dem, der er bundet med et perfekt slag. Færdigheden kan også bruges til at lave rebstiger, tackler til skibe eller til at sno eller flette reb for at gøre dem mere holdbare.
 
-##### Kulturkendskab
+## Kulturkendskab
 Type: Sekundær, B
 Professioner: Alle
 Grundegenskab: INT
 Denne færdighed omfatter viden om skikke, gestus, tabuer, livsstil, spisevaner, ritualer, ceremonier, festivaler, guder, påklædning, sprogbrug, bosteder, egenskaber og erhverv i en bestemt kultur. Færdigheden skal udvikles separat for hver enkelt kultur eller race, f. eks. elvere, dværge, hobitter, sortfolk eller trolde. Du skal have mindst FV 15 for at kunne falde ind i en kulturs livsstil uden at vække opsigt.
 
-##### Kundskab om Dæmoner
+## Kundskab om Dæmoner
 Type: Sekundær, B
 Professioner: Heler, Lærd Mand, Magiker, Munk.
 Grundegenskab: INT
 Færdigheden Kundskab om Dæmoner omfatter læren om dæmoner; deres oprindelse, kræfter, navne, afstamning og hvordan man kan hidkalde eller forvise dem. Færdigheden giver kun teoretisk viden - for virkelig at kunne omsætte den i praksis kræves besværgelser fra magiskolen dæmonologi (beskrevet i *Drager og Dæmoner Magi*). Du får altid samme FV i Kundskab om Dæmoner, som du får i Dæmonologi.
 En Rolleperson kan ikke have højere FV i Kundskab om Dæmoner, end han har i Læse/Skrive.
 
-##### Kundskab om Magi
+## Kundskab om Magi
 Type: Sekundær, B
 Professioner: Heler, Lærd Mand, (Magiker), Munk, Ridder.
 Grundegenskab: INT
 Dette er kundskab om magi, ikke kundskab i magi. Dem som mestrer ​​færdigheden har lært effekterne af forskellige besværgelser, hvad de forskellige magiske skoler egner sig til og mange andre teoretiske aspekter af magi. Magikere har denne færdighed automatisk. Man anvender magikerens højeste FV i en magiskole som FV i Kundskab om Magi.
 En rolleperson kan ikke have højere FV i Kundskab om Magi, end han har i Læse/Skrive.
 
-##### Kundskab om Udøde
+## Kundskab om Udøde
 Type: Sekundær, B
 Professioner: Heler, Lærd Mand, Magiker, Munk, Ridder.
 Grundegenskab: INT
 Færdigheden Kundskab om Udøde omfatter læren om de levende døde; deres oprindelse, kræfter, navne, afstamning og hvordan man kan skabe eller forvise dem. Færdigheden giver kun teoretisk viden - for virkelig at omsætte den i praksis kræves besværgelser fra magiskolen Nekromanti (beskrevet i *Drager og Dæmoner Magi*) Du får altid samme FV i Kundskab om Udøde, som du har i Nekromanti. En rolleperson kan ikke have højere FV i Kundskab om Udøde, end han har i Læse/Skrive.
 
-##### Kende Magi
+## Kende Magi
 Type: Primær for Magikere, sekundær for øvrige.
 Professioner: (Magiker)
 Grundegenskab: PSY
@@ -1293,19 +1293,19 @@ Alle Magikere har evnen til at 'kende' magi, dog uden nærmere at kunne specific
 Færdighederne kan bruges til at afgøre, om en genstand er magisk eller ej. Du slår et færdighedsslag i den korrekte færdighed (Kend Elementar Magi, hvis emnet indeholder besværgelser fra denne skole osv.). Hvis genstanden er ukendt (dvs. du har aldrig set den før) har du -20 til CL. Hvis du på den anden side har brugt færdigheden på et identisk objekt før, får du ikke denne modifikation på CL. Du får også +1 til CL for hvert effektniveau, der er gemt i elementet, hvilket afspejler, at meget kraftfulde elementer 'udstråler' magisk kraft. Hvis færdighedsslaget lykkes, føler personen, at objektet er magisk, men uden nogen nærmere definition. Hvis slaget er perfekt, kender han dog antallet af besværgelser og hvor mange grader af effekt, der er i emnet, men ikke hvilke besværgelser. Generelle besværgelser anses for at være af samme skole som emnets 'hovedbesværgelse'. For et emne, der kun indeholder generelle besværgelser, skal du bruge det højeste FV, du har i dine Kende Magi-færdigheder. Så der er ingen færdighed, der hedder 'Kende Generel Magi'.
 Alle magikere har automatisk FV = FV i magiskolen for at kende magi fra denne skole. Han har også normal BC i Kende Magi fra de skoler han ikke har nogen FV i. Han kan selvfølgelig hæve sin FV over dette på normal vis. Hvis FV i Magiskolen hæves, så hæves FV i Kende Magi altid med det tilsvarende. Andre professioner end magikeren kan kun lære disse færdigheder som sekundære færdigheder.
 
-##### Lægekunst
+## Lægekunst
 Type: Sekundær
 Professioner: Heler, Munk.
 Grundegenskab: INT
 En person med denne færdighed kan bruge "konventionelle" metoder til at fremskynde helbredelsen af ​​en person ved f.eks. at lægge en splint ved brækkede knogler, forbinder og plejer deres patienter bedst muligt. En person, der er kyndig inden for lægekunsten, kan behandle forskellige skader og ved hvilken medicin hjælper. Han ved, hvor lang tid behandlingen er nødvendig og nogle udfører denne mod betaling med største fornøjelse. For hver uge med fuld helbredelse laver heleren et færdighedsslag, der modificeres efter omfanget og sværhedsgraden af ​​skaden. Et lykkedes færdighedsslag betyder det den syge har genvundet dobbelt så mange KP som normalt. Nogle skader kræver lægehjælp for at hele ordentligt, f.eks. brækkede knogler, indre blødninger osv. Hvis en skadet person ikke søger læge efter en sådan skade, vil han få mén for livet.
 
-##### Mundaflæse
+## Mundaflæse
 Type: Sekundær
 Professioner: Barde, Tyv.
 Grundegenskab: INT
 Med et vellykket færdighedsslag i Mundaflæse kan man se hvad en anden person siger. Man skal have mindst Tale FV B4 i det talte sprog for at kunne forstå noget.
 
-##### Læse/Skrive Fremmedsprog
+## Læse/Skrive Fremmedsprog
 Type: Sekundær, B
 Professioner: Barde (1), Heler (1), Lærd Mand (4), Magiker (3), Munk (3), Søfarer (1), Ridder (1).
 Grundegenskab: INT
@@ -1337,56 +1337,56 @@ De forskellige færdighedsniveauer betyder følgende:
 
 5. Fremragende viden - Samme som niveau 4, men rollepersonen kan også udtrykke sig frit i gammeldags eller højtidelig stil. Han er god til at "læse mellem linierne", det vil sige at opfatte skjulte budskaber i en tekst, og han forstår symbolik og hentydninger.
 
-##### Magisk Kanalisering
+## Magisk Kanalisering
 Type: Sekundær
 Professioner: Magiker.
 Grundegenskab: INT
 Denne færdighed tillader en magiker at bruge en anden person som deres kanal (medium) til en besværgelse (ikke ritual). Den praktiske effekt er, at det er mediet, der kaster besværgelsen, og det er også ham, der mister PSY-point. Mediet skal være vidende om dette og være villig til at det sker. For at kanaliseringen skal lykkes, skal både magikeren og mediets FV i Magisk Kanalisering overstige besværgelsens effektgrad. De skal også begge lykkes med et færdighedsslag i Magisk Kanalisering.
 
-##### Magiskoler
+## Magiskoler
 Type: Sekundær
 Professioner: Magiker (En valgfri), Vildmarksjæger (Animisme)
 Grundegenskab: INT
 Se kapitlet om magi.
 
-##### Massage
+## Massage
 Type: Sekundær
 Professioner: Heler, Munk.
 Grundegenskab: SMI
 En korrekt udført massage lindrer muskelspændinger i kroppen ved at stimulere visse nerveknuder og øge blodcirkulationen. Massage fungerer som en helbredende færdighed og kan helbrede 1T2 KP pr. behandling. Det tager omkring to timer. Massage kan dog kun helbrede skader påført af stumpe våben (køller, træpinde, slyngesten, krigshamre osv.). Kun én massagebehandling om dagen giver disse positive effekter, selv om man godt kan modtage flere.
 
-##### Bestikke
+## Bestikke
 Type: Sekundær
 Professioner: Barde, Lejemorder, Søfarer, Tyv.
 Grundegenskab: KAR
 En bestikkelse kan åbne lukkede døre eller bringe glemte og henlagte sager frem; det er vigtigt, at bestikkelsen håndteres med følelse, så ingen bliver stødt, hvilket er en svær kunst. En bestikkelses størrelse, varierer afhængigt af, hvad der skal gøres, og af 'bestikkerens' rigdom. Som udgangspunkt kan man sige, at bestikkelsen skal svare til mindst én dagsløn for overhovedet at blive taget seriøst. Hvis genstanden for bestikkelsen også er en risikabel handling, kan prisen øges og fordobles flere gange. Når et rimeligt beløb præsenteres, skal bestikkeren overvinde bestikkerens bestikkelsesfaktor på modstandstabellen. Bestikkelsesfaktoren  er et tal mellem 1 og 25, hvor 1 angiver en meget fattig og umoralsk person der vil gøre stort set alt for penge, mens 25 angiver en sådan pligtfølelse, at intet i verden kunne få ham til at bryde loven. Hvis et bestikkelsesforsøg mislykkes, er der altid en chance for, at bestikkeren bliver anmeldt og anholdt. Grundchancen for dette er 25%, og SL bør naturligvis ændre denne chance afhængigt af, hvem der skulle bestikkes, hvad bestikkelsen gik til og bestikkerens FV i Bestikke.
 
-##### Maling
+## Maling
 Type: Sekundær
 Professioner: Barde, Munk, Søfarer, Ridder.
 Grundegenskab: SMI
 Denne færdighed bruges til at lave smukke og udtryksfulde malerier. For at vurdere kvaliteten af ​​et maleri tager man malerens differenceværdi for netop det maleri. En person med denne færdighed kan også bedømme kvaliteten af ​​andre malerier og bestemme symbolikken og betydningen af ​​malerier.
 
-##### Navigering
+## Navigering
 Type: Sekundær
 Professioner: Søfarer.
 Grundegenskab: INT
 Navigering er evnen til at finde den rigtige kurs til søs ved hjælp af stjernerne. SL slår færdighedsslaget skjult, så spilleren ikke ved om han har fejlet. Du slår én gang for hver dag, sørejsen varer, og mislykkes slaget, vil du afvige 10 % fra den rigtige kurs. Hver gang du så fejler igen, afviger du yderligere 10%. Lykkes det med et færdighedsslag, betyder det, at du har fundet den rigtige kurs igen. Effekten af ​​et mislykket slag er derfor ikke, at man kommer det forkerte sted hen, men det betyder uundgåeligt at komme for sent. Synlige, kendte vartegn kan give bonus på CL, mens dårligt vejr og/eller at rejse i helt ukendt farvand giver et minus. Et perfekt slag betyder, at du vinder en dags rejse, mens en fumleslag betyder, at du er forsinket med yderligere to dage.
 
-##### Orientering
+## Orientering
 Type: Sekundær
 Professioner: Heler, Søfarer, Vildmarksjæger.
 Grundegenskab: INT
 Orientering handler om at kunne komme fra punkt A til punkt B med mindst mulig besvær. Færdigheden kan bruges i enhver situation udendørs. Mangler du adgang til en skyfri himmel (så du hverken har hjælp fra solen eller stjernerne), halveres CL.
 Du slår et færdighedsslag i enhver vigtig valgsituation undervejs. Et vellykket slag betyder, at rollepersonen ved, hvilket vejvalg der er bedst. Hvis slaget mislykkes, er spilleren tvunget til selv at bestemme, hvilken vej de skal gå, og i tilfælde af et fumleslag vælger rollepersonen den forkerte vej.
 
-##### Overlevelse
+## Overlevelse
 Type: Sekundær
 Professioner: Heler, Vildmarksjæger.
 Grundegenskab: INT
 Denne færdighed giver mulighed for at klare sig i vildmarken med de ressourcer, der er tilgængelige i naturen. Ved hjælp af denne færdighed kan en karakter finde vand, finde spiselige planter og dyr, vide, hvordan man finder eller laver ly, vurdere vejret og den nemmeste måde at komme rundt i vanskeligt terræn. En person, der ikke har denne færdighed (eller som stædigt fejler færdighedsslag), vil være i alvorlige problemer, når forsyningerne løber tør, når oppakningen bliver stjålet af nisser, når himlens porte bliver kastet på vid gab, og den eneste synlige sti ender i ingenting. Et forslag er at give alle spillere mulighed for at lave færdighedsslag i Overlevelse under unormale forhold. Afhængig af forholdene bestemmer SL, hvor ofte de skal slå - for eksempel en gang i timen ved meget svære forhold, to gange om dagen ved lidt mildere forhold. Hvis færdighedsslaget mislykkes, reduceres alle grundegenskaber midlertidigt med 1 på grund af udmattelse, afkøling og tørst, men hvis det lykkes, undgås dette.
 
-##### Regning
+## Regning
 Type: Sekundær, B
 Professioner: Lærd Mand, Magiker, Munk, Ridder, Tyv.
 Grundegenskab: INT
@@ -1399,13 +1399,13 @@ Denne færdighed involverer alle regneoperationer mere indviklede end håndterin
 4. Korrekt forretningsmæssigbogføring
 5. Geometri og algebra
 
-##### Skak og Brætspil
+## Skak og Brætspil
 Type: Sekundær
 Professioner: Barde, Lærd Mand, Søfarer, Ridder.
 Grundegenskab: INT
 Denne færdighed inkluderer evnen til at spille skak og andre brætspil. For at se, hvem der vinder, laver begge spillere et færdighedsslag. Den, der får den højeste differenceværdi, vinder. Hvis det er lige, er det remis (i skak), eller de slår om (i brætspil).
 
-##### Svømme
+## Svømme
 Type: Sekundær, B
 Professioner: Alle.
 Grundegenskab: SMI
@@ -1419,46 +1419,44 @@ Flytteformåen tælles i kvadrater pr. SR. I tilfælde af at der svømmes om kap
 |  3  | God svømmer       |       3       |
 |  4  | Dygtig svømmer    |       4       |
 |  5  | Mestersvømmer     |       5       |
-##### Sømandskab
+## Sømandskab
 Type: Sekundær
 Professioner: Søfarer.
 Grundegenskab: INT
 Færdigheden Sømandskab handler om vanen med at rejse og arbejde til søs med pleje af sejl og ror. En person med lav FV har f.eks. svær at håndtere søgang, bliver let søsyg og er generelt uvidende om, hvordan et skib fungerer, styres og betjenes. En høj FV er derimod afgørende for en sejler eller fisker. Når en rolleperson sejler ud på havet, skal han først lave et let FYS slag og et færdighedsslag i Sømandskab for at undgå søsyge. Søsyge betyder, at du får -5 på CL på alle færdigheder. Fummel på færdighedsslaget betyder, at rollepersonen er slået ud og ikke kan andet end at ligge ned og have det dårligt. Kontrollen gentages hver aften. Søsygemodifikationen anvendes ikke på denne færdighedstype; dog får du +1 på CL for hver gang du fejler.
 Først når begge slag lykkes, føler du dig bedre. Næste morgen er rollepersonen helt kureret og behøver ikke at slå noget mere for dette under resten af ​​turen. Når en rolleperson bruger en SMI- eller STY-baseret færdighed på et gyngende skib, er hans CL aldrig højere end hans FV i sømandskab. Det gælder også for kamp. I hårdt vejr skal der slås et færdighedsslag en gang hver halve time. Et mislykket færdighedsslag betyder, at personen mister balancen og kommer ud for en mindre ulykke.
 
-##### Skuespil
+## Skuespil
 Type: Sekundær
 Professioner: Barde, Lejemorder, Tyv.
 Grundegenskab: KAR
 Denne færdighed bruges til at spille rollespil og spille en andens rolle, hvad enten det er i et skuespil eller i det virkelige liv. Færdigheden omfatter også, hvor dygtig du er til at skrive skuespil. For at bedømme kvaliteten af ​​en skuespiller eller af en præstation laver man et færdighedsslag og tager differenceværdien. Fumleslag betyder, at man siger det forkerte i et teaterstykke eller afslører sin sande identitet, hvis det handler om at tage en andens plads.
 
-##### Spille Instrument
+## Spille Instrument
 Type: Sekundær
 Professioner: Barde, Munk, Søfarer, Ridder, Tyv.
 Grundegenskab: KAR
 Denne færdighed omfatter både at komponere musik, lære den udenad og spille den. En færdighed skal udvikles separat for at spille hvert enkelt instrument; For eksempel er at spille harpe og at spille lut to separate færdigheder. Færdigheden kan bruges til at hæve spillerens KAR i publikums øjne, et forslag er med 1 for et vellykket slag og 3 for et perfekt slag.
 
-##### Sprogkundskab
+## Sprogkundskab
 Type: Sekundær, B
 Professioner: Barde, Heler, Lærd Mand, Magiker, Munk, Ridder.
 Grundegenskab: INT
 Med denne færdighed kan en rolleperson identificere et fremmedsprog, når de hører det talt eller ser det på skrift. Det betyder dog ikke, at han forstår sproget.
 
-##### Forudsige Vejr
+## Forudsige Vejr
 Type: Sekundær
 Professioner: Søfarer, Vildmarksjæger.
 Grundegenskab: INT
 Ved hjælp af denne færdighed kan man ved at se på skyerne forudsige vejret for de næste tolv timer. Et vellykket færdighedsslag betyder, at du kan forudsige vejret med 90 procent sikkerhed. Et mislykket slag betyder, at prognosen har 50 procent nøjagtighed. En fumleslag betyder, at du fuldstændig fejltolker tegnene, mens et perfekt slag betyder, at prognosen er 100 procent sikker.
 
-##### Stangspring
+## Stangspring
 Type: Sekundær
 Professioner: Lejemorder, Søfarer, Tyv.
 Grundegenskab: SMI
 Denne færdighed bruges, når man bruger en stav eller stang til at hoppe over f.eks. en væg eller hæk. Du kan hoppe over forhindringer, der er lige så høje som stangen, men max FV/4 meter. Et fumleslag betyder, at du tager normal faldskade, som om du faldt fra en højde svarende til forhindringens.
 
-
-
-##### Tale fremmedsprog
+## Tale fremmedsprog
 Type: Sekundær, B
 Professioner: Barde (2), Heler (2), Kriger (1), Lærd Mand (4), Lejemorder (1), Magiker (3), Munk (3), Søfarer (3), Ridder (1), Tyv (1), Vildmarksjæger (1).
 Grundegenskab: INT
@@ -1471,43 +1469,43 @@ Hvert sprog tæller som en separat færdighed. Alle rollepersoner har BC på et 
 4. Fremragende færdigheder - Karakteren taler sproget som en indfødt. Han kan de mest almindelige dialekter og har ingen problemer med at udtrykke sig.
 5. Perfekt - Karakteren behersker sproget som en uddannet indfødt. Han mestrer formel, høflig og højtidelig stil til perfektion.
 
-##### Tegnsprog
+## Tegnsprog
 Type: Sekundær
 Professioner: Lejemorder, Tyv.
 Grundegenskab: INT
 Denne færdighed bruges sammen med færdigheden Tale Fremmedsprog for sprog, der kun består af bevægelser, fakter og tegn. Du lærer det sprog som sædvanligt med færdigheden Tale Fremmedsprog, men skal også købe et lige så højt FV i Tegnsprog for at kunne 'tale' med det. Man skal lære hvert tegnsprog for sig. Du kan aldrig have et højere FV på noget tegnsprog, end du har i at Tale det sprog.
 
-==Eksempel==
+==Eksempel: Banditten Gandor har lært sig tegnsproget "Langfingermål" fra det lokale tyvelaug. Han skal først lære "Tale Langfingermål" på almindelig vis (Se færdigheden Tale Fremmedsprog) til FV16 (FV B4). Når han selv skal tale "Langfingermål" så anvender han sin FV i Tegnsprog (Langfingermål) som dog aldrig kan være højere end 16. Når han skal forstå "Langfingermål" så anvender han sin FV 16 i Tale Langfingermål==
 
-##### Træstav
+## Træstav
 Type: Sekundær
 Professioner: Alle
 Grundegenskab: SMI
 Se våbenfærdigheder.
 
-##### To våben
+## To våben
 Type: Sekundær
 Professioner: Kriger, Ridder.
 Grundegenskab: Varierer.
 Denne færdighed bruges til at lære at kæmpe med to våben på samme tid (et i hver hånd). Færdighederne skal udvikles individuelt for hver kombination af våben, for eksempel 'Kortsværd+dolk' eller 'Bredsværd+håndøkse'. Du skal også oplyse i hvilken hånd du holder det respektive våben (medmindre du er dobbelthåndet eller
 ambidekstriøs). Man behøver ikke denne færdighed for at bruge et skjold med skjoldarmen og et våben med sværdarmen. Færdighedsværdien ved at bruge to våben sammen kan aldrig overstige den laveste af de individuelle FV'er. Du kan således ikke have FV 1 i 'Kortsværd+dolk', medmindre du har mindst FV 10 i både kortsværd og dolk. På den anden side får man automatisk halvdelen (rundet ned) af den laveste FV som BC. Hvis de individuelle færdigheder af de to våben er baseret på forskellige grundlæggende egenskaber, så er to-våben-færdigheden baseret på SMI. Du kan ikke bruge noget våben med tohåndsgreb i kombination med et andet våben, uanset om det er enhånds- eller tohåndsvåben. Hvis du går i kamp med to våben, uanset hvilke, har du tre valg; at lave to angreb, at lave et angreb og en parering eller at lave to pareringer. Hvis du laver to angreb, foregår det første (med sværdhånden) på en almindelig plads i kamprunden, mens det andet (med skjoldhånden) finder sted til allersidst.
 
-==Eksempel==
+==Eksempel: Antag at Georg Iver John har FV 10 i Stridsøkse og FV 13 i Dolk. Han ønsker nu at lære at slås med dem begge på samme tid. Færdigheden beskrives nu som Stridsøkse (Sværdhånd) + Dolk (Skjoldhånd). Han får automatisk FV 5 (Halvdelen af den laveste FV, altså 10 fra stridsøkse), men kan ikke opnå højere FV end 10. Færdigheden er baseret på SMI.==
 
-##### Underverdenen
+## Underverdenen
 Type: Sekundær, B
 Professioner: Lejemorder, Søfarer, Tyv.
 Grundegenskab: INT
 Denne færdighed giver rollepersonen viden om de forskellige tyvelaug i en by: deres ledere, tilholdssteder, hemmelige passager, mødesteder, smuglere osv. Jo mere hemmelig information, jo højere krævet FV. At fejle sit slag i færdigheden Underverdenen kan have ubehagelige konsekvenser; nogle mennesker kan ikke lide at blive stillet bestemte spørgsmål. Færdigheden skal udvikles selvstændigt for hver by.
 
-##### Urtekundskab
+## Urtekundskab
 Type: Sekundær
 Professioner: Heler, Lærd Mand, Magiker, Munk, Vildmarksjæger.
 Grundegenskab: INT
 Færdigheden Urtekundskab giver rollepersonen evnerne til at forberede helbredende, beroligende eller smertelindrende afkog og omslag. Ved at lave afkog af planterne eller lægge dem på sårene lindrer de en persons skader og heler hans sår hurtigere end normale metoder gør. Færdigheden omfatter både tilberedning af urterne og viden om, hvor man kan finde dem. Hver dag, som en rolleperson med færdigheden Urtekundskab bruger på at søge efter den urt, han har brug for, laver han et færdighedsslag. Hvis det lykkes, finder han 1T4 doser, et særligt slag giver ham 2T4 doser, og et perfekt slag giver ham 4T4 doser. Dette forudsætter selvfølgelig at han leder efter et sted hvor urten har gode vækstbetingelser, man finder f.eks. ikke kaktusser i polaregne uanset hvor længe man leder. Husk på, at urter og bær ofte skal tørres på en særlig måde for at bevare de aktive stoffer, og at frugter skal bruges, mens de er friske.
 Se kapitlet om Urter & Planter for yderligere information om virkningen af ​​lægemidler.
 
-##### Våbenfærdigheder
+## Våbenfærdigheder
 Type: Sekundær
 Professioner: Barde (1), Kriger (12), Lejemorder (1), Søfarer (3), Ridder (5), Tyv (2), Vildmarksjæger (3).
 Grundegenskab: Varierer.
@@ -1534,13 +1532,15 @@ Disse færdigheder viser, hvor god du er til at håndtere et våben eller skjold
 | Pusterør             | SMI           | Pusterør                                                                                |
 \+: Se afsnittet håndtering i kapitlet om våben og rustninger.
 
-##### Zoologi
+## Zoologi
 Type: Sekundær, B
 Professioner: Heler, Lærd Mand, Magiker, Munk, Vildmarksjæger.
 Grundegenskab: INT
 En rolleperson med denne færdighed kender til dyrene og deres verden. I Drager og Dæmoner tæller uintelligente legendariske væsner (såsom en grif) som dyr, men det gør intelligente væsner (såsom drager og enhjørninger) ikke. Ved hjælp af denne færdighed kan rollepersonen få svar på en række spørgsmål. Hvis SL vurderer, at der kræves et færdighedsslag, skal spilleren først beslutte, hvilket spørgsmål han vil have svar på, derefter laver SL et skjult færdighedsslag. Hvis slaget lykkes, udtaler SL det sande svar (eller 'ved ikke', hvis personen ikke ved det), men hvis han fumler, giver han falsk information. Hvis færdighedsslaget mislykkedes, svarer han 'ved ikke', eller giver et svar, der kun er tæt på sandheden. Et perfekt slag giver mere information, end spilleren bad om. Eksempler på spørgsmål er f.eks. hvor dyret lever, hvad det lever af, hvilke svagheder/styrker det har, om det er nyttigt til mad, hvor mange man typisk møder ad gangen, om det er farligt for mennesker osv. CL bør modificeres alt efter hvor almindeligt dyret er — fra +5 for meget almindelige dyr (kæledyr, hunde, heste) til -10 for sjældne dyr til -20 for unikke væsner.
 
-#### Hvordan man bliver bedre
+# Hvordan man bliver bedre
+
+## Brug af erfaringspoint
 En rolleperson kan forbedre sine færdigheder eller skaffe sig nye ved at få erfaringspoint. Hvert erfaringspoint du får, gælder kun for en bestemt færdighed, og du bør registrere alle erfaringspoint, du får for den færdighed. Erfaringspointene konverteres derefter til færdighedsværdier på samme måde som når
 du tilegner dig startfærdigheder (se afsnittet Sådan skaber du din egen rolleperson).
 Du kan opnå erfaringspoint på følgende måder:
@@ -1549,10 +1549,10 @@ Du kan opnå erfaringspoint på følgende måder:
 • Erfaring
 I sekundære færdigheder og kategori B færdigheder kan du aldrig få en højere FV end værdien af ​​den grundegenskab, den er baseret på. Gennem træning kan du heller ikke øge en primær færdighed eller en professionsfærdighed til en højere FV end den grundegenskab, den er baseret på. Hvis du vil have højere FV i sådan en færdighed, skal det ske gennem erfaring (B-færdigheder undtaget).
 
-###### Solotræning
+### Solotræning
 Solotræning betyder, at du ikke har adgang til en lærer, men at du selv forsøger. Det er en langsom og svær metode, for det er svært at se, hvad man selv gør forkert. Normal målrettet solotræning er otte timer om dagen, seks dage om ugen. For hver uge, der går, skal spilleren lave et normalt grundegenskabsslag for den færdighed, som færdigheden er baseret på; hvis slaget lykkes, får rollepersonen et erfaringspoint, hvis han fejler, er ugen spildt. Træner du kun seks timer om dagen, forlænges træningstiden med 50 %, og træner du kun fire timer om dagen, tager det dobbelt så lang tid at lære noget. Det er ikke muligt at træne mere end otte timer eller mindre end fire timer om dagen. Træningen skal foregå ved lejligheder, der giver mulighed for at koncentrere sig om opgaven i fred og ro. Det er ikke muligt at træne under igangværende eventyr, men det er muligt at kombinere et deltidsjob med deltidstræning. Den, der træner, skal også have adgang til bestemte materialer; en smed har brug for en smedje, en bueskytte har brug for et våben og et sted, hvor han kan skyde uden risiko for at ramme nogen, en soldat har brug for et våben. Nogle færdigheder kræver mindre, f.eks. en sanger har bare brug for et roligt og inspirerende sted.
 
-###### Træning med lærer
+### Træning med lærer
 En person kan også blive oplært af en lærer, som kan påpege, hvilke fejl eleven laver og vise, hvordan man gør det i stedet. En lærer skal være en mester i færdigheden, dvs. have nået FV 17 (FV B4 ), og han skal også have en INT på 13 eller mere. En lærer kan ikke træne en elev i en færdighed, hvis lærerens FV er mindre end 3 højere end elevens. Undervisning med lærer dækker altid otte timer om dagen, seks dage om ugen. Hver uge skal eleven slå to slag (se Solotræning) for at få erfaringspoint. Han kan anvende følgende modifikationer:
 • For hver færdighed læreren har med FV over 18: -1 på slaget.
 • Hvis eleven er alene: CL -5 på slaget
@@ -1562,15 +1562,15 @@ Grundprisen pr. uge for at ansætte en lærer er 150 sm (for magikere 300 sm). F
 Denne udgift omfatter lokaler, udstyr og assistenter af forskellig art.
 Erfaringspoint, som en rolleperson opnår gennem begge typer træning, kan konverteres til færdighedsværdier, så snart han har nok.
 
-###### Erfaring gennem eventyr
+### Erfaring gennem eventyr
 Rollepersoner kan også forbedre deres færdigheder ved at bruge dem under eventyr. Dette gælder ikke kategori B færdigheder, som kun kan forbedres gennem træning. Hver gang en rolleperson bruger en færdighed med succes for første gang efter en søvnperiode på mindst seks timer (to timer for elvere), får han et erfaringspoint. Et perfekt slag giver 1T3+1 point. Efterfølgende kan rollepersonen ikke få mere erfaring i den færdighed, før han har sovet i mindst seks timer.
 Erfaringspoint kan ikke veksles til FV under et igangværende eventyr, men rollepersonen skal vente, indtil han har en sammenhængende hvileperiode på mindst syv dage. Derefter kan alle de erfaringspoint, rollepersonen har opsparet, konverteres til FV. Efter et eventyr kan SL tildele bonuspoint til spillernes rollepersoner. En rolleperson kan få bonuspoint for at fuldføre en mission (1-4 point), udføre en usædvanlig svær gerning (1-2 point) eller for godt rollespil (1-4 point). det er
 svært at give nogen præcise retningslinjer, men en karakter bør aldrig få mere end i alt 10 bonuspoint for et enkelt eventyr. Bonuspointene kan fordeles vilkårligt af spilleren over alle hans færdigheder med SL's godkendelse.
 
-###### Sådan bruger du erfaringspoint
+### Sådan bruger du erfaringspoint
 En rolleperson kan købe højere færdighedsværdier med sine erfaringspoint. Dette fungerer på samme måde, som når en nylavet karakter køber sine startfærdigheder.
 
-#### Hvordan man forøger sin PSY
+## Hvordan man forøger sin PSY
 Efterhånden som en rollepersons eventyrlige karriere skrider frem, øges hans psykiske kraft som et resultat af, at han får bedre selvtillid, større modstand mod magi, større psykisk kraft, mere indsigt i hvordan verden fungerer osv. Efter hvert eventyr skal du slå for at se, om rollepersonens PSY hæves, hvis personen har opnået
 nogen af ​​følgende:
 • Hvis en magiker formår at overvinde et offers modstand i en PSY mod PSY kamp, ​​har han en chance for at øge sin PSY. For at lykkes skal han slå 1T20. Hvis resultatet er (25 - magikerens nuværende PSY) eller mindre, øges PSY med et point. Hvis han slår en et med 1T20, hæves PSY med 1T3+1 point. Når PSY passerer 24, kan magikeren stadig hæve sin PSY ved at slå en etter. Hvis det er tilfældet, hæves hans PSY med et point. Hvis han slår to ettere i træk, hæves PSY med 1T3+1 point. Han må kun slå en gang efter et gennemført eventyr. Hvis det lykkes, vil stigningen komme gradvist over en uge.
@@ -1578,7 +1578,7 @@ nogen af ​​følgende:
 
 Bemærk, at PSY vs. PSY-kampene skal være virkelige, alvorlige situationer, hvor resultatet har en væsentlig betydning (SL's vurdering). En spillergruppe bestående af to magikere og to ikke-magikere kan f.eks. ikke bruge en hel uge på bare at kæmpe kampe PSY mod PSY for derved at øge niveauet. Det skal SL konsekvent sætte en stopper for.
 
-#### Heltedåd
+## Heltedåd
 Når du præsterer en stor bedrift eller efter en lang karriere som eventyrer bliver exceptionelt dygtig til noget, bliver du optaget i rækken af ​​eventyrverdenens helte. At være en helt har både positive og negative effekter, hvilket vil blive vist senere. Hvor stor en helt du egentlig er, bestemmes af noget, vi kalder heltepoint (HP). HP kan bruges til forskellige ting, hvorefter de er brugt op. Det er ikke altid helt positivt at være helt, for så bliver man notorisk og anerkendt, hvilket man ikke altid vil være. Chancen for at blive anerkendt er normalt (samlet akkumuleret HP i livet)%. Denne procentvise chance skal modificeres afhængigt af f.eks. hvor meget helten har bevæget sig i området, hvor mange bedrifter han udførte der, og hvor længe siden det var. I tabellen nedenfor er der nogle eksempler på, hvor mange HP en rolleperson kan få for forskellige gerninger. Vi kan ikke beskrive samtlige heltedåde, men du kan som SL bruge det som rettesnor. Du kan også som SL være parat til at trække HP fra rollepersonerne, hvis de laver ekstremt 'uhelteagtige' handlinger, f.eks. forlader sine venner i farens time, forråder venner eller nægter at acceptere udfordringer til dueller.
 
 | Heltedåd                                        | Heltepoint |
@@ -1596,14 +1596,14 @@ Når du præsterer en stor bedrift eller efter en lang karriere som eventyrer bl
 \+: F. eks. drager, gorgoner, fuglen rok, titaner, dæmoner. dødsridder eller et anden sjældent og dødsensfarlig væsen.
 \++: Du får 10%(rundet ned) af den fjendtlige helts samlede heltepoint.
 
-###### Hvordan man bruger heltepoint
+### Hvordan man bruger heltepoint
 Heltepoint kan bruges til de følgende tre ting:
 • Øge CL
 • Tilegne sig særlige evner
 • Forbedre grundegenskaberne
-###### Øge CL
+#### Øge CL
 En helt kan, ved at bruge et HP, før et færdighedsslag, drastisk øge chancen for at lykkes med en bestemt færdighed. Hvis han gør dette, betyder det, at et normalt fumleslag 'kun' mislykkes, et mislykket færdighedsslag betyder stadig, at han lykkes med at bruge færdigheden, et vellykket slag bliver perfekt, og et perfekt slag returnerer også de brugte heltepoint. Denne 'evne' kan bruges til enhver tid.
-###### Få særlige evner
+#### Få særlige evner
 Ved at bruge HP er det muligt at slå yderligere på tabellen med specielle evner, som findes i kapitlet om karakterskabelse. For hver HP du bruger på dette, får du +2 på terningkastet. Du skal bruge mindst en HP og kan maksimalt bruge 40. Dette kan kun ske mellem eventyr.
-###### Forbedre grundegenskaberne
+#### Forbedre grundegenskaberne
 For 5 HP kan du hæve en grundegenskab med et point (men ikke STO). Forøgelsen er ubegrænset og permanent og påvirker også de færdigheder, der er baseret på grundegenskaben. Dette kan kun ske mellem eventyr.

@@ -1,18 +1,43 @@
-#### Magi
+# Magi
+
+## Magiskoler
+
+### Hvem kan lære magi
 
 
-#### Besværgelser
+### Færdigheden Magiskole
 
-##### Almene besværgelser
+#### Besværgelser og ritualer
 
-##### Animisme
+#### Almene besværgelser
 
-##### Elementarmagi
 
-##### Mentalisme
+### At anvende magi
 
-#### Våben og Rustninger
 
-#### Udrustning
+#### Tid og magi
+
+#### Forskellige styrker magi
+
+#### Magi og PSY
+
+##### Hvordan man får PSY-point igen
+
+
+# Besværgelser
+
+
+
+## Almene besværgelser
+
+## Animisme
+
+## Elementarmagi
+
+## Mentalisme
+
+# Våben og Rustninger
+
+# Udrustning
 
 
