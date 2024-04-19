@@ -7,12 +7,12 @@ Til alle tider har intelligente væsener stræbt efter at kontrollere og styre v
 Der er mange forskellige veje og skikke til at omdanne den diffuse magiske energi til besværgelser og ritualer, der giver konkrete resultater. Disse metoder er fundamentalt forskellige og giver forskellige resultater, når de bruges. Hver metode kaldes en magisk skole. Følgende skoler er beskrevet i Drager og Dæmoner.
 
 • Animisme
-• Elementær magi
+• Elementarmagi
 • Mentalisme
 
 Animister studerer naturen og lærer at agere i harmoni med den. Deres magi er især optaget af at påvirke og kommunikere med levende ting.
 
-Elementær magi viser, hvordan man mestrer de elementer, der udgør universets byggesten: ild, vand, luft og jord, og de underordnede elementer af mørke, lys, kulde og varme.
+Elementarmagi viser, hvordan man mestrer de elementer, der udgør universets byggesten: ild, vand, luft og jord, og de underordnede elementer af mørke, lys, kulde og varme.
 
 Mentalisterne studerer magi, der giver dem større kontrol over kroppen og giver den nye egenskaber og evner.
 
