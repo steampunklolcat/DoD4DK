@@ -47,9 +47,14 @@ Inden for hver magiskole findes et stort antal besværgelser med forskellige eff
 Besværgelser er den mest almindelige form for magi. De bruger relativt korte besværgelser, sange, vers eller gestikuleringer, der fremmaner den ønskede effekt. Ud over de besværgelser og ritualer, der hører til en bestemt skole for magi, er der en række generelle besværgelser. Alle magikere og vildmarksjægere kan lære disse. De anses altid for at tilhøre magiskolen man har højest FV i.
 
 ### At anvende magi
+Besværgelser fungerer som normale færdigheder og hver enkelt besværgelse tæller som en separat færdighed. Du slår 1T20, og hvis du formår at rulle under eller lig med din CL, virker magien, og du opnår den tilsigtede effekt. Hvis du fejler, virker magien ikke og intet hænder. Hvis du fumler, fejltænder magien, og du skal slå på fejltændingstabellen. Alle besværgelser er baseret på PSY. Ritualer fungerer på samme måde, selvom de er underlagt nogle særlige regler beskrevet senere.
 
+Navne på besværgelser og ritualer er altid skrevet med STORE BOGSTAVER.
 
 #### Tid og magi
+
+
+
 
 #### Forskellige styrker magi
 
