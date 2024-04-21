@@ -154,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature Pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -169,13 +170,13 @@
   },
   "active": "3ba849819c10dfc6",
   "lastOpenFiles": [
+    "Primær færdighed.md",
+    "Sekundær færdighed.md",
+    "Drager og Dæmoner 4. III Spillerbogen.md",
     "Drager og Dæmoner Magi.md",
     "Drager og Dæmoner 4. I Rollepersonen.md",
     "Drager og Dæmoner 4. II Spillelederbogen.md",
-    "Drager og Dæmoner 4. III Spillerbogen.md",
     "README.md",
-    "Primær færdighed.md",
-    "Sekundær færdighed.md",
     "kampdiagram.drawio.svg",
     "kampdiagram.drawio",
     "Untitled Diagram.svg",

@@ -18,13 +18,33 @@ Mentalisterne studerer magi, der giver dem større kontrol over kroppen og giver
 
 ### Hvem kan lære magi
 
+En magiker kan vælge en af magiskolerne som en professionsfærdighed. De kan også lære et hvilket som helst antal generelle besværgelser og besværgelser fra den valgte magiskole som startfærdigheder. Senere i deres eventyrkarriere kan de lære de andre magiskoler og deres besværgelser som sekundære færdigheder. Vildmarksjægeren kan vælge animisme som en professionsfærdighed, men de kan ikke lære nogen besværgelser som startfærdigheder. Når der står 'Magiker' i teksterne nedenfor, menes der magiker og vildmarksjæger.
 
 ### Færdigheden Magiskole
 
+Type: Sekundær
+Professioner: Magiker (En valgfri magiskole), Vildmarksjæger (Animisme)
+Grundegenskab: INT
+
+Denne færdighed kan kun forbedres gennem træning, enten alene eller sammen med en lærer. Træner du alene, skal du have adgang til et magiakademis biblioteker, der har den nødvendige viden er nedfældet i gamle skriftruller. Magikerens FV i magiskolen bestemmer mange vigtige ting:
+
++ Alle besværgelser har noget, der hedder en skoleværdi. Dette angiver den viden (FV) magikeren skal have inden for besværgelsens magiskole, før han kan lære besværgelsen. Dette skal tolkes som, at det kræver en vis teoretisk og praktisk kundskab for at kunne lære en besværgelse.
+
+==eksempel: Før en animist magiker overhovedet kan lære besværgelsen MINDSKE (skoleværdi 6), skal han have lært Animisme til en FV på mindst 6. Når han er så dygtig til Animisme, kan han lære MINDSKE med startfærdighedsværdien S1.==
+
++ Du får aldrig BC i besværgelser, da de hverken er professionsfærdigheder eller primære færdigheder. Indlæring af besværgelser som startfærdigheder fungerer dog på samme måde som de andre færdigheder, hvorfor de almindelige regler for lære færdigheder skal bruges. Grundprisen afhænger af besværgelsens skoleværdi.
+
++ Den maksimale effektgrad en magiker kan bruge, når han kaster en besværgelse eller et ritual, er lig med hans FV i besværgelsens eller ritualets magiskole.
+
++ Det er muligt for en magiker at have FV i flere magiskoler på samme tid, men han må kun vælge en som sin professionsfærdighed.
+
+Besværgelser fungerer som færdighedskategori A. I stedet for færdighedsværdi bruges begrebet sagkyndighedsværdi (forkortet S). Når du skriver en færdighedsværdi, skriver du et "S" før værdien. (Hvis en magiker har HELE S12, svarer den til HELE FV 12.) Sagkyndighedssværdien ændres ved beregning af CL. Den vigtigste modifikation er, at CL reduceres med to for hvert effektgrad (se 'Forskellige styrker magi' nedenfor) ud over den første. Efterfølgende skal man slå 1T20 lig med eller lavere end CL. Det er muligt og almindeligt at have en højere sagkyndighedsværdi i en besværgelse, end man har færdighedsværdi i magiskolen. Færdighedsværdien begrænser kun, hvilke besværgelser du kan lære, ikke hvor godt du kan lære dem.
+
 #### Besværgelser og ritualer
+Inden for hver magiskole findes et stort antal besværgelser med forskellige effekter. Nogle besværgelser involverer så omfattende forberedelses- og bevægelsesmønstre, at de i stedet er ritualer. Disse er markeret med et R (=ritual) i formularbeskrivelsen og tager længere tid at indlære og efterfølgende bruge.
 
 #### Almene besværgelser
-
+Besværgelser er den mest almindelige form for magi. De bruger relativt korte besværgelser, sange, vers eller gestikuleringer, der fremmaner den ønskede effekt. Ud over de besværgelser og ritualer, der hører til en bestemt skole for magi, er der en række generelle besværgelser. Alle magikere og vildmarksjægere kan lære disse. De anses altid for at tilhøre magiskolen man har højest FV i.
 
 ### At anvende magi
 
