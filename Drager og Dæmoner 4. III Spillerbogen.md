@@ -52,15 +52,40 @@ Besværgelser fungerer som normale færdigheder og hver enkelt besværgelse tæl
 Navne på besværgelser og ritualer er altid skrevet med STORE BOGSTAVER.
 
 #### Tid og magi
+De fleste besværgelser tager en KR at kaste. Magikeren skal udføre visse gestikuleringer og sige bestemte kraftfulde ord. Dette betyder, at hvis magikerens spiller siger, at han kaster besværgelsen i en KR, vil konsekvenserne af den vellykkede besværgelse opstå i den næste KR. Der er dog nogle besværgelser, der virker umiddelbart i den samme KR, som de bliver kastet. De er specielt markeret med bogstavet K (=Kvik). Når man bestemmer initiativrækkefølgen i kamp, ​​kommer magi før andre kamphandlinger. Initiativrækkefølgen magikere imellem afgøres af hvem der har den højeste PSY efter at kamprundens besværgelser er kastet, får deres besværgelse kastet først.
 
-
-
+Ritualer er så omfattende og tidskrævende, at de aldrig vil være relevante at bruge i kamp.
 
 #### Forskellige styrker magi
+Magikeren vælger selv hvor stærke magiske kræfter han vil bruge i en besværgelse. Alle besværgelser kan kastes med forskellige effektgrader, jo højere grad af effekt, jo stærkere er den magiske ladning. Præcis hvilken effekt besværgelsen har ved forskellige effektniveauer er angivet ved den respektive besværgelse. Besværgelser bliver sværere og sværere at kaste med succes, jo højere dens effektgrad. Det maksimale effektgrad, en magiker kan bruge, er lig med hans FV i magiskolen. Derudover reduceres CL med 2 for hver effektgrad ud over den første.
+
+==Eksempel: En troldmand, der har FV 12 i at kaste besværgelsen ILD, vil have en CL på 12 for at lykkes med ILD effektgrad 1, men har kun CL 10 for at lykkes med at kaste ILD effektgrad 2, CL 8 for effektgrad 3 osv.==
+
+Effekt er forkortet med bogstavet E. LYN E5 betyder altså besværgelsen LYN med effektgrad 5.
 
 #### Magi og PSY
 
+
+
 ##### Hvordan man får PSY-point igen
+
+#### Selvmordsangreb med magi
+
+#### Magisk modstand
+
+#### Fysiske besværgelser
+
+#### Skoleværdi
+
+#### Indlæring af besværgelser
+
+#### Magikerens formelsamling
+
+#### Magiske Skriftruller
+
+#### Ritualer
+
+### Hvordan man læser besværgelserne
 
 
 # Besværgelser
