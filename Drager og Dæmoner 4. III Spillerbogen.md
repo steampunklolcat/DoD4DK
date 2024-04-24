@@ -64,12 +64,14 @@ Magikeren vælger selv hvor stærke magiske kræfter han vil bruge i en besværg
 Effekt er forkortet med bogstavet E. LYN E5 betyder altså besværgelsen LYN med effektgrad 5.
 
 #### Magi og PSY
-
-
+Når en troldmand kaster en besværgelse, henter han kraften fra sin sjæl og bruger denne energi til at påvirke virkeligheden. Inden han kaster besværgelsen, skal han beslutte hvilken effektgrad den skal have. Magikeren skal bruge et PSY-point for hver effektgrad, så hvis magikeren kaster ILD E3, mister han 3 PSY-point. Bemærk, at der altid bruges et (1) PSY-point, selvom han fejler med at kaste besværgelsen. Hvis en magiker laver et perfekt slag når han kaster en besværgelse, bruger den kun halvt så mange PSY-point som normalt. Rund ned til fordel for magikeren, en besværgelse bruger dog altid mindst ét ​​PSY-point. Hvis magikeren fumler med en besværgelse er den fejltændt, og han skal slå på fejltændingstabellen. Han mister også al den PSY, besværgelsen ville have kostet, hvis den var lykkedes. Hvis magikeren kun mislykkedes med at kaste besværgelsen, har den ingen effekt, og han mister kun et PSY-point. Hvis du kommer til skade, mens du kaster en besværgelse, er din koncentration brudt. Dette fungerer som et almindeligt mislykkedes slag. Magikeren mister et PSY-point og besværgelsen har ingen effekt. Hvis en magiker bliver dræbt, mens han kaster magi sker der ingenting.
 
 ##### Hvordan man får PSY-point igen
+PSY-point kommer igen med en hastighed på et point pr. times fuldstændig hvile, eller et point pr. tre timer, hvis personen deltager i fysisk aktivitet. Ind i mellem står der, at PSY-pointene er permanent tabt og så kommer de ikke igen på ovenstående vis.
 
 #### Selvmordsangreb med magi
+
+
 
 #### Magisk modstand
 
